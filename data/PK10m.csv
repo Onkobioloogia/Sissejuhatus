@@ -1,0 +1,2044 @@
+"2000"	"Kõik paikmed (C00-C97)"	"Mehed"	6	5	6	4	13	17	15	39	70	114	195	321	453	528	576	317	133	106
+"2000"	"Kõik paikmed (C00-C97)"	"Naised"	8	1	8	9	12	23	37	79	113	155	236	301	397	400	510	412	201	212
+"2000"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	6	5	6	4	13	16	14	32	67	105	175	292	417	480	531	276	113	89
+"2000"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	8	1	8	9	12	21	34	69	107	144	211	277	348	345	440	343	171	173
+"2000"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	0	0	1	7	13	16	20	17	19	15	1	2	3
+"2000"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	1	0	0	0	0	0	1	1	3	1	2	3	2	7	6	4	5	6
+"2000"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	1	2	4	4	0	1	1
+"2000"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	4	1	2	0	3
+"2000"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	0	2	2	2	4	2	2	3	0	0	2
+"2000"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	1	0	2	2	0	0	2
+"2000"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	0	0	1	2	2	4	5	3	4	2	0	1	0
+"2000"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	1	2	0
+"2000"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	0	0	0	2	1	0	0	2	1	0	1	0	0
+"2000"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	0	1	1	1	1	0	0	1	1	1	0	2	0
+"2000"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	0	0	0	5	8	7	4	3	4	0	0	0
+"2000"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	0	1	0	1	1	0	0	1	0	0	1
+"2000"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+"2000"	"..Ninaneel (C11)"	"Naised"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+"2000"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	1	3	3	4	2	0	0	0
+"2000"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+"2000"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"Seedeelundid (C15-C26)"	"Mehed"	1	0	0	0	1	1	4	6	14	34	54	77	137	144	164	94	33	27
+"2000"	"Seedeelundid (C15-C26)"	"Naised"	0	0	0	0	1	1	2	15	18	24	33	52	93	105	141	134	65	67
+"2000"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	0	3	4	3	10	7	2	7	9	0	3
+"2000"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	1	1	0	2	3	1	0
+"2000"	"..Magu (C16)"	"Mehed"	0	0	0	0	1	0	1	4	2	16	22	25	51	61	44	31	8	7
+"2000"	"..Magu (C16)"	"Naised"	0	0	0	0	0	1	1	8	6	16	10	14	23	30	42	30	22	16
+"2000"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	2	1	0	1	0	0	0
+"2000"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	1	1	2	0	0	0
+"2000"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	0	0	1	0	3	5	10	12	27	26	46	21	14	6
+"2000"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	0	1	3	4	2	10	12	27	33	47	40	17	21
+"2000"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	1	0	1	1	3	9	13	24	25	37	19	8	5
+"2000"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	0	3	7	3	5	9	19	18	21	34	11	16
+"2000"	"..Maks jm (C22)"	"Mehed"	1	0	0	0	0	0	0	0	1	1	1	6	10	7	8	3	1	0
+"2000"	"..Maks jm (C22)"	"Naised"	0	0	0	0	0	0	0	0	0	0	2	4	3	4	3	2	1	4
+"2000"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	1	1	1	3	1	1	1	1
+"2000"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	3	6	6	5	7	2	3
+"2000"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	2	1	3	5	8	8	16	19	20	10	0	5
+"2000"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	0	1	1	2	5	8	13	13	19	18	11	7
+"2000"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+"2000"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	0	1	1	0	5	8	23	50	98	117	141	138	66	18	5
+"2000"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	1	0	1	2	3	6	10	19	19	20	38	40	12	9
+"2000"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	1	0	0	1	0	1	0	2	1	3	1	0	0	0
+"2000"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	0	1	0	1	0	0	3	0	1	0	1
+"2000"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	0	1	3	6	9	14	16	12	8	2	1	0
+"2000"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	1	0	0
+"2000"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	0	1	0	3	5	16	40	81	100	124	127	64	17	5
+"2000"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	1	0	1	2	2	5	9	18	16	17	37	38	12	7
+"2000"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0
+"2000"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+"2000"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0
+"2000"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2000"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	1	2	1	2	0	0	0	1	0	1	1	0	0	0	0	0	0
+"2000"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0
+"2000"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	0	1	0	3	1	6	1	4	0	7	3	5	3	3	1
+"2000"	"Nahk (melanoom) (C43)"	"Naised"	0	0	1	2	2	2	3	7	4	5	3	5	11	7	9	8	3	8
+"2000"	"Nahk (muu) (C44)"	"Mehed"	0	0	0	0	0	1	1	7	3	9	20	29	36	48	45	41	20	17
+"2000"	"Nahk (muu) (C44)"	"Naised"	0	0	0	0	0	2	3	10	6	11	25	24	49	55	70	69	30	39
+"2000"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	1	0	0	1	0	1	1	2	0	3	1	3	2	1	5	0	0	3
+"2000"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	2	0	1	3	0	0	0	0	1	1	2	3	4	2	5	4	2	3
+"2000"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	2	0	1	0	1	1	1
+"2000"	"Rind (C50)"	"Naised"	0	0	0	0	0	1	8	15	42	47	66	63	72	61	84	44	23	13
+"2000"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"Naissuguelundid (C51-C58)"	"Naised"	1	0	0	0	3	7	9	22	23	39	56	74	84	70	54	40	25	34
+"2000"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	0	0	0	4	6	6	4	6	6	3	6
+"2000"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Emakakael (C53)"	"Naised"	0	0	0	0	3	3	8	14	10	24	21	21	15	17	11	7	3	7
+"2000"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	0	1	3	6	5	19	28	36	29	24	15	6	11
+"2000"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+"2000"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Munasari (C56)"	"Naised"	1	0	0	0	0	3	0	5	7	9	12	18	23	19	12	12	11	8
+"2000"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	1	4	1	1	0	1	1
+"2000"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Platsenta (C58)"	"Naised"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"Meessuguelundid (C60-C63)"	"Mehed"	1	0	0	0	1	4	3	1	4	1	9	23	46	80	108	55	33	27
+"2000"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	0	2	1	2	0	1	1	1
+"2000"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	9	21	45	78	108	54	32	26
+"2000"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Munand (C62)"	"Mehed"	1	0	0	0	1	4	3	1	2	0	0	0	0	0	0	0	0	0
+"2000"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"Kuseelundid (C64-C68)"	"Mehed"	0	0	0	0	0	2	0	6	13	14	17	37	43	59	57	31	14	12
+"2000"	"Kuseelundid (C64-C68)"	"Naised"	1	0	0	0	0	0	0	0	2	3	10	21	14	21	38	27	10	13
+"2000"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	0	0	0	0	0	1	0	5	9	12	13	22	22	25	25	9	3	4
+"2000"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	1	0	0	0	0	0	0	0	0	3	9	17	11	14	21	17	4	4
+"2000"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0
+"2000"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+"2000"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	1	0	1	4	2	3	15	20	33	31	22	10	8
+"2000"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	0	0	2	0	1	4	3	7	15	10	6	9
+"2000"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+"2000"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"Silm (C69)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	4	1	2	0	1	0
+"2000"	"Silm (C69)"	"Naised"	0	0	0	0	0	1	0	0	0	1	1	0	1	0	2	0	0	0
+"2000"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	0	2	0	0	1	2	0	2	5	2	6	4	6	4	2	0	0	0
+"2000"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	1	0	2	0	2	1	1	2	2	2	3	8	6	5	3	1	1	0
+"2000"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2000"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"2000"	"..Peaaju (C71)"	"Mehed"	0	2	0	0	1	1	0	2	5	2	6	4	5	4	2	0	0	0
+"2000"	"..Peaaju (C71)"	"Naised"	1	0	2	0	2	1	1	2	2	2	2	8	6	4	3	1	1	0
+"2000"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2000"	"Kilpnääre (C73)"	"Mehed"	0	0	0	0	0	1	0	1	0	0	2	0	2	3	0	1	0	0
+"2000"	"Kilpnääre (C73)"	"Naised"	0	0	0	2	0	3	3	3	2	6	6	8	10	7	5	5	1	2
+"2000"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+"2000"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	0	1	0	0	0	0	1	0	2	1	1	0	0
+"2000"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	0	1	0	1	1	2	3	4	9	7	7	12	8	2	4
+"2000"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	0	0	0	3	5	8	7	11	11	10	7	9
+"2000"	"Hodgkini tõbi (C81)"	"Mehed"	0	0	1	2	4	1	0	2	0	0	1	2	2	0	0	0	0	0
+"2000"	"Hodgkini tõbi (C81)"	"Naised"	0	0	0	2	3	2	2	0	1	0	0	0	2	2	2	0	2	0
+"2000"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	2	0	2	0	0	1	1	1	4	4	4	9	12	6	11	5	1	2
+"2000"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	1	1	0	0	2	2	0	4	4	3	5	10	10	7	12	5	2
+"2000"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+"2000"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0
+"2000"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	0	4	6	2	1	2	0	0
+"2000"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	0	2	0	1	2	6	4	8	6	3	0
+"2000"	"Leukeemia (C91-C95)"	"Mehed"	1	2	1	0	0	2	1	3	1	6	5	2	9	9	9	9	4	4
+"2000"	"Leukeemia (C91-C95)"	"Naised"	2	0	3	0	0	1	0	2	0	1	10	5	6	11	23	7	7	7
+"2000"	"Lümfoidleukeemia (C91)"	"Mehed"	1	2	1	0	0	0	0	0	0	4	3	2	3	6	4	5	3	1
+"2000"	"Lümfoidleukeemia (C91)"	"Naised"	2	0	2	0	0	1	0	2	0	1	6	3	3	6	11	5	3	7
+"2000"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"2000"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	2	0	2	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0
+"2000"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	0	0	3	3	2	2	6	4	4	2	0
+"2000"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	0	1	5	3	3	6	8	5	2	5
+"2000"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	1
+"2000"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	0	1	2
+"2000"	"Müeloidleukeemia (C92)"	"Mehed"	0	0	0	0	0	2	1	3	1	2	2	0	6	3	4	4	0	3
+"2000"	"Müeloidleukeemia (C92)"	"Naised"	0	0	1	0	0	0	0	0	0	0	4	2	3	5	9	2	2	0
+"2000"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	0	0	0	0	1	1	2	0	1	1	0	1	2	1	4	0	3
+"2000"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	0	0	1	0	0	0	0	0	0	0	3	1	1	3	7	0	1	0
+"2000"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	0	0	1	0	1	0	1	1	0	4	1	3	0	0	0
+"2000"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	2	1	1	2	1	0
+"2000"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+"2000"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+"2000"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+"2000"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	2	0
+"2000"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2000"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"Kõik paikmed (C00-C97)"	"Mehed"	7	2	7	16	11	23	23	37	60	129	220	256	446	553	590	360	150	84
+"2001"	"Kõik paikmed (C00-C97)"	"Naised"	7	5	7	7	15	28	32	55	118	174	274	268	384	475	544	455	221	191
+"2001"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	7	2	7	16	11	22	19	31	54	121	198	236	394	507	535	318	126	74
+"2001"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	7	5	7	7	14	26	28	52	111	154	248	234	322	402	448	377	175	154
+"2001"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	0	0	2	1	6	21	27	18	20	10	5	2	2
+"2001"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	1	0	0	0	0	0	0	1	5	5	4	9	10	6	8	4
+"2001"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	1	2	3	1	1	0	2
+"2001"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	2	0	3	1	4	0
+"2001"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	4	7	5	3	3	1	0	0
+"2001"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	0	0	1	3	1	2	1	4	2	2	1
+"2001"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	0	0	1	0	1	8	4	2	6	2	2	1	0
+"2001"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	0	0	0	2	1	0	4	1	1	0	0
+"2001"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	2	2	1	1	1	1	1	0
+"2001"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	1	0	0	0	0	0	0	0	0	2	0	4	0	2	1	2
+"2001"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	0	1	0	1	3	7	3	3	2	0	0	0
+"2001"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	1
+"2001"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2001"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	3	6	3	4	0	0	0	0
+"2001"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	1	0	2	0	1	0	0	0
+"2001"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"Seedeelundid (C15-C26)"	"Mehed"	0	0	0	1	1	0	3	11	27	27	60	59	114	147	148	80	34	19
+"2001"	"Seedeelundid (C15-C26)"	"Naised"	1	0	0	0	0	1	3	3	11	17	45	45	70	113	157	136	51	57
+"2001"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	5	4	8	17	6	1	0	2
+"2001"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	6	1	2	1	0
+"2001"	"..Magu (C16)"	"Mehed"	0	0	0	0	1	0	0	7	9	9	23	23	28	43	40	24	12	7
+"2001"	"..Magu (C16)"	"Naised"	0	0	0	0	0	0	2	2	2	3	20	10	14	23	33	31	14	14
+"2001"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0
+"2001"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	1	1	1
+"2001"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	0	0	1	2	6	5	15	7	23	39	49	28	8	3
+"2001"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	0	0	0	7	5	8	20	23	33	61	55	11	14
+"2001"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	0	0	0	2	2	4	13	28	19	26	11	8	3
+"2001"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	0	1	0	3	12	6	18	20	32	19	11	12
+"2001"	"..Maks jm (C22)"	"Mehed"	0	0	0	1	0	0	0	1	2	0	3	1	9	5	5	9	2	2
+"2001"	"..Maks jm (C22)"	"Naised"	1	0	0	0	0	1	0	0	0	1	0	2	6	6	5	5	2	2
+"2001"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	2	3	1	3	5	1	1	0
+"2001"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	1	0	2	0	0	11	3	2	3	3
+"2001"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	1	1	7	8	8	7	17	21	17	6	3	2
+"2001"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	0	0	1	5	2	7	8	13	21	21	8	11
+"2001"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2001"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	0	0	1	0	3	10	38	55	77	107	151	139	82	23	14
+"2001"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	0	0	0	1	1	1	13	16	20	17	36	28	15	7
+"2001"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	1	0	0	0	1	0	1	1	1	0	0	0	0
+"2001"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0
+"2001"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	0	0	1	6	14	7	9	12	3	5	1	2
+"2001"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	0	0	2	1	3	0	0	0	0	0
+"2001"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	0	0	0	3	9	31	40	68	97	138	136	76	22	12
+"2001"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	0	0	1	1	1	11	15	16	15	36	25	14	7
+"2001"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+"2001"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0
+"2001"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"2001"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	0	0	1	1	2	1	1	0	0	1	0	0	0	1	0	0	0
+"2001"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	2	1	1	0	1	1	0	0	0	0	0	0	1	0	2	0	0
+"2001"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	1	0	3	1	2	4	4	2	5	5	4	6	2	1	3
+"2001"	"Nahk (melanoom) (C43)"	"Naised"	0	0	0	1	2	3	3	1	5	3	6	12	9	14	10	10	3	4
+"2001"	"Nahk (muu) (C44)"	"Mehed"	0	0	0	0	0	1	4	6	6	8	22	20	52	46	55	42	24	10
+"2001"	"Nahk (muu) (C44)"	"Naised"	0	0	0	0	1	2	4	3	7	20	26	34	62	73	96	78	46	37
+"2001"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	2	0	0	0	0	4	1	1	0	0	6	0	5	1	6	2	1	0
+"2001"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	2	0	1	1	0	0	0	2	0	2	0	1	1	6	3	3	3	0
+"2001"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+"2001"	"Rind (C50)"	"Naised"	0	0	0	0	0	0	8	20	42	55	84	63	85	74	64	47	25	22
+"2001"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	1	1	1	7	7	14	34	47	60	55	81	86	87	54	28	26
+"2001"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	0	2	2	3	5	2	8	12	9	5	7
+"2001"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Emakakael (C53)"	"Naised"	0	0	0	0	0	6	7	10	21	21	15	15	14	13	18	7	4	3
+"2001"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	0	0	1	6	8	30	23	38	36	29	18	9	6
+"2001"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+"2001"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Munasari (C56)"	"Naised"	0	0	1	1	1	1	0	3	5	16	12	12	27	29	26	18	10	8
+"2001"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	1
+"2001"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Platsenta (C58)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"Meessuguelundid (C60-C63)"	"Mehed"	0	0	0	2	3	5	5	3	3	4	12	23	63	78	119	89	39	16
+"2001"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	1	1	0	1	1	2	1	0	0	0	0
+"2001"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	0	4	11	22	61	77	118	89	39	16
+"2001"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Munand (C62)"	"Mehed"	0	0	0	2	3	5	5	2	2	0	0	0	0	0	1	0	0	0
+"2001"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"Kuseelundid (C64-C68)"	"Mehed"	2	1	0	0	0	1	2	2	4	17	16	27	37	56	58	26	15	10
+"2001"	"Kuseelundid (C64-C68)"	"Naised"	0	0	0	0	0	0	1	1	2	6	6	11	23	21	28	31	12	13
+"2001"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	2	1	0	0	0	1	1	1	1	13	14	16	20	28	24	8	4	0
+"2001"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	0	0	0	0	0	0	1	1	1	5	6	8	16	16	15	19	4	5
+"2001"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+"2001"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0
+"2001"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	0	1	1	3	4	2	11	17	26	34	18	11	10
+"2001"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	0	0	1	1	0	2	7	5	12	11	8	8
+"2001"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2001"	"Silm (C69)"	"Mehed"	0	0	1	0	0	0	0	0	0	1	0	1	1	1	1	2	0	0
+"2001"	"Silm (C69)"	"Naised"	1	0	0	0	0	0	0	0	0	1	1	0	1	2	1	1	0	0
+"2001"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	1	1	2	2	1	3	3	1	2	7	7	2	5	9	2	2	0	0
+"2001"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	1	1	1	0	2	2	1	3	2	4	9	4	4	7	4	5	1	0
+"2001"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"2001"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2001"	"..Peaaju (C71)"	"Mehed"	1	1	2	2	1	3	3	1	2	5	7	2	5	9	2	2	0	0
+"2001"	"..Peaaju (C71)"	"Naised"	1	1	1	0	1	1	1	3	1	4	9	4	3	7	4	4	1	0
+"2001"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"2001"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	1	0	0
+"2001"	"Kilpnääre (C73)"	"Mehed"	0	0	0	0	0	0	0	1	0	0	1	0	1	0	2	0	0	1
+"2001"	"Kilpnääre (C73)"	"Naised"	0	0	1	0	1	3	0	3	6	7	3	8	4	10	4	3	1	1
+"2001"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	0	1	0	1	1	0	0	0	0	0	0	1	1	0	0	0	0
+"2001"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+"2001"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	0	0	0	0	1	1	6	6	5	15	12	12	10	6	3
+"2001"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	0	0	0	1	4	3	8	8	14	11	11	8
+"2001"	"Hodgkini tõbi (C81)"	"Mehed"	0	0	0	6	2	2	2	0	0	1	0	0	0	0	1	0	0	0
+"2001"	"Hodgkini tõbi (C81)"	"Naised"	0	0	0	1	7	5	2	0	1	0	2	0	1	1	1	0	0	1
+"2001"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	1	0	2	1	1	0	0	1	0	5	1	3	11	14	11	8	4	2
+"2001"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	1	0	1	0	1	2	3	3	5	4	2	2	12	10	13	10	5
+"2001"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1
+"2001"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0
+"2001"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	1	1	0	4	7	2	1	1
+"2001"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	0	0	1	1	5	2	11	3	6	0	1
+"2001"	"Leukeemia (C91-C95)"	"Mehed"	1	0	1	2	1	0	1	2	1	4	8	6	9	9	12	7	0	2
+"2001"	"Leukeemia (C91-C95)"	"Naised"	2	1	1	1	1	2	0	1	4	3	5	3	5	10	14	20	7	5
+"2001"	"Lümfoidleukeemia (C91)"	"Mehed"	0	0	1	2	0	0	0	2	0	2	4	4	8	5	7	2	0	1
+"2001"	"Lümfoidleukeemia (C91)"	"Naised"	2	1	0	1	0	0	0	0	1	2	3	2	4	7	8	8	5	2
+"2001"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	0	0	1	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"2001"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	2	1	0	1	0	0	0	0	0	0	1	0	0	1	0	2	0	0
+"2001"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	4	4	7	5	7	1	0	1
+"2001"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	0	2	1	2	4	6	8	6	5	2
+"2001"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	1	0	0
+"2001"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+"2001"	"Müeloidleukeemia (C92)"	"Mehed"	0	0	0	0	1	0	1	0	1	2	4	2	1	4	4	5	0	1
+"2001"	"Müeloidleukeemia (C92)"	"Naised"	0	0	1	0	1	1	0	1	3	1	2	1	1	3	6	11	2	3
+"2001"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	0	0	0	0	0	1	0	0	1	2	1	0	4	2	3	0	1
+"2001"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	0	0	0	0	0	1	0	0	1	1	0	1	1	1	4	6	2	2
+"2001"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	1	1	1	0	1	1	0	0
+"2001"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	0	0	2	0	1	0	0	1	1	4	0	0
+"2001"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	0
+"2001"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	1	0	1	0	0	1	0	0	1	0	0	1	1	1	0	1
+"2001"	"Leukeemia (muu) (C93-C95)"	"Mehed"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2001"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0
+"2001"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2001"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"Kõik paikmed (C00-C97)"	"Mehed"	7	4	5	13	16	16	13	31	58	107	198	270	461	544	600	375	193	96
+"2002"	"Kõik paikmed (C00-C97)"	"Naised"	2	3	8	9	8	19	27	57	119	201	249	254	377	422	499	447	218	192
+"2002"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	7	4	5	13	15	14	12	30	51	96	179	245	430	511	549	335	163	79
+"2002"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	2	3	8	9	8	19	26	49	108	192	222	213	325	350	436	368	181	163
+"2002"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	1	1	0	1	4	16	14	25	12	13	7	4	0
+"2002"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	0	0	0	1	1	3	0	5	5	7	2	3	2	1
+"2002"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	2	0	1	0	4	1	2	0
+"2002"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0
+"2002"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	1	0	0	0	2	4	9	3	1	2	0	0
+"2002"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0
+"2002"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	5	4	5	3	3	2	1	0
+"2002"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	2	1	1	1	2	0	0
+"2002"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	1	0	0	0	0	1	0	1	2	2	0	0	0
+"2002"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	0	0	0	1	1	0	1	1	2	0	0	2	1
+"2002"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	0	0	0	3	4	4	5	3	2	1	1	0
+"2002"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+"2002"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+"2002"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	2	2	4	0	0	1	0	0
+"2002"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2002"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"2002"	"Seedeelundid (C15-C26)"	"Mehed"	0	0	0	0	0	0	2	9	10	28	39	66	124	147	142	104	38	20
+"2002"	"Seedeelundid (C15-C26)"	"Naised"	0	2	0	0	1	1	4	2	16	30	34	43	84	111	144	143	78	79
+"2002"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	1	0	4	2	5	8	13	7	4	1	0
+"2002"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	2	1
+"2002"	"..Magu (C16)"	"Mehed"	0	0	0	0	0	0	0	2	7	14	14	16	38	44	42	27	14	7
+"2002"	"..Magu (C16)"	"Naised"	0	0	0	0	1	1	3	0	5	10	9	14	21	28	29	36	23	15
+"2002"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	1	0	2	1	1	1	0	0
+"2002"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	0	3	1	1	1	2	1	2	1	0
+"2002"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	0	0	0	1	1	3	7	17	24	33	43	33	13	5
+"2002"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	0	0	2	8	8	14	13	22	40	53	40	24	30
+"2002"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	0	0	3	0	4	2	14	22	27	27	21	6	6
+"2002"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	0	0	3	5	7	6	14	20	36	21	11	12
+"2002"	"..Maks jm (C22)"	"Mehed"	0	0	0	0	0	0	1	1	0	0	3	2	5	5	9	3	0	2
+"2002"	"..Maks jm (C22)"	"Naised"	0	2	0	0	0	0	1	0	0	1	0	1	4	5	6	12	4	3
+"2002"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	1	0	0	0	0	2	2	5	3	3	2	0
+"2002"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	3	7	5	4	9	1	5
+"2002"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	0	1	1	3	9	10	23	19	10	10	2	0
+"2002"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	0	0	0	3	3	3	15	11	12	22	11	12
+"2002"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	0
+"2002"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1
+"2002"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	0	3	2	0	5	10	29	55	76	131	144	149	73	25	12
+"2002"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	0	0	0	1	3	9	12	13	12	28	29	24	14	10
+"2002"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	1	0	0	0	0	0	1	5	1	1	1	0	0
+"2002"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	1	1	0
+"2002"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	0	2	4	7	5	11	11	17	13	3	2	0
+"2002"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	0	0
+"2002"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	1	0	0	3	6	22	50	64	115	126	134	69	23	11
+"2002"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	0	0	1	3	8	11	13	12	24	27	21	13	10
+"2002"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	0	2	1	0	0	0	0	0	0	0	0	0	0	0	1
+"2002"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2002"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2002"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2002"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	0	0	4	1	0	0	0	1	0	1	2	1	2	0	0	0	0
+"2002"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	3	0	0
+"2002"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	0	0	0	2	2	1	3	5	10	6	7	4	1	2	2
+"2002"	"Nahk (melanoom) (C43)"	"Naised"	0	0	1	1	0	2	4	2	6	6	6	3	7	11	8	12	4	3
+"2002"	"Nahk (muu) (C44)"	"Mehed"	0	0	0	0	1	2	1	1	7	11	19	25	31	33	51	40	30	17
+"2002"	"Nahk (muu) (C44)"	"Naised"	0	0	0	0	0	0	1	8	11	9	27	41	52	72	63	79	37	29
+"2002"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	0	0	0	0	2	1	1	1	3	0	2	1	1	2	2	2	0	0
+"2002"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	0	0	0	1	0	0	0	1	0	2	4	2	4	1	3	3	1	1
+"2002"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	1	0
+"2002"	"Rind (C50)"	"Naised"	0	0	0	0	0	1	3	15	41	81	70	67	80	68	85	58	19	21
+"2002"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	2	0	3	9	7	21	30	42	66	48	68	61	75	61	25	19
+"2002"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	0	1	0	2	0	4	4	5	8	3	8
+"2002"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Emakakael (C53)"	"Naised"	0	0	0	0	1	7	6	15	21	18	13	18	13	14	14	14	2	0
+"2002"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	1	0	5	3	12	31	19	26	25	33	19	13	4
+"2002"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1
+"2002"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Munasari (C56)"	"Naised"	0	0	2	0	0	1	1	1	5	12	16	9	24	18	21	20	6	6
+"2002"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	0	0	0	3	2	1	0	1	0	1	0
+"2002"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Platsenta (C58)"	"Naised"	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"Meessuguelundid (C60-C63)"	"Mehed"	1	0	0	1	2	8	3	1	2	4	14	29	56	82	127	82	49	24
+"2002"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	2	2	0	1	0	0	0	0
+"2002"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	11	27	56	81	127	82	49	24
+"2002"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Munand (C62)"	"Mehed"	0	0	0	1	2	8	3	1	2	2	1	0	0	0	0	0	0	0
+"2002"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Meessuguelundid (muu) (C63)"	"Mehed"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"Kuseelundid (C64-C68)"	"Mehed"	1	0	0	0	0	1	0	5	7	15	31	22	36	52	63	31	26	14
+"2002"	"Kuseelundid (C64-C68)"	"Naised"	0	0	0	0	0	0	1	1	3	3	8	9	20	20	31	27	12	14
+"2002"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	1	0	0	0	0	0	0	1	4	10	23	12	21	28	19	10	5	2
+"2002"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	0	0	0	0	0	0	1	1	2	3	7	8	15	13	19	14	8	3
+"2002"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1
+"2002"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	1	0	4	3	5	8	10	14	24	44	21	21	12
+"2002"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	1	4	7	12	12	4	10
+"2002"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2002"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2002"	"Silm (C69)"	"Mehed"	0	0	0	0	0	0	1	0	1	0	0	1	2	0	2	1	2	0
+"2002"	"Silm (C69)"	"Naised"	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	0	1
+"2002"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	2	1	3	1	2	0	1	2	3	4	2	3	5	4	8	1	4	1
+"2002"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	0	0	0	2	0	1	0	0	2	1	3	6	9	6	6	2	2	0
+"2002"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"2002"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0
+"2002"	"..Peaaju (C71)"	"Mehed"	2	1	3	1	2	0	1	2	2	4	2	3	5	4	7	1	4	1
+"2002"	"..Peaaju (C71)"	"Naised"	0	0	0	2	0	1	0	0	2	1	2	5	8	5	4	2	2	0
+"2002"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2002"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0
+"2002"	"Kilpnääre (C73)"	"Mehed"	0	0	0	0	0	0	0	1	3	0	0	2	2	3	2	0	0	0
+"2002"	"Kilpnääre (C73)"	"Naised"	0	0	1	0	1	1	2	0	1	3	7	4	6	10	2	7	1	1
+"2002"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+"2002"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	1	0	0	0	0	2	3	4	6	15	19	7	6	4	2
+"2002"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	0	0	3	0	2	4	5	5	12	6	7	3
+"2002"	"Hodgkini tõbi (C81)"	"Mehed"	0	0	0	3	3	0	1	1	0	0	0	1	0	1	0	0	0	0
+"2002"	"Hodgkini tõbi (C81)"	"Naised"	0	0	0	4	2	3	3	2	0	2	0	0	1	1	1	0	0	0
+"2002"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	0	0	0	0	1	1	0	1	3	2	4	6	7	12	11	8	2	2
+"2002"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	0	0	0	0	1	1	2	1	3	3	5	12	4	12	8	4	4
+"2002"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2002"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0
+"2002"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	3	3	7	4	6	2	0	0
+"2002"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	1	0	3	2	2	2	3	8	3	4	1
+"2002"	"Leukeemia (C91-C95)"	"Mehed"	3	3	2	3	1	0	0	2	4	2	3	3	12	20	11	17	6	2
+"2002"	"Leukeemia (C91-C95)"	"Naised"	0	1	3	1	1	0	0	0	1	4	3	1	9	12	17	6	8	4
+"2002"	"Lümfoidleukeemia (C91)"	"Mehed"	2	1	1	2	1	0	0	0	2	1	2	2	9	9	6	7	0	2
+"2002"	"Lümfoidleukeemia (C91)"	"Naised"	0	1	1	0	0	0	0	0	1	2	1	1	5	6	6	2	5	3
+"2002"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	2	1	1	2	1	0	0	0	1	1	0	0	1	0	0	0	0	0
+"2002"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+"2002"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	2	2	6	8	5	6	0	2
+"2002"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	0	2	1	1	5	6	6	2	4	3
+"2002"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	0	0
+"2002"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"Müeloidleukeemia (C92)"	"Mehed"	1	2	1	1	0	0	0	2	2	1	1	1	3	10	5	9	5	0
+"2002"	"Müeloidleukeemia (C92)"	"Naised"	0	0	2	1	1	0	0	0	0	2	1	0	3	6	10	4	3	1
+"2002"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	0	1	1	0	0	0	1	0	1	0	0	2	4	2	3	2	0
+"2002"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	0	0	2	1	0	0	0	0	0	1	1	0	2	5	6	3	2	0
+"2002"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	1	1	0	0	0	0	0	1	2	0	0	0	1	5	1	6	1	0
+"2002"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	1	0	2	1	1	1
+"2002"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	1	0	0	0	0	0	0	0	0	1	1	0	1	2	0	2	0
+"2002"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	0	0	1	0	0	0	0	0	0	0	0	1	2	0	0	0
+"2002"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0
+"2002"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0
+"2002"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2002"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"Kõik paikmed (C00-C97)"	"Mehed"	5	3	3	12	9	14	17	32	64	96	206	277	450	566	635	451	196	95
+"2003"	"Kõik paikmed (C00-C97)"	"Naised"	8	4	3	4	20	19	37	49	120	183	241	257	361	434	503	515	297	186
+"2003"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	5	3	3	12	9	13	15	28	61	88	193	264	427	524	576	408	177	85
+"2003"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	8	4	2	4	19	19	36	46	111	165	222	223	317	376	421	421	235	151
+"2003"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	0	0	5	2	7	13	10	29	16	18	10	4	2
+"2003"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	0	0	0	2	3	2	5	1	2	6	4	8	5	2
+"2003"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	3	3	3	4	1	1
+"2003"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	2	0
+"2003"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	1	4	8	6	4	1	0	0
+"2003"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	1	1	0	0	1	0	2	0	1	2	0
+"2003"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	0	0	1	0	3	2	2	2	3	3	2	0	0
+"2003"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	0	0	1	3	0	2	3	1	4	0	0
+"2003"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	0	0	1	0	0	0	1	3	0	2	2	1	1
+"2003"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	0	0	1	1	1	1	0	0	1	2	0	1	0
+"2003"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	0	2	0	1	5	1	8	1	5	0	0	0
+"2003"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2003"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	0	1	0	0	1	0	1	0	1	0	0	0
+"2003"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	2
+"2003"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	4	2	4	3	0	1	1	0
+"2003"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+"2003"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"Seedeelundid (C15-C26)"	"Mehed"	0	0	0	0	0	3	1	4	15	24	48	86	128	147	137	103	51	25
+"2003"	"Seedeelundid (C15-C26)"	"Naised"	1	0	0	0	0	2	1	4	14	16	25	31	79	111	144	156	91	63
+"2003"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	1	0	0	2	6	6	11	5	3	2	1	1
+"2003"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	6	2	0
+"2003"	"..Magu (C16)"	"Mehed"	0	0	0	0	0	0	0	1	10	7	17	31	39	42	36	30	22	6
+"2003"	"..Magu (C16)"	"Naised"	0	0	0	0	0	1	1	2	7	7	11	9	26	23	33	39	20	17
+"2003"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	2	1	3	2	0	2	0	0
+"2003"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+"2003"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	0	0	0	1	1	5	6	17	11	39	39	27	12	4
+"2003"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	0	0	0	3	7	6	9	27	36	49	40	27	16
+"2003"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	3	0	1	1	4	3	13	31	32	29	22	9	6
+"2003"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	1	0	1	1	1	6	5	14	17	28	39	22	13
+"2003"	"..Maks jm (C22)"	"Mehed"	0	0	0	0	0	0	0	0	2	0	3	1	11	9	5	4	0	0
+"2003"	"..Maks jm (C22)"	"Naised"	1	0	0	0	0	0	0	0	1	1	0	2	3	4	6	9	4	3
+"2003"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	2	1	1	4	4	3	1
+"2003"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	2	9	7	6	4	1
+"2003"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	0	1	1	5	11	14	21	17	21	12	4	7
+"2003"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	0	1	1	0	2	5	5	19	19	17	11	13
+"2003"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"2003"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"2003"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	0	1	1	3	2	10	24	52	72	103	122	137	93	31	15
+"2003"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	0	0	1	0	3	6	11	14	20	14	26	42	17	5
+"2003"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	1	2	0	0	0	0
+"2003"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"2003"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	0	0	1	4	7	8	6	6	9	3	3	0
+"2003"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	0	1	2	1	1	2	1	1	1	0
+"2003"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	0	1	3	2	9	19	44	64	96	113	128	90	28	15
+"2003"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	0	0	0	3	5	8	13	19	12	25	41	15	5
+"2003"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0
+"2003"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+"2003"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	0	0	1	1	0	0	1	1	0	0	0	1	2	3	0	0	0
+"2003"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	0	0	0	0	2	4	4	6	5	2	7	9	8	0	1
+"2003"	"Nahk (melanoom) (C43)"	"Naised"	0	0	0	1	3	1	1	1	5	5	5	1	7	8	17	8	2	6
+"2003"	"Nahk (muu) (C44)"	"Mehed"	0	0	0	0	0	1	2	4	3	8	13	13	23	42	59	43	19	10
+"2003"	"Nahk (muu) (C44)"	"Naised"	0	0	1	0	1	0	1	3	9	18	19	34	44	58	82	94	62	35
+"2003"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	0	1	0	0	0	0	0	0	1	1	2	0	2	2	4	1	3	1
+"2003"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	3	0	0	0	0	0	2	2	2	1	3	5	2	4	8	3	2	1
+"2003"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+"2003"	"Rind (C50)"	"Naised"	0	0	0	0	0	1	6	15	36	60	75	85	77	81	60	66	30	26
+"2003"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"Naissuguelundid (C51-C58)"	"Naised"	0	1	0	0	3	7	14	12	31	51	54	53	71	76	68	57	33	14
+"2003"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	0	2	9	8	4	5
+"2003"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Emakakael (C53)"	"Naised"	0	0	0	0	2	3	13	8	20	22	14	11	19	12	9	11	1	2
+"2003"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	1	1	3	5	9	23	24	33	31	19	26	16	0
+"2003"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+"2003"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Munasari (C56)"	"Naised"	0	1	0	0	1	3	0	1	6	20	14	16	19	29	30	12	11	7
+"2003"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0
+"2003"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Platsenta (C58)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2003"	"Meessuguelundid (C60-C63)"	"Mehed"	0	0	0	2	2	4	2	3	1	4	23	22	63	121	156	101	54	27
+"2003"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	1	0	1	2	1	0	0
+"2003"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	22	21	63	119	154	99	54	27
+"2003"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Munand (C62)"	"Mehed"	0	0	0	2	2	4	2	3	1	1	1	0	0	1	0	1	0	0
+"2003"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"Kuseelundid (C64-C68)"	"Mehed"	1	0	0	0	0	0	0	2	4	9	21	39	56	49	58	48	6	12
+"2003"	"Kuseelundid (C64-C68)"	"Naised"	0	0	0	0	2	1	1	2	2	2	8	16	15	21	32	28	18	12
+"2003"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	1	0	0	0	0	0	0	2	3	8	11	27	28	21	20	13	2	5
+"2003"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	0	0	0	0	2	0	1	1	2	2	6	11	10	14	24	16	9	6
+"2003"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0
+"2003"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	10	12	27	27	37	34	4	7
+"2003"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	1	0	0	0	0	2	5	5	7	7	12	9	6
+"2003"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+"2003"	"Silm (C69)"	"Mehed"	0	1	0	0	0	0	1	0	0	0	1	1	1	0	1	0	1	0
+"2003"	"Silm (C69)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	0	0	1
+"2003"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	1	1	0	4	2	2	2	2	5	4	4	5	5	6	3	4	0	0
+"2003"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	2	1	0	1	5	0	2	1	2	3	3	3	3	8	4	0	2	1
+"2003"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"..Peaaju (C71)"	"Mehed"	1	1	0	4	2	2	2	2	5	4	3	5	4	6	3	4	0	0
+"2003"	"..Peaaju (C71)"	"Naised"	2	1	0	1	4	0	2	1	2	3	2	3	3	8	4	0	2	1
+"2003"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+"2003"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2003"	"Kilpnääre (C73)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	3	2	0
+"2003"	"Kilpnääre (C73)"	"Naised"	0	0	0	0	1	2	1	3	6	7	13	2	9	8	7	4	4	4
+"2003"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	5	0	2	0	0
+"2003"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0
+"2003"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	0	0	0	0	0	3	1	8	4	15	13	12	10	9	0
+"2003"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	1	0	0	0	0	0	0	0	1	6	5	0	12	4	18	14	13	5
+"2003"	"Hodgkini tõbi (C81)"	"Mehed"	0	0	0	2	0	3	5	2	4	0	0	0	0	2	0	0	0	0
+"2003"	"Hodgkini tõbi (C81)"	"Naised"	0	0	0	1	4	2	2	3	1	0	1	1	0	1	1	0	0	0
+"2003"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	1	0	0	1	3	0	0	2	7	4	4	5	3	4	14	9	6	0
+"2003"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	0	1	0	1	1	1	0	3	1	5	4	5	14	12	14	9	1
+"2003"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+"2003"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	1	0	3	2	4	4	4	3	2	2	0
+"2003"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	0	0	2	6	3	6	4	7	5	3	2
+"2003"	"Leukeemia (C91-C95)"	"Mehed"	2	0	3	2	0	0	1	2	4	3	8	10	14	22	21	14	8	2
+"2003"	"Leukeemia (C91-C95)"	"Naised"	1	2	1	0	0	1	2	1	2	2	3	4	8	13	12	16	5	8
+"2003"	"Lümfoidleukeemia (C91)"	"Mehed"	2	0	3	1	0	0	0	1	1	2	4	5	9	15	11	8	3	1
+"2003"	"Lümfoidleukeemia (C91)"	"Naised"	1	2	1	0	0	0	1	1	0	0	1	1	5	10	9	7	3	4
+"2003"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	2	0	3	1	0	0	0	0	0	1	1	0	0	1	0	1	0	0
+"2003"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	1	2	1	0	0	0	1	1	0	0	0	0	2	0	2	0	0	0
+"2003"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	3	5	9	13	9	6	1	1
+"2003"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	3	9	7	7	3	4
+"2003"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	1	0	0	0	0	0	1	2	1	2	0
+"2003"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"2003"	"Müeloidleukeemia (C92)"	"Mehed"	0	0	0	1	0	0	1	1	3	1	4	4	5	7	10	6	5	1
+"2003"	"Müeloidleukeemia (C92)"	"Naised"	0	0	0	0	0	1	1	0	2	2	1	3	3	3	3	7	2	3
+"2003"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	0	0	0	0	0	1	0	2	0	3	3	2	5	3	1	3	0
+"2003"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	0	0	0	0	0	1	0	0	1	1	1	1	1	1	2	5	1	2
+"2003"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	0	0	0	0	1	1	1	1	1	3	2	2	3	1	1
+"2003"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	1	0	1	1	0	1	1	1	1	2	1	0
+"2003"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	0	0	1	0	0	0	0	0	0	0	0	0	0	5	2	1	0
+"2003"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	1
+"2003"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"2003"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	0	1
+"2003"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2003"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"Kõik paikmed (C00-C97)"	"Mehed"	6	4	5	10	11	24	27	29	47	106	201	310	497	640	655	470	235	115
+"2004"	"Kõik paikmed (C00-C97)"	"Naised"	5	1	5	11	13	22	42	61	133	176	260	335	337	482	466	513	343	212
+"2004"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	6	4	5	10	11	20	26	25	43	97	186	285	455	588	601	437	203	101
+"2004"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	5	1	5	10	13	20	36	53	117	164	243	301	294	410	376	422	292	167
+"2004"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	0	2	1	2	9	14	19	26	22	12	9	2	1
+"2004"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	0	1	0	0	2	2	5	5	5	9	4	4	2	3
+"2004"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	1	1	3	2	3	2	1	0
+"2004"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	2	1	2
+"2004"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	1	0	0	1	3	6	4	5	1	1	1	0
+"2004"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	0	0	1	2	3	2	3	2	1	0	0
+"2004"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	3	2	7	4	1	1	0	0
+"2004"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	1	0	0	0	1	1	1	2	3	0	0	1	1
+"2004"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	0	0	0	1	2	1	1	1	2	3	1	0	1
+"2004"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	1	2	0	1	0	0
+"2004"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	1	0	1	2	2	2	6	3	2	2	0	0
+"2004"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+"2004"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	0	1	0	1	0	2	0	1	0	0	0	0
+"2004"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"2004"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	4	4	4	5	2	2	0	0
+"2004"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0
+"2004"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"Seedeelundid (C15-C26)"	"Mehed"	1	0	0	0	0	0	5	6	9	36	50	83	105	147	146	116	52	31
+"2004"	"Seedeelundid (C15-C26)"	"Naised"	0	0	1	0	0	1	3	4	17	27	37	62	72	122	130	153	118	74
+"2004"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	0	0	5	9	11	12	11	3	5	3	2
+"2004"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	2	1	1
+"2004"	"..Magu (C16)"	"Mehed"	0	0	0	0	0	0	3	3	3	12	11	22	31	44	40	30	8	8
+"2004"	"..Magu (C16)"	"Naised"	0	0	1	0	0	1	2	1	6	7	15	16	14	41	31	30	29	16
+"2004"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0
+"2004"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	1	0	0
+"2004"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	0	0	1	1	1	3	13	16	15	35	37	29	17	5
+"2004"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	0	1	1	5	9	12	15	22	30	49	66	33	29
+"2004"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	0	0	1	1	9	7	15	23	32	31	28	13	4
+"2004"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	0	1	3	7	5	18	16	25	27	26	18	8
+"2004"	"..Maks jm (C22)"	"Mehed"	1	0	0	0	0	0	0	0	1	3	2	4	4	8	8	7	5	4
+"2004"	"..Maks jm (C22)"	"Naised"	0	0	0	0	0	0	0	0	1	1	1	0	4	0	3	5	8	3
+"2004"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	2	7	2	6	6	0	1
+"2004"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	1	0	1	0	3	4	4	3	7	5	6
+"2004"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	1	1	3	3	7	13	12	14	21	10	5	7
+"2004"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	0	0	1	2	4	8	11	20	13	16	23	11
+"2004"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+"2004"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	0
+"2004"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	1	0	0	0	0	3	2	8	20	49	75	120	148	129	95	27	14
+"2004"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	0	0	3	5	2	3	10	21	23	26	28	29	26	9
+"2004"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	1	0	0	0	0	0	0	0	2	0	4	3	0	1	3	0	0
+"2004"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	2	1
+"2004"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	0	0	3	5	5	13	17	10	6	5	4	1
+"2004"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+"2004"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	0	0	2	2	5	13	43	58	100	138	122	84	23	13
+"2004"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	0	2	3	1	3	10	19	22	25	28	27	24	6
+"2004"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	2	0	0
+"2004"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	0	1	2	1	0	0	0	1	0	0	0	0	1
+"2004"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2004"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+"2004"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	0	1	2	0	1	0	0	1	0	1	2	1	1	1	0	0	0
+"2004"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0
+"2004"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	1	0	0	2	4	2	0	6	3	8	7	2	4	3	3
+"2004"	"Nahk (melanoom) (C43)"	"Naised"	0	0	0	0	0	3	4	5	7	4	8	8	9	12	12	14	11	6
+"2004"	"Nahk (muu) (C44)"	"Mehed"	0	0	0	0	0	4	1	4	4	9	15	25	42	52	54	33	32	14
+"2004"	"Nahk (muu) (C44)"	"Naised"	0	0	0	1	0	2	6	8	16	12	17	34	43	72	90	91	51	45
+"2004"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	0	0	0	0	0	1	0	0	0	1	1	3	2	3	3	2	1	0
+"2004"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	1	0	0	0	1	0	0	0	0	1	0	4	1	3	4	5	2	2
+"2004"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0
+"2004"	"Rind (C50)"	"Naised"	0	0	0	0	1	4	4	15	37	58	89	102	74	81	57	49	36	20
+"2004"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	0	2	2	4	18	18	35	51	60	59	55	81	63	62	29	20
+"2004"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	1	0	0	0	1	0	1	3	1	2	6	3	8	6	4
+"2004"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Emakakael (C53)"	"Naised"	0	0	0	0	1	3	14	13	24	31	18	13	9	27	11	13	4	3
+"2004"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	0	1	2	6	8	21	29	30	25	29	24	10	4
+"2004"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2
+"2004"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Munasari (C56)"	"Naised"	0	0	0	1	1	1	3	2	5	10	18	15	11	23	19	17	8	4
+"2004"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	1	3	0	0	0	0	3
+"2004"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Platsenta (C58)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"Meessuguelundid (C60-C63)"	"Mehed"	0	0	0	1	3	8	5	1	6	3	14	41	105	150	179	126	67	34
+"2004"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	0	2	0	1	1	1	2	0	2	0	0
+"2004"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	2	2	12	40	104	148	179	123	67	34
+"2004"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Munand (C62)"	"Mehed"	0	0	0	1	3	8	5	1	2	1	1	0	0	0	0	1	0	0
+"2004"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"Kuseelundid (C64-C68)"	"Mehed"	0	0	0	1	0	1	1	3	6	14	18	30	48	51	62	52	30	13
+"2004"	"Kuseelundid (C64-C68)"	"Naised"	2	0	1	1	1	1	1	2	0	4	15	13	21	23	25	36	26	15
+"2004"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	0	0	0	0	0	1	1	2	4	11	9	18	23	21	30	21	11	8
+"2004"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	2	0	1	1	1	0	0	1	0	2	12	11	17	17	16	21	10	5
+"2004"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	1	0	0
+"2004"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	3	1	0
+"2004"	"..Kusepõis (C67)"	"Mehed"	0	0	0	1	0	0	0	1	2	3	9	12	24	28	32	30	19	5
+"2004"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	1	1	1	0	1	3	2	4	5	9	12	15	10
+"2004"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"Silm (C69)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"2004"	"Silm (C69)"	"Naised"	0	0	0	0	0	0	0	0	2	1	0	0	1	0	1	2	1	0
+"2004"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	1	0	1	1	0	2	3	1	0	3	7	7	6	7	5	2	1	0
+"2004"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	0	0	1	1	1	0	0	2	1	1	2	5	7	4	5	2	5	0
+"2004"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2004"	"..Peaaju (C71)"	"Mehed"	1	0	1	1	0	2	2	1	0	3	7	6	6	6	5	2	1	0
+"2004"	"..Peaaju (C71)"	"Naised"	0	0	1	1	1	0	0	2	1	0	2	5	7	4	5	1	5	0
+"2004"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0
+"2004"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"2004"	"Kilpnääre (C73)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	2	1	2	3	3	1	0	0
+"2004"	"Kilpnääre (C73)"	"Naised"	0	0	1	1	2	3	1	2	8	5	4	5	6	7	5	6	5	1
+"2004"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	1	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0
+"2004"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	2	0	0	0	1	0	0	0	1	0	1	0	0
+"2004"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	0	0	0	0	1	1	1	6	7	12	20	18	11	3	1
+"2004"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	0	0	1	3	3	0	5	7	9	14	10	7
+"2004"	"Hodgkini tõbi (C81)"	"Mehed"	1	0	1	3	4	2	1	2	1	0	3	2	1	0	0	0	0	0
+"2004"	"Hodgkini tõbi (C81)"	"Naised"	0	0	0	2	2	1	1	0	1	0	1	0	0	1	2	0	0	0
+"2004"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	0	1	0	1	1	3	2	2	3	0	5	5	11	14	14	5	7	2
+"2004"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	1	0	0	2	0	0	0	1	2	5	5	4	11	15	15	10	3
+"2004"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	0	2	1	2	4	1	3	9	3	0	0
+"2004"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	3	2	5	4	7	2	0
+"2004"	"Leukeemia (C91-C95)"	"Mehed"	3	1	2	0	3	2	2	2	2	6	8	2	7	10	17	10	9	2
+"2004"	"Leukeemia (C91-C95)"	"Naised"	2	0	1	3	1	0	1	0	3	1	4	9	8	17	11	22	9	7
+"2004"	"Lümfoidleukeemia (C91)"	"Mehed"	3	1	0	0	1	0	1	1	2	5	5	1	4	8	8	7	7	1
+"2004"	"Lümfoidleukeemia (C91)"	"Naised"	1	0	1	2	0	0	0	0	2	1	2	6	4	14	4	11	4	4
+"2004"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	3	1	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0
+"2004"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	1	0	1	2	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+"2004"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	1	1	3	5	1	4	8	8	7	6	1
+"2004"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	2	0	2	4	4	14	4	11	3	4
+"2004"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	0
+"2004"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+"2004"	"Müeloidleukeemia (C92)"	"Mehed"	0	0	2	0	1	2	0	1	0	1	3	1	2	2	8	3	2	0
+"2004"	"Müeloidleukeemia (C92)"	"Naised"	0	0	0	1	1	0	1	0	1	0	2	3	4	2	7	8	5	3
+"2004"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	0	2	0	0	1	0	1	0	1	2	1	1	2	5	2	1	0
+"2004"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	0	0	0	1	0	0	1	0	1	0	1	2	2	0	5	2	1	2
+"2004"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	0	0	1	0	0	0	0	1	0	1	0	2	1	0	0
+"2004"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	1	2	2	5	4	0
+"2004"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0
+"2004"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	1	0	1
+"2004"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	1	0	1	0	0	0	0	0	1	0	1	0	0	1
+"2004"	"Leukeemia (muu) (C93-C95)"	"Naised"	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	0	0
+"2004"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2004"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"Kõik paikmed (C00-C97)"	"Mehed"	3	3	1	10	7	11	16	19	50	123	198	337	383	603	618	527	219	108
+"2005"	"Kõik paikmed (C00-C97)"	"Naised"	7	3	7	5	14	20	38	70	107	208	256	271	312	442	483	502	363	179
+"2005"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	3	3	1	8	7	10	15	17	47	113	183	309	355	561	563	464	195	94
+"2005"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	7	3	7	5	14	17	34	63	102	188	233	236	258	383	395	431	281	136
+"2005"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	1	1	1	2	7	14	21	16	23	13	7	2	2
+"2005"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	0	0	1	0	0	4	4	6	4	5	9	6	6	0
+"2005"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	1	2	5	3	0	2
+"2005"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	0	1	0
+"2005"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	1	0	1	3	2	5	5	4	1	0	0
+"2005"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	0	0	3	1	1	1	1	3	1	1	0
+"2005"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	1	0	0	0	1	1	9	4	5	2	3	2	0
+"2005"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	0	0	0	2	3	1	0	0	2	3	0
+"2005"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0
+"2005"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	0	1	0	0	0	1	2	1	1	1	1	1	0
+"2005"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	5	4	2	2	2	0	0	0
+"2005"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	2	0	0
+"2005"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	1	0	2	0	1	0	0	1	0	0	0	0
+"2005"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	3	5	4	7	0	0	0	0
+"2005"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	0
+"2005"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"2005"	"Seedeelundid (C15-C26)"	"Mehed"	0	0	0	0	0	1	3	10	10	36	52	80	85	153	152	119	49	26
+"2005"	"Seedeelundid (C15-C26)"	"Naised"	0	0	1	0	0	1	1	10	13	20	43	44	76	107	132	162	101	55
+"2005"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	0	0	3	9	7	3	10	8	6	1	1
+"2005"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	6	1	1	0	4
+"2005"	"..Magu (C16)"	"Mehed"	0	0	0	0	0	1	1	5	3	12	15	22	26	46	45	31	14	8
+"2005"	"..Magu (C16)"	"Naised"	0	0	0	0	0	0	1	5	4	7	11	15	15	25	46	39	28	11
+"2005"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0
+"2005"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	0	1	3	2	0	0
+"2005"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	0	0	0	1	1	7	5	24	26	31	35	29	16	8
+"2005"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	0	0	0	4	5	11	12	33	32	43	44	32	23
+"2005"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	0	1	1	1	8	10	9	14	31	34	32	8	6
+"2005"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	1	0	4	4	4	12	6	13	25	16	39	20	9
+"2005"	"..Maks jm (C22)"	"Mehed"	0	0	0	0	0	0	0	1	0	1	2	2	8	7	6	8	4	1
+"2005"	"..Maks jm (C22)"	"Naised"	0	0	1	0	0	0	0	1	0	2	0	3	4	7	8	10	5	3
+"2005"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	2	1	0	3	0	2	3	0	0	2
+"2005"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	2	1	3	4	7	7	1
+"2005"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	1	2	3	3	11	13	7	24	20	13	6	0
+"2005"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	0	0	1	2	7	5	9	8	10	19	9	3
+"2005"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+"2005"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1
+"2005"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	1	0	0	1	0	11	27	49	71	86	150	125	87	34	11
+"2005"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	0	0	0	1	3	7	11	11	24	28	21	34	22	9
+"2005"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	2	1	0	2	0	0	0
+"2005"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	1
+"2005"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	0	0	3	7	8	6	10	12	7	6	1	0
+"2005"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	2	0	2	0	1	0
+"2005"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	0	0	1	0	6	20	40	61	74	138	115	81	33	11
+"2005"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	0	0	0	3	6	10	9	22	27	19	33	18	8
+"2005"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	1	0	0	0	0	2	0	1	2	1	0	1	0	0	0
+"2005"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	0
+"2005"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+"2005"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	0	0	3	0	0	0	0	0	0	1	0	4	0	0	1	0	0
+"2005"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	0	0	0	1	1	0	0	0	0	0	0	1	1	0	1	0
+"2005"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	0	0	3	1	0	3	3	1	3	3	8	9	5	2	2
+"2005"	"Nahk (melanoom) (C43)"	"Naised"	0	0	1	0	2	1	7	5	6	5	4	11	7	7	10	13	8	0
+"2005"	"Nahk (muu) (C44)"	"Mehed"	0	0	0	2	0	1	1	2	3	10	15	28	28	42	55	63	24	14
+"2005"	"Nahk (muu) (C44)"	"Naised"	0	0	0	0	0	3	4	7	5	20	23	35	54	59	88	71	82	43
+"2005"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	1	1	0	0	1	0	0	0	0	1	0	2	2	2	4	3	0	2
+"2005"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	1	1	0	0	0	1	2	4	0	0	5	3	4	4	8	2	4	2
+"2005"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+"2005"	"Rind (C50)"	"Naised"	0	0	0	0	1	4	5	13	36	66	73	71	41	80	73	50	42	21
+"2005"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	0	2	4	5	10	25	33	54	56	54	61	67	71	65	35	15
+"2005"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	0	2	0	0	1	5	2	7	11	4	2
+"2005"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Emakakael (C53)"	"Naised"	0	0	0	0	2	3	10	14	16	30	23	16	13	8	8	10	4	4
+"2005"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	0	0	2	4	10	18	21	32	33	30	21	14	3
+"2005"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"2005"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Munasari (C56)"	"Naised"	0	0	0	2	1	2	0	9	9	13	13	15	11	24	24	22	12	5
+"2005"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	1	0	0	0	1	1	1	1	0	0	2	1	1	1
+"2005"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Platsenta (C58)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2005"	"Meessuguelundid (C60-C63)"	"Mehed"	0	0	0	0	1	2	2	1	3	12	14	52	77	115	142	139	68	22
+"2005"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	1	0	0	0	3	1	1	2	0	0	1	1
+"2005"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	1	11	9	50	76	113	142	138	67	21
+"2005"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Munand (C62)"	"Mehed"	0	0	0	0	0	2	1	1	2	1	2	1	0	0	0	1	0	0
+"2005"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"Kuseelundid (C64-C68)"	"Mehed"	0	0	0	0	0	0	0	1	4	10	27	30	45	60	63	58	22	16
+"2005"	"Kuseelundid (C64-C68)"	"Naised"	1	0	0	0	0	0	0	0	4	3	12	6	16	26	23	32	20	4
+"2005"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	0	0	0	0	0	0	0	1	4	10	17	20	24	35	28	23	7	6
+"2005"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	1	0	0	0	0	0	0	0	4	2	8	4	12	19	17	23	11	1
+"2005"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+"2005"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	9	10	21	24	35	35	15	9
+"2005"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	0	0	0	1	4	2	3	7	6	9	9	3
+"2005"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2005"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2005"	"Silm (C69)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0
+"2005"	"Silm (C69)"	"Naised"	1	0	0	0	0	0	0	0	1	0	1	0	1	1	1	0	0	0
+"2005"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	0	1	0	1	0	0	0	2	2	3	5	5	3	3	3	2	0	1
+"2005"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	2	1	2	1	1	0	2	0	1	8	3	3	5	6	4	6	2	1
+"2005"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Peaaju (C71)"	"Mehed"	0	1	0	1	0	0	0	2	2	3	4	5	2	3	3	2	0	1
+"2005"	"..Peaaju (C71)"	"Naised"	2	1	2	1	1	0	0	0	1	8	2	3	5	5	4	6	2	1
+"2005"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+"2005"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	0	0	2	0	0	0	1	0	0	1	0	0	0	0
+"2005"	"Kilpnääre (C73)"	"Mehed"	0	0	0	0	0	0	0	0	2	0	0	3	1	2	0	3	3	0
+"2005"	"Kilpnääre (C73)"	"Naised"	0	0	0	0	0	2	2	3	1	6	6	5	3	9	7	4	5	1
+"2005"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	0	0	0	0	1	1	0	0	1	0	1	1	0	1	1	0	0
+"2005"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	0	1
+"2005"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	1	0	0	1	0	0	2	7	15	13	19	14	13	3	2
+"2005"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	0	0	0	5	7	6	4	7	9	13	11	12
+"2005"	"Hodgkini tõbi (C81)"	"Mehed"	0	1	0	1	3	0	2	0	2	1	0	1	0	0	0	0	0	0
+"2005"	"Hodgkini tõbi (C81)"	"Naised"	0	0	1	1	2	2	2	1	2	0	0	3	1	2	0	0	2	0
+"2005"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	0	0	0	1	2	2	2	2	3	5	5	10	7	7	13	4	3	2
+"2005"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	0	0	1	1	0	1	0	1	4	3	4	0	11	10	13	10	4
+"2005"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+"2005"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	0	1	2	1	7	6	4	6	6	4	2
+"2005"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	1	0	0	0	0	1	2	4	3	6	4	11	1	2
+"2005"	"Leukeemia (C91-C95)"	"Mehed"	2	0	1	0	0	0	1	0	3	2	7	6	5	14	17	16	5	6
+"2005"	"Leukeemia (C91-C95)"	"Naised"	2	1	2	0	2	0	0	1	1	4	3	5	8	16	12	18	11	9
+"2005"	"Lümfoidleukeemia (C91)"	"Mehed"	1	0	1	0	0	0	0	0	2	2	2	3	3	8	11	9	3	4
+"2005"	"Lümfoidleukeemia (C91)"	"Naised"	1	1	1	0	0	0	0	1	0	2	2	1	5	5	5	9	4	6
+"2005"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+"2005"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	2	2	3	8	11	7	3	4
+"2005"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	1	0	2	2	1	5	5	5	9	4	6
+"2005"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0
+"2005"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"Müeloidleukeemia (C92)"	"Mehed"	1	0	0	0	0	0	1	0	0	0	4	3	1	4	5	4	2	2
+"2005"	"Müeloidleukeemia (C92)"	"Naised"	1	0	1	0	2	0	0	0	1	2	1	3	3	10	7	9	6	3
+"2005"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	1	0	0	0	0	0	0	0	0	0	3	1	1	2	3	3	2	0
+"2005"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	1	0	1	0	0	0	0	0	1	1	1	2	1	5	4	4	4	3
+"2005"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	0	0	0	1	0	0	0	1	1	0	2	1	0	0	1
+"2005"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	1	0	0	0	0	1	0	1	1	4	2	2	2	0
+"2005"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1
+"2005"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	0	0	1	0	0	0	0	0	0	0	1	1	1	3	0	0
+"2005"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	1	0	1	2	1	3	0	0
+"2005"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0
+"2005"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2005"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"Kõik paikmed (C00-C97)"	"Mehed"	8	4	5	9	13	16	22	30	64	102	251	348	454	710	683	558	278	134
+"2006"	"Kõik paikmed (C00-C97)"	"Naised"	7	1	2	9	16	17	39	69	123	200	263	323	346	450	482	545	378	216
+"2006"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	8	4	5	9	13	14	21	28	56	95	241	317	423	645	620	495	246	109
+"2006"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	7	1	2	9	16	17	33	63	114	184	238	290	311	387	405	450	312	181
+"2006"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	1	1	1	3	7	19	15	23	18	10	7	2	2
+"2006"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	0	0	0	0	3	3	3	6	1	5	1	6	4	2
+"2006"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	4	1	1	1	2
+"2006"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	2
+"2006"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	4	5	6	5	3	1	0	0
+"2006"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	1	1	0
+"2006"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	0	0	0	0	3	5	5	4	2	1	1	1	0
+"2006"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	0	2	1	1	0	0
+"2006"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	1	0	0	0	0	1	1	2	0	0	0	0	0
+"2006"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	0	0	0	1	2	0	1	1	3	0	3	0	0
+"2006"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	0	0	1	3	5	3	4	3	2	2	0	0
+"2006"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	0	0	0	2	3	0	0	0	0	0	0
+"2006"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	0	1	1	0	1	1	2	1	1	0	0	0
+"2006"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"2006"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	1	0	0	0	3	0	4	3	2	2	0	0
+"2006"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"2006"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"Seedeelundid (C15-C26)"	"Mehed"	0	0	0	1	1	0	1	8	18	33	68	76	101	153	145	136	66	33
+"2006"	"Seedeelundid (C15-C26)"	"Naised"	0	0	0	0	1	0	5	6	12	18	40	63	82	118	144	160	130	79
+"2006"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	0	1	2	8	13	6	10	6	5	2	1
+"2006"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	1	0	0	0	0	3	1	1	2	0	4
+"2006"	"..Magu (C16)"	"Mehed"	0	0	0	0	1	0	0	4	6	18	22	20	22	49	37	33	19	11
+"2006"	"..Magu (C16)"	"Naised"	0	0	0	0	1	0	2	0	5	6	12	18	16	27	35	43	29	16
+"2006"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0	0
+"2006"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	2	2	1	0	1
+"2006"	"..Käärsool (C18)"	"Mehed"	0	0	0	1	0	0	0	3	2	4	10	13	23	34	39	37	20	9
+"2006"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	0	0	1	5	4	15	14	18	41	57	52	45	21
+"2006"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	0	1	0	2	3	13	10	29	24	31	26	11	4
+"2006"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	1	2	1	3	6	18	21	21	20	23	21	15
+"2006"	"..Maks jm (C22)"	"Mehed"	0	0	0	0	0	0	0	0	3	0	3	2	5	8	8	9	3	1
+"2006"	"..Maks jm (C22)"	"Naised"	0	0	0	0	0	0	1	0	1	1	3	3	7	2	6	6	6	3
+"2006"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	4	1	2	1	0
+"2006"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	1	4	6	7	9	6	2
+"2006"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	0	1	4	4	12	18	14	23	23	23	10	7
+"2006"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	1	2	0	3	4	8	13	17	14	23	23	17
+"2006"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+"2006"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	0	0
+"2006"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	1	0	2	1	0	3	19	55	77	97	159	128	90	57	12
+"2006"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	0	0	0	1	3	3	13	21	21	31	29	23	28	11
+"2006"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	2	1	4	2	0	1	0	0
+"2006"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0
+"2006"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	0	0	0	3	7	12	8	16	8	6	4	2
+"2006"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0
+"2006"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	0	0	0	0	3	14	45	62	83	141	119	82	52	10
+"2006"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	0	0	0	3	3	13	20	19	30	27	23	26	11
+"2006"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	1	0	2	1	0	0	0	1	2	2	0	1	1	1	0
+"2006"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0
+"2006"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	0	0	0	1	0	0	0	0	0	2	2	0	5	1	0	0	0
+"2006"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	0	1	1	0	0	1	0	0	0	0	1	0	1	0	0	0
+"2006"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	0	1	0	3	5	3	2	6	12	8	8	8	10	2	2
+"2006"	"Nahk (melanoom) (C43)"	"Naised"	0	0	0	0	2	0	3	6	10	8	13	7	9	11	11	10	12	2
+"2006"	"Nahk (muu) (C44)"	"Mehed"	0	0	0	0	0	2	1	2	8	7	10	31	31	65	63	63	32	25
+"2006"	"Nahk (muu) (C44)"	"Naised"	0	0	0	0	0	0	6	6	9	16	25	33	35	63	77	95	66	35
+"2006"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	2	0	1	0	1	0	0	0	2	1	3	3	2	7	5	1	0	3
+"2006"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	1	0	0	0	0	2	1	0	1	7	2	0	3	5	2	3	2	1
+"2006"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0
+"2006"	"Rind (C50)"	"Naised"	0	0	0	0	0	2	3	21	26	65	74	87	60	83	62	71	36	22
+"2006"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	1	0	0	5	12	22	44	58	54	70	72	55	81	79	36	19
+"2006"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	0	0	2	2	2	2	7	5	8	2	4
+"2006"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Emakakael (C53)"	"Naised"	0	0	0	0	0	4	8	16	24	22	15	18	12	14	11	8	9	2
+"2006"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	0	2	2	8	12	23	26	24	19	37	31	13	7
+"2006"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	2	0	2	1	0	0
+"2006"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Munasari (C56)"	"Naised"	0	0	1	0	0	1	2	4	10	20	12	19	30	15	24	30	12	5
+"2006"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	0	1	2	1	5	2	0	2	1	0	1
+"2006"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Platsenta (C58)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2006"	"Meessuguelundid (C60-C63)"	"Mehed"	0	0	0	0	3	3	4	3	5	13	28	57	111	191	219	164	73	34
+"2006"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	1	3	3	1	3	1	0
+"2006"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	1	9	25	56	107	188	218	161	72	33
+"2006"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Munand (C62)"	"Mehed"	0	0	0	0	3	3	4	3	4	4	1	0	1	0	0	0	0	1
+"2006"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2006"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"Kuseelundid (C64-C68)"	"Mehed"	1	0	0	0	0	1	1	4	5	8	33	35	41	58	53	44	23	15
+"2006"	"Kuseelundid (C64-C68)"	"Naised"	0	0	0	0	0	0	1	0	1	4	12	14	20	34	20	33	20	18
+"2006"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	1	0	0	0	0	0	1	2	5	5	24	20	17	29	22	20	8	3
+"2006"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	0	0	0	0	0	0	0	0	1	3	9	10	14	23	11	23	11	6
+"2006"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+"2006"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+"2006"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	1	0	2	0	3	9	15	23	28	31	23	15	12
+"2006"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	1	0	0	1	2	4	5	11	9	9	9	12
+"2006"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2006"	"Silm (C69)"	"Mehed"	1	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	1	0
+"2006"	"Silm (C69)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"2006"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	4	0	1	1	0	2	3	2	9	0	5	5	6	9	6	2	0	0
+"2006"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	2	0	0	0	3	2	0	0	3	7	3	5	9	3	11	6	1	1
+"2006"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"2006"	"..Peaaju (C71)"	"Mehed"	4	0	1	1	0	2	3	2	7	0	5	5	6	9	6	2	0	0
+"2006"	"..Peaaju (C71)"	"Naised"	2	0	0	0	3	2	0	0	3	7	3	5	8	2	11	5	1	1
+"2006"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0
+"2006"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+"2006"	"Kilpnääre (C73)"	"Mehed"	0	0	1	0	2	0	1	1	1	1	2	2	2	3	0	1	1	0
+"2006"	"Kilpnääre (C73)"	"Naised"	0	0	0	0	1	1	1	3	6	6	10	1	6	5	7	4	7	1
+"2006"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+"2006"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	1	2	0	2	1	0
+"2006"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	0	0	1	1	1	0	3	8	10	16	11	20	6	6	2
+"2006"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	1	0	1	0	2	3	11	8	13	14	12	11
+"2006"	"Hodgkini tõbi (C81)"	"Mehed"	0	0	2	4	0	2	2	2	3	0	0	1	0	0	1	0	1	0
+"2006"	"Hodgkini tõbi (C81)"	"Naised"	0	0	0	3	5	4	2	0	0	0	0	0	0	1	1	0	0	1
+"2006"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	0	2	0	0	2	2	1	0	1	2	7	11	4	7	5	12	3	2
+"2006"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	0	0	1	2	0	2	3	0	0	5	4	4	11	6	5	6	6
+"2006"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0
+"2006"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	1	0	0	3	1	3	2	4	5	2	4	0
+"2006"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	0	1	2	1	4	5	3	4	8	2	1
+"2006"	"Leukeemia (C91-C95)"	"Mehed"	0	2	0	2	2	0	1	0	3	2	4	7	9	11	10	17	6	4
+"2006"	"Leukeemia (C91-C95)"	"Naised"	4	1	1	4	1	1	2	0	3	2	6	5	6	12	12	26	14	6
+"2006"	"Lümfoidleukeemia (C91)"	"Mehed"	0	2	0	1	0	0	0	0	2	1	2	5	5	7	7	12	3	0
+"2006"	"Lümfoidleukeemia (C91)"	"Naised"	3	1	1	3	0	0	0	0	0	2	2	1	2	5	7	12	12	2
+"2006"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	0	2	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+"2006"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	3	1	1	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	0	2	0	2	5	5	6	6	10	3	0
+"2006"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	0	2	2	1	2	5	6	12	11	2
+"2006"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0
+"2006"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+"2006"	"Müeloidleukeemia (C92)"	"Mehed"	0	0	0	1	2	0	1	0	1	1	2	2	4	3	2	5	3	3
+"2006"	"Müeloidleukeemia (C92)"	"Naised"	1	0	0	1	1	1	2	0	2	0	3	2	4	5	5	13	2	3
+"2006"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	0	0	1	2	0	1	0	1	1	1	0	2	2	1	4	0	1
+"2006"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	1	0	0	1	0	1	0	0	2	0	1	2	4	1	4	11	2	1
+"2006"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	2	2	1	1	1	3	1
+"2006"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	2	0	0	0	1	0	0	3	0	0	0	1
+"2006"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"2006"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	2	0	1
+"2006"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1
+"2006"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	0	0	0	1	0	1	2	0	2	0	1	0	1
+"2006"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2006"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"Kõik paikmed (C00-C97)"	"Mehed"	4	3	5	8	12	13	29	43	48	122	225	382	444	704	654	591	298	117
+"2007"	"Kõik paikmed (C00-C97)"	"Naised"	1	2	1	9	18	20	41	86	115	179	265	295	326	498	495	539	433	240
+"2007"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	4	3	4	8	12	12	26	39	39	111	203	353	417	660	594	528	252	98
+"2007"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	1	2	1	9	17	16	36	80	102	164	236	256	279	417	422	415	349	193
+"2007"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	1	0	1	1	2	6	15	19	11	19	12	8	4	1
+"2007"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	0	0	2	1	4	1	1	1	5	4	4	5	4	2
+"2007"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	2	0	1	2	4	2	1	0
+"2007"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	4	1	1
+"2007"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	0	2	2	4	6	2	1	5	0	1	0
+"2007"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	1	1	1
+"2007"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	1	0	0	0	0	4	1	4	2	7	2	1	0	1
+"2007"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	1	0	0	0	0	1	2	1	0	1	0
+"2007"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"2007"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	0	2	0	1	0	1	0	0	0	2	0	1	0
+"2007"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	0	1	0	0	4	5	3	4	0	2	1	0
+"2007"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	0	2	0	0	0	1	1	0	0	0	0
+"2007"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+"2007"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2007"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	3	4	3	4	1	3	1	0
+"2007"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"2007"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"Seedeelundid (C15-C26)"	"Mehed"	0	0	0	0	0	0	5	8	10	29	55	84	104	156	158	123	67	26
+"2007"	"Seedeelundid (C15-C26)"	"Naised"	0	0	0	1	0	0	5	8	8	15	30	53	65	122	131	142	135	71
+"2007"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	9	6	9	8	7	5	3	0
+"2007"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	4	3	3	0	2	0	1
+"2007"	"..Magu (C16)"	"Mehed"	0	0	0	0	0	0	1	6	4	15	13	26	28	44	42	34	16	5
+"2007"	"..Magu (C16)"	"Naised"	0	0	0	1	0	0	3	3	6	2	7	10	16	37	29	32	26	16
+"2007"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1	0	0
+"2007"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	1	1	2	4	0	0
+"2007"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	0	0	1	1	4	4	13	18	28	48	49	37	19	9
+"2007"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	0	1	2	2	8	12	22	19	33	41	49	43	16
+"2007"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	0	1	0	0	3	5	14	12	24	30	27	11	7
+"2007"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	0	2	0	0	4	9	11	22	28	26	31	14
+"2007"	"..Maks jm (C22)"	"Mehed"	0	0	0	0	0	0	1	0	0	0	3	4	6	14	7	5	5	1
+"2007"	"..Maks jm (C22)"	"Naised"	0	0	0	0	0	0	1	0	0	0	0	3	5	4	3	6	4	5
+"2007"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	1	1	4	2	4	2	1	2
+"2007"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	1	2	7	2	9	5
+"2007"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	1	1	1	4	10	14	16	15	19	12	10	2
+"2007"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	0	1	0	5	5	4	9	18	21	20	22	13
+"2007"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+"2007"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	0	1
+"2007"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	0	1	1	0	3	2	21	56	96	91	144	133	101	50	14
+"2007"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	1	1	1	0	2	1	5	11	18	16	27	26	29	27	8
+"2007"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	0	0	0	0	3	0	1	0	0	1	1	1	0
+"2007"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	0	3	1	0	1	0
+"2007"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	1	0	2	1	0	7	17	8	13	14	2	0	0
+"2007"	" ..Kõri (C32)"	"Naised"	0	0	0	1	0	0	0	1	0	0	0	1	2	1	0	0	0	0
+"2007"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	1	0	0	1	1	18	48	78	82	129	118	98	48	14
+"2007"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	1	0	0	1	0	5	11	17	14	23	25	29	25	8
+"2007"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	1	2	0	0	1	0
+"2007"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+"2007"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	1	0	0	0	0	0	0	0	0	2	0	2	0	0	0	0	0
+"2007"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	0	1	2	0	0	0	0	0	0	0	1	0	0	1	1	1
+"2007"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	0	0	0	2	2	4	2	5	5	3	7	8	1	3	2
+"2007"	"Nahk (melanoom) (C43)"	"Naised"	0	0	0	0	3	3	4	6	7	7	8	9	8	20	13	8	7	3
+"2007"	"Nahk (muu) (C44)"	"Mehed"	0	0	1	0	0	1	3	4	9	11	22	29	27	44	60	63	46	19
+"2007"	"Nahk (muu) (C44)"	"Naised"	0	0	0	0	1	4	5	6	13	15	29	39	47	81	73	124	84	47
+"2007"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	1	0	0	1	0	0	0	3	2	1	1	2	3	4	3	3	2	3
+"2007"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	0	0	0	0	0	0	1	1	0	1	1	2	4	4	4	3	1	1
+"2007"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	1	0	1
+"2007"	"Rind (C50)"	"Naised"	0	0	0	0	0	2	6	24	35	61	97	71	77	71	89	70	47	31
+"2007"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	0	0	3	6	6	26	31	51	55	58	57	75	71	61	61	27
+"2007"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	2	3	6	6	9	3
+"2007"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Emakakael (C53)"	"Naised"	0	0	0	0	0	5	6	19	24	30	23	15	17	14	9	14	10	5
+"2007"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	0	0	3	3	12	17	25	21	42	33	18	19	9
+"2007"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+"2007"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Munasari (C56)"	"Naised"	0	0	0	0	3	1	0	2	4	8	13	15	17	16	23	22	17	9
+"2007"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	2	0	1	1	2	0	0	0	1	3	1
+"2007"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Platsenta (C58)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"Meessuguelundid (C60-C63)"	"Mehed"	1	0	1	1	2	3	5	7	3	10	22	73	128	214	177	178	66	31
+"2007"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	1	0	1	0	0	1	0	2	0	0	1
+"2007"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	1	9	20	73	126	214	175	178	66	29
+"2007"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Munand (C62)"	"Mehed"	1	0	1	1	2	3	5	6	2	0	2	0	1	0	0	0	0	0
+"2007"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"2007"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"Kuseelundid (C64-C68)"	"Mehed"	0	1	0	0	0	2	3	6	6	17	22	38	43	58	47	58	29	7
+"2007"	"Kuseelundid (C64-C68)"	"Naised"	0	0	0	0	0	0	0	4	4	2	10	9	21	36	35	24	21	22
+"2007"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	0	1	0	0	0	2	2	5	5	12	11	26	25	25	24	27	13	1
+"2007"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	0	0	0	0	0	0	0	4	3	1	8	6	18	26	24	16	11	7
+"2007"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	1	2	0	0	0	0
+"2007"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+"2007"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	0	1	1	1	5	10	12	17	31	23	31	15	6
+"2007"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	0	0	1	1	1	3	3	9	10	7	9	15
+"2007"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"2007"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0
+"2007"	"Silm (C69)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0
+"2007"	"Silm (C69)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0
+"2007"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	0	1	1	1	1	3	3	4	0	4	6	7	7	5	9	3	3	0
+"2007"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	0	1	0	1	1	0	1	1	2	2	3	7	6	2	6	6	2	2
+"2007"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"2007"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2007"	"..Peaaju (C71)"	"Mehed"	0	1	1	1	1	3	3	4	0	4	6	6	7	5	9	3	3	0
+"2007"	"..Peaaju (C71)"	"Naised"	0	1	0	1	1	0	1	1	2	2	3	7	6	2	6	5	2	2
+"2007"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"Kilpnääre (C73)"	"Mehed"	0	0	1	1	0	0	1	0	1	1	1	2	1	2	2	1	0	0
+"2007"	"Kilpnääre (C73)"	"Naised"	0	0	0	0	4	2	3	4	5	7	11	8	2	12	6	6	4	1
+"2007"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+"2007"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+"2007"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	0	1	0	0	0	1	5	4	7	10	13	17	10	7	5
+"2007"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	0	0	1	4	1	5	4	2	8	15	5	11
+"2007"	"Hodgkini tõbi (C81)"	"Mehed"	0	0	0	2	4	2	4	2	0	2	0	0	0	2	1	2	0	0
+"2007"	"Hodgkini tõbi (C81)"	"Naised"	0	0	1	2	0	2	3	1	1	0	0	2	0	0	1	1	1	0
+"2007"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	0	0	0	1	2	1	2	3	2	7	1	4	5	10	7	10	7	2
+"2007"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	0	0	2	2	0	2	0	0	1	3	5	5	17	12	15	9	3
+"2007"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2007"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0
+"2007"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	0	0	4	5	2	2	3	3	4	3	0
+"2007"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	1	2	1	0	3	4	8	4	8	5	1
+"2007"	"Leukeemia (C91-C95)"	"Mehed"	2	0	1	1	0	0	0	0	5	2	6	14	6	19	15	24	11	6
+"2007"	"Leukeemia (C91-C95)"	"Naised"	1	1	0	1	1	0	3	1	1	4	5	5	4	16	11	20	16	9
+"2007"	"Lümfoidleukeemia (C91)"	"Mehed"	2	0	1	0	0	0	0	0	4	0	2	10	3	12	7	8	5	4
+"2007"	"Lümfoidleukeemia (C91)"	"Naised"	1	1	0	0	1	0	1	0	0	0	3	2	3	10	7	8	9	4
+"2007"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	2	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+"2007"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	1	1	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0
+"2007"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	0	3	0	1	8	3	9	6	7	3	4
+"2007"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	0	0	3	2	2	8	7	8	9	4
+"2007"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	1	2	0	2	1	1	1	0
+"2007"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+"2007"	"Müeloidleukeemia (C92)"	"Mehed"	0	0	0	1	0	0	0	0	1	2	4	4	3	7	7	15	6	1
+"2007"	"Müeloidleukeemia (C92)"	"Naised"	0	0	0	1	0	0	2	1	1	4	2	2	1	6	3	12	6	4
+"2007"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	3	3	2	1	7	8	2	1
+"2007"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	0	0	0	1	0	0	2	0	1	2	1	1	1	5	2	7	5	3
+"2007"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	1	0	0	0	0	0	2	0	0	0	4	0	6	1	0
+"2007"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	4	0	0
+"2007"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	1	1	1	2	0	1	3	0
+"2007"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	1	1	1
+"2007"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1
+"2007"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	1
+"2007"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2007"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"Kõik paikmed (C00-C97)"	"Mehed"	9	3	6	8	8	15	12	41	61	112	225	381	454	645	687	525	324	130
+"2008"	"Kõik paikmed (C00-C97)"	"Naised"	7	3	5	6	10	22	28	74	95	197	260	353	359	452	554	574	396	260
+"2008"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	9	3	5	8	8	14	9	38	50	98	211	360	436	591	639	473	285	116
+"2008"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	7	3	5	6	10	21	24	63	83	174	241	310	321	377	461	490	323	208
+"2008"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	0	0	2	3	5	16	25	26	16	16	7	6	0
+"2008"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	0	0	0	3	0	2	6	10	6	5	6	7	6	3
+"2008"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	1	1	1	2	3	2	1	0
+"2008"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	2	1
+"2008"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	1	0	0	4	5	1	1	4	1	3	0
+"2008"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	1	0	0	2	3	1	1	1	1	1	1
+"2008"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	3	7	5	4	2	1	0	0
+"2008"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	1	0	1	2	3	2	1	1	0	1	0
+"2008"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	0	0	1	1	0	1	2	1	3	2	2	1	0
+"2008"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	2	2	1	2	3	2	1
+"2008"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	0	0	2	1	3	3	11	3	1	0	1	0
+"2008"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0
+"2008"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0
+"2008"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	3	0	0
+"2008"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	2	5	6	3	3	1	0	0
+"2008"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2008"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0
+"2008"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+"2008"	"Seedeelundid (C15-C26)"	"Mehed"	0	0	0	0	0	0	0	10	14	33	64	87	98	138	167	121	67	32
+"2008"	"Seedeelundid (C15-C26)"	"Naised"	0	0	0	0	0	0	0	8	8	24	33	55	69	110	168	179	132	89
+"2008"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	0	0	5	10	9	12	14	8	6	3	0
+"2008"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	2	1	2
+"2008"	"..Magu (C16)"	"Mehed"	0	0	0	0	0	0	0	1	5	13	27	20	31	38	46	29	12	7
+"2008"	"..Magu (C16)"	"Naised"	0	0	0	0	0	0	0	1	1	7	6	15	16	25	38	31	30	18
+"2008"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	2	0	1	2	0	0
+"2008"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	2	1	0	2	0	1
+"2008"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	0	0	0	4	7	9	6	18	16	39	44	28	26	10
+"2008"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	0	0	4	3	8	8	21	21	36	56	64	48	29
+"2008"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	0	0	1	0	2	6	13	19	24	37	28	8	6
+"2008"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	0	2	1	6	9	4	9	18	33	33	18	8
+"2008"	"..Maks jm (C22)"	"Mehed"	0	0	0	0	0	0	0	2	0	2	4	8	6	7	9	4	7	1
+"2008"	"..Maks jm (C22)"	"Naised"	0	0	0	0	0	0	0	1	1	0	3	5	4	1	8	10	8	2
+"2008"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	2	1	2	0	5	2	0
+"2008"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	0	0	2	0	3	2	8	7	4	4
+"2008"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	0	2	2	2	9	16	11	14	22	19	9	8
+"2008"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	0	0	1	3	4	8	13	25	24	28	22	25
+"2008"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+"2008"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	2	1	0
+"2008"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	1	0	0	0	3	6	18	47	82	97	123	95	112	58	18
+"2008"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	0	0	0	1	0	6	7	14	29	17	28	41	21	13
+"2008"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	1	2	0
+"2008"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1
+"2008"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	0	0	1	8	7	14	7	10	5	9	6	2
+"2008"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	0	0	2	1	0	0	1	1	0	0
+"2008"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	1	0	0	0	2	5	10	39	67	88	113	89	102	48	16
+"2008"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	0	0	0	0	6	5	13	29	17	26	40	20	12
+"2008"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0
+"2008"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"2008"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	0	0	1	1	0	0	1	2	0	1	2	1	0	2	1	2	0
+"2008"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	2	0	1	0	0	0	0	0	2	0	0	1	2	1	0	1
+"2008"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	0	0	0	1	2	2	4	6	13	7	7	7	8	7	2
+"2008"	"Nahk (melanoom) (C43)"	"Naised"	0	0	0	0	1	2	3	3	4	6	6	11	14	11	11	15	4	6
+"2008"	"Nahk (muu) (C44)"	"Mehed"	0	0	1	0	0	1	3	3	11	14	14	21	18	54	48	52	39	14
+"2008"	"Nahk (muu) (C44)"	"Naised"	0	0	0	0	0	1	4	11	12	23	19	43	38	75	93	84	73	52
+"2008"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	0	0	0	0	1	0	1	1	1	2	2	0	3	2	2	4	0	0
+"2008"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	0	0	0	0	0	2	1	0	1	2	0	2	3	2	3	7	2	0
+"2008"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	0	0	0
+"2008"	"Rind (C50)"	"Naised"	0	0	0	0	0	1	6	17	35	50	74	90	85	79	76	74	37	27
+"2008"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	0	1	3	6	11	23	26	55	67	75	69	64	69	69	53	21
+"2008"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	0	0	3	2	1	4	1	5	7	3	2
+"2008"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Emakakael (C53)"	"Naised"	0	0	0	0	1	5	9	15	15	29	27	27	12	19	9	13	9	6
+"2008"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	0	0	2	4	12	24	29	30	29	32	20	18	6
+"2008"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	0
+"2008"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Munasari (C56)"	"Naised"	0	0	0	1	1	1	2	6	7	11	13	17	20	15	22	25	20	6
+"2008"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	3	0	1	3	0	1
+"2008"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Platsenta (C58)"	"Naised"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"Meessuguelundid (C60-C63)"	"Mehed"	1	0	0	2	1	6	2	4	4	12	26	71	120	193	215	136	92	44
+"2008"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	2	0	0
+"2008"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	2	11	26	68	120	191	214	134	92	43
+"2008"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Munand (C62)"	"Mehed"	0	0	0	2	1	6	2	4	2	0	0	1	0	0	1	0	0	1
+"2008"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Meessuguelundid (muu) (C63)"	"Mehed"	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+"2008"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"Kuseelundid (C64-C68)"	"Mehed"	0	1	0	0	0	0	0	3	6	8	20	37	50	49	81	46	27	11
+"2008"	"Kuseelundid (C64-C68)"	"Naised"	1	0	0	0	0	0	0	2	2	8	16	18	14	41	39	31	21	12
+"2008"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	0	1	0	0	0	0	0	3	2	6	14	16	32	20	38	22	5	4
+"2008"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	1	0	0	0	0	0	0	1	2	6	14	13	9	26	29	21	14	6
+"2008"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	1
+"2008"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+"2008"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	0	0	0	4	2	6	21	18	29	40	23	21	5
+"2008"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	0	1	0	1	1	5	5	14	10	10	6	6
+"2008"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+"2008"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+"2008"	"Silm (C69)"	"Mehed"	0	0	0	0	0	0	1	0	0	0	1	0	0	5	0	0	0	0
+"2008"	"Silm (C69)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	1	0	0	2	0	1	2
+"2008"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	2	1	1	1	1	0	0	3	4	6	4	8	2	8	5	4	1	1
+"2008"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	1	1	1	2	1	3	0	2	0	4	1	2	2	10	10	14	4	3
+"2008"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2008"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"2008"	"..Peaaju (C71)"	"Mehed"	2	1	1	1	1	0	0	3	4	5	3	8	2	7	5	4	1	1
+"2008"	"..Peaaju (C71)"	"Naised"	1	1	1	2	1	3	0	1	0	3	1	2	2	10	9	14	3	3
+"2008"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+"2008"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0
+"2008"	"Kilpnääre (C73)"	"Mehed"	0	0	0	0	0	1	0	0	1	1	4	5	1	3	3	1	0	0
+"2008"	"Kilpnääre (C73)"	"Naised"	0	0	0	0	0	3	1	0	1	8	14	13	5	11	3	6	4	3
+"2008"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2008"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2008"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	0	0	2	1	0	0	3	9	11	6	11	15	5	6	1
+"2008"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	3	5	3	11	19	14	11
+"2008"	"Hodgkini tõbi (C81)"	"Mehed"	0	0	0	1	1	2	1	2	1	0	0	1	0	1	0	0	0	0
+"2008"	"Hodgkini tõbi (C81)"	"Naised"	0	0	1	1	3	4	1	1	1	2	0	0	1	0	0	0	2	0
+"2008"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	0	0	0	0	1	3	1	3	4	4	2	4	12	9	14	10	12	1
+"2008"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	0	0	1	0	0	0	2	4	4	6	6	9	6	10	16	7	8
+"2008"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	2	0	0	2	4	2	4	1	8	1	1
+"2008"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	0	0	1	1	3	3	8	6	9	4	1
+"2008"	"Leukeemia (C91-C95)"	"Mehed"	6	1	4	2	2	0	1	2	2	1	6	10	10	21	15	9	6	5
+"2008"	"Leukeemia (C91-C95)"	"Naised"	5	1	1	1	1	0	1	1	0	2	6	7	7	9	17	2	11	8
+"2008"	"Lümfoidleukeemia (C91)"	"Mehed"	4	0	2	1	1	0	1	0	1	1	4	7	9	14	8	5	3	3
+"2008"	"Lümfoidleukeemia (C91)"	"Naised"	5	1	1	0	1	0	0	0	0	1	4	3	5	6	11	1	7	5
+"2008"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	4	0	2	1	1	0	1	0	1	0	0	0	1	0	0	0	0	0
+"2008"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	5	1	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2008"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	4	6	8	13	8	5	2	3
+"2008"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	0	1	4	3	5	6	9	0	7	4
+"2008"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0
+"2008"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1
+"2008"	"Müeloidleukeemia (C92)"	"Mehed"	1	1	2	1	1	0	0	2	1	0	2	3	1	7	7	3	3	1
+"2008"	"Müeloidleukeemia (C92)"	"Naised"	0	0	0	1	0	0	1	1	0	1	2	3	2	2	6	1	4	2
+"2008"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	1	0	2	0	1	0	0	0	0	0	1	1	0	4	4	2	1	0
+"2008"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	0	0	0	1	0	0	0	0	0	0	0	3	0	2	6	1	3	1
+"2008"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	0	0	0	0	2	1	0	0	2	1	3	2	1	2	1
+"2008"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	1	1	0	1	1	0	1	0	0	0	0	1
+"2008"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+"2008"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0
+"2008"	"Leukeemia (muu) (C93-C95)"	"Mehed"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+"2008"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1
+"2008"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2008"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"Kõik paikmed (C00-C97)"	"Mehed"	3	5	5	5	16	23	32	27	45	108	212	361	499	664	703	580	325	135
+"2009"	"Kõik paikmed (C00-C97)"	"Naised"	3	4	2	3	11	29	36	59	116	204	266	320	357	418	560	502	430	261
+"2009"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	3	5	5	5	16	21	32	26	39	99	194	336	471	616	630	516	294	116
+"2009"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	3	4	2	3	11	28	31	54	98	188	236	283	307	343	457	398	347	210
+"2009"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	0	0	0	2	7	15	24	23	15	14	6	2	0
+"2009"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	0	1	1	0	1	1	4	9	5	3	7	4	7	4
+"2009"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	1	1	0
+"2009"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	3	1
+"2009"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	0	0	3	2	3	6	2	3	0	0	0
+"2009"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	1	1	0	0	0	1	2	1	0	2	1	2	0
+"2009"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	0	0	0	1	2	5	8	6	5	4	1	0	0
+"2009"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	6	3	3	2	0	1	1
+"2009"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	2	0	2	1	1	0	0
+"2009"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	1	1	1
+"2009"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	4	4	6	5	1	2	0	0
+"2009"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	1	0	0
+"2009"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+"2009"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+"2009"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	3	6	5	0	3	1	1	0
+"2009"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2009"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2009"	"Seedeelundid (C15-C26)"	"Mehed"	0	0	0	0	2	2	5	7	10	21	52	90	112	150	182	120	80	35
+"2009"	"Seedeelundid (C15-C26)"	"Naised"	0	0	0	0	0	1	3	2	7	28	36	70	84	87	159	138	134	100
+"2009"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	1	0	1	7	8	9	15	10	2	4	1
+"2009"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	2	2	1	1	1	0	2
+"2009"	"..Magu (C16)"	"Mehed"	0	0	0	0	1	1	2	2	4	7	15	28	24	40	52	26	15	6
+"2009"	"..Magu (C16)"	"Naised"	0	0	0	0	0	1	3	1	3	13	7	11	21	20	31	29	25	17
+"2009"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	1	1	1	2	0	2	1
+"2009"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	1	2	2	1	1	5	2	3	1	0
+"2009"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	1	0	1	2	0	2	4	17	30	31	44	43	27	7
+"2009"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	0	0	0	1	5	13	19	26	21	58	47	44	19
+"2009"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	0	2	2	2	4	11	14	23	25	38	20	17	11
+"2009"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	0	1	1	4	7	19	17	15	31	23	26	25
+"2009"	"..Maks jm (C22)"	"Mehed"	0	0	0	0	0	1	0	0	3	2	5	7	8	10	10	9	6	1
+"2009"	"..Maks jm (C22)"	"Naised"	0	0	0	0	0	0	0	0	0	1	3	1	4	4	6	6	8	5
+"2009"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	2	2	5	2	6	2	1
+"2009"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	0	1	1	1	4	1	4	1	6	8
+"2009"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	0	0	1	5	9	13	15	22	23	12	7	7
+"2009"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	0	0	1	2	3	16	8	20	25	27	20	21
+"2009"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	2	0	0
+"2009"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	4	3
+"2009"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	0	1	0	2	1	2	20	46	68	100	106	142	101	46	14
+"2009"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	0	0	1	0	3	3	6	12	27	24	26	19	27	8
+"2009"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	2	0	3	0	2	0	1	1
+"2009"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2009"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	1	0	1	5	9	11	12	12	8	5	5	1
+"2009"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	2	0	1	0	2	1
+"2009"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	0	0	1	1	1	15	35	57	85	94	131	96	40	12
+"2009"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	0	1	0	3	3	5	12	25	24	24	19	25	7
+"2009"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2009"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	0	0	1	0	0	0	0	0	0	1	1	1	1	0	0	0	0
+"2009"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	0	1	3	5	4	2	3	7	7	4	10	15	13	6	1
+"2009"	"Nahk (melanoom) (C43)"	"Naised"	0	0	0	0	4	8	3	5	6	8	17	7	13	17	17	13	4	1
+"2009"	"Nahk (muu) (C44)"	"Mehed"	0	0	0	0	0	2	0	1	6	9	18	25	28	48	73	64	31	19
+"2009"	"Nahk (muu) (C44)"	"Naised"	0	0	0	0	0	1	5	5	18	16	30	37	50	75	103	104	83	51
+"2009"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	0	0	0	0	1	1	1	1	0	0	0	3	1	1	2	3	1	3
+"2009"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	0	0	1	0	0	0	2	1	1	2	2	4	2	2	4	2	1	2
+"2009"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	0	0	0
+"2009"	"Rind (C50)"	"Naised"	0	0	0	0	0	2	4	10	28	63	74	80	62	76	71	78	49	23
+"2009"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	0	0	1	7	11	24	41	57	60	53	57	63	74	50	44	25
+"2009"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	1	0	0	0	2	0	1	2	6	4	3	3
+"2009"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Emakakael (C53)"	"Naised"	0	0	0	0	1	7	10	15	29	34	24	22	13	16	6	8	6	5
+"2009"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	0	0	3	6	10	19	23	23	26	37	15	16	6
+"2009"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1
+"2009"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Munasari (C56)"	"Naised"	0	0	0	0	0	0	0	6	6	12	12	7	20	18	23	23	17	9
+"2009"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	0	0	0	2	1	0	1	2	0	2	1
+"2009"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Platsenta (C58)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"Meessuguelundid (C60-C63)"	"Mehed"	0	0	0	0	2	5	8	2	1	18	31	75	147	240	176	160	95	37
+"2009"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	0	1	2	0	1	1	1	1
+"2009"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	1	0	11	31	74	144	239	175	158	94	36
+"2009"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Munand (C62)"	"Mehed"	0	0	0	0	2	5	8	1	1	5	0	0	1	1	0	1	0	0
+"2009"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"Kuseelundid (C64-C68)"	"Mehed"	0	0	0	0	0	0	1	2	10	14	15	43	44	55	43	61	28	13
+"2009"	"Kuseelundid (C64-C68)"	"Naised"	0	1	0	1	0	0	0	2	1	3	13	17	15	25	40	35	23	17
+"2009"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	0	0	0	0	0	0	0	1	5	10	10	27	27	30	28	22	7	4
+"2009"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	0	1	0	1	0	0	0	2	0	2	10	12	10	17	26	20	15	8
+"2009"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0
+"2009"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2	0	0	2
+"2009"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	0	1	1	5	4	5	16	17	23	13	38	21	9
+"2009"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	0	0	1	1	3	4	5	7	10	15	8	7
+"2009"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+"2009"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+"2009"	"Silm (C69)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	1	1	2	0	0	0
+"2009"	"Silm (C69)"	"Naised"	1	0	0	0	0	0	0	0	0	0	0	2	0	0	2	3	1	0
+"2009"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	0	0	1	0	1	0	2	1	1	3	4	4	5	3	9	5	1	1
+"2009"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	1	0	0	0	0	1	2	3	1	6	3	5	5	5	4	3	7	1
+"2009"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+"2009"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"..Peaaju (C71)"	"Mehed"	0	0	1	0	1	0	1	1	1	2	4	4	4	3	8	4	1	1
+"2009"	"..Peaaju (C71)"	"Naised"	1	0	0	0	0	1	1	3	1	6	3	5	5	5	4	3	6	1
+"2009"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0
+"2009"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+"2009"	"Kilpnääre (C73)"	"Mehed"	0	1	0	2	0	1	2	1	1	1	2	4	0	7	1	2	0	0
+"2009"	"Kilpnääre (C73)"	"Naised"	0	0	0	0	2	3	2	2	4	7	4	4	7	5	8	3	3	2
+"2009"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	2	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0
+"2009"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2	0
+"2009"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	0	0	1	1	1	2	1	3	3	8	12	9	9	11	7
+"2009"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	0	0	0	2	2	6	3	9	8	11	16	12
+"2009"	"Hodgkini tõbi (C81)"	"Mehed"	0	0	1	0	5	4	5	3	1	1	1	0	0	1	0	0	0	0
+"2009"	"Hodgkini tõbi (C81)"	"Naised"	0	0	0	2	3	4	0	1	1	1	0	1	2	0	1	2	0	1
+"2009"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	0	1	3	0	2	2	0	1	5	2	7	3	5	3	13	15	10	1
+"2009"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	1	0	0	0	1	0	1	1	2	7	4	8	11	17	14	9	7
+"2009"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2009"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	1	1	4	0	7	6	5	0
+"2009"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	0	1	2	3	2	10	7	3	10	5	2
+"2009"	"Leukeemia (C91-C95)"	"Mehed"	1	3	0	2	1	2	0	2	1	6	8	10	14	10	12	14	8	4
+"2009"	"Leukeemia (C91-C95)"	"Naised"	1	2	1	0	1	0	1	3	2	3	5	7	7	8	16	12	15	5
+"2009"	"Lümfoidleukeemia (C91)"	"Mehed"	1	1	0	1	1	1	0	1	1	1	5	7	8	7	9	9	3	1
+"2009"	"Lümfoidleukeemia (C91)"	"Naised"	1	1	0	0	0	0	1	1	2	0	1	2	5	6	10	10	8	4
+"2009"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	1	1	0	1	1	1	0	1	0	0	0	2	0	1	1	0	0	0
+"2009"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	1	1	0	0	0	0	1	1	0	0	1	0	1	1	0	1	0	0
+"2009"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	4	5	8	6	7	9	3	1
+"2009"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	2	0	0	2	4	5	9	9	8	3
+"2009"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+"2009"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+"2009"	"Müeloidleukeemia (C92)"	"Mehed"	0	2	0	1	0	1	0	1	0	4	3	3	5	3	3	5	5	3
+"2009"	"Müeloidleukeemia (C92)"	"Naised"	0	1	1	0	1	0	0	1	0	2	4	4	2	2	6	1	7	1
+"2009"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	2	0	0	0	1	0	0	0	1	3	2	4	3	2	3	3	3
+"2009"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	0	1	0	0	1	0	0	1	0	0	2	2	1	2	3	1	4	0
+"2009"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	1	0	0	0	1	0	2	0	1	1	0	0	1	2	0
+"2009"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	0	0	0	2	1	1	1	0	2	0	2	1
+"2009"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0
+"2009"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	1	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0
+"2009"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+"2009"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	1	0	0
+"2009"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2009"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"Kõik paikmed (C00-C97)"	"Mehed"	13	4	2	10	15	17	28	42	48	96	207	434	621	663	703	558	372	169
+"2010"	"Kõik paikmed (C00-C97)"	"Naised"	5	1	5	7	16	30	51	92	105	187	239	314	445	415	601	521	447	283
+"2010"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	13	4	2	10	14	16	26	37	41	83	190	402	585	615	644	498	322	140
+"2010"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	5	1	5	7	16	25	48	75	88	160	200	272	393	345	495	427	362	239
+"2010"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	1	1	2	3	7	14	23	21	19	18	5	3	2
+"2010"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	0	1	0	3	0	4	4	6	6	4	3	5	5	3
+"2010"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	2	2	1	1	2	1
+"2010"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2	2	0
+"2010"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	1	1	0	4	3	4	7	4	2	1	0
+"2010"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	1	0	1	0	0	2	1	0	1	2	1
+"2010"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	0	0	0	1	4	3	3	4	5	4	0	0	0
+"2010"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	1	2	0	2	0	2
+"2010"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	3	2	0	1
+"2010"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	1	0	0	0	1	3	0	2	1	2	0	1	0
+"2010"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	4	10	4	3	4	0	0	0
+"2010"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	2	0	0	0	3	0	0	0	0	0	0
+"2010"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	1	1	0	0	1	0	0	1	0	0	0	0	0
+"2010"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	0	2	0	1	0	0	0	0	0	0
+"2010"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	1	0	1	3	5	4	2	2	0	0	0
+"2010"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"2010"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+"2010"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"Seedeelundid (C15-C26)"	"Mehed"	0	0	0	0	1	0	2	3	9	24	44	89	112	125	145	138	93	44
+"2010"	"Seedeelundid (C15-C26)"	"Naised"	0	0	0	0	0	0	5	6	8	20	21	46	76	89	162	153	148	105
+"2010"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	5	8	11	9	5	3	3	3
+"2010"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	2	1	2	2	2	4	1
+"2010"	"..Magu (C16)"	"Mehed"	0	0	0	0	0	0	2	2	4	8	13	25	33	27	46	28	26	8
+"2010"	"..Magu (C16)"	"Naised"	0	0	0	0	0	0	1	2	3	7	8	10	20	16	28	25	36	24
+"2010"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	2	1	0	2	0	0
+"2010"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0
+"2010"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	0	0	0	1	2	3	7	13	19	34	36	45	33	15
+"2010"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	0	2	1	2	3	3	15	21	26	62	70	51	30
+"2010"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	1	0	0	0	1	2	10	14	19	25	24	25	16	7
+"2010"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	1	1	2	2	4	8	20	19	35	23	22	14
+"2010"	"..Maks jm (C22)"	"Mehed"	0	0	0	0	0	0	0	0	0	3	0	4	5	8	12	12	4	4
+"2010"	"..Maks jm (C22)"	"Naised"	0	0	0	0	0	0	0	2	0	2	1	3	2	2	8	7	7	3
+"2010"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	0	3	0	5	4	2	3	3	3	2
+"2010"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	1	2	0	3	1	6	5	6	8	7
+"2010"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	0	0	1	4	9	19	19	19	18	19	8	5
+"2010"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	1	0	0	3	4	5	10	17	21	17	17	24
+"2010"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+"2010"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	3	2
+"2010"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	1	0	0	1	2	6	16	41	79	123	115	128	84	62	24
+"2010"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	0	1	2	1	4	8	8	23	30	33	39	33	23	13
+"2010"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0
+"2010"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	2	0	1	1	0	0
+"2010"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	1	0	2	1	9	10	9	13	7	3	5	1
+"2010"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	1	0	1	0	0	1	0	1	0	3	0	0
+"2010"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	1	0	0	0	2	4	13	30	69	114	100	119	81	57	23
+"2010"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	0	1	1	3	7	8	22	28	31	38	29	23	13
+"2010"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+"2010"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+"2010"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0
+"2010"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	1	0	0	0	0	0	0	1	0	0	0	2	1	0	1	0	1	0
+"2010"	"Luu, liigeskõhr (C40-C41)"	"Naised"	1	0	0	0	0	1	0	1	1	0	0	0	3	1	0	0	0	0
+"2010"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	1	1	2	5	3	3	5	10	6	7	6	9	12	2	3
+"2010"	"Nahk (melanoom) (C43)"	"Naised"	0	0	1	0	6	7	7	1	5	10	5	4	6	17	12	7	11	1
+"2010"	"Nahk (muu) (C44)"	"Mehed"	0	0	0	0	1	1	2	5	7	13	17	32	36	48	59	60	50	29
+"2010"	"Nahk (muu) (C44)"	"Naised"	0	0	0	0	0	5	3	17	17	27	39	42	52	70	106	94	85	44
+"2010"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	2	0	0	1	0	0	0	1	1	2	0	5	4	1	2	2	3	1
+"2010"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	0	0	0	0	1	1	1	0	0	3	0	3	6	4	7	1	4	0
+"2010"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	2	1	0	1	0
+"2010"	"Rind (C50)"	"Naised"	0	0	0	0	2	3	11	28	34	62	81	83	116	58	96	66	36	27
+"2010"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	0	1	1	5	12	22	23	34	49	61	85	61	73	62	49	29
+"2010"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	0	1	0	1	1	5	3	10	4	6	6
+"2010"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Emakakael (C53)"	"Naised"	0	0	0	0	0	5	10	14	15	17	19	20	24	16	11	8	8	6
+"2010"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	0	1	5	3	4	14	27	35	30	31	34	14	8
+"2010"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"2010"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Munasari (C56)"	"Naised"	0	0	0	0	1	0	1	3	4	13	15	13	21	12	21	16	17	9
+"2010"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0
+"2010"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Platsenta (C58)"	"Naised"	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"Meessuguelundid (C60-C63)"	"Mehed"	0	1	0	3	6	3	4	4	5	11	34	114	215	239	221	165	79	39
+"2010"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	1	3	4	3	0	0	2
+"2010"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	1	7	34	113	212	235	218	165	79	37
+"2010"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Munand (C62)"	"Mehed"	0	0	0	3	6	3	4	4	4	3	0	0	0	0	0	0	0	0
+"2010"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"Kuseelundid (C64-C68)"	"Mehed"	1	0	0	0	1	0	2	7	6	8	21	39	51	64	70	54	41	16
+"2010"	"Kuseelundid (C64-C68)"	"Naised"	0	0	0	0	1	0	1	2	2	1	11	20	22	23	40	44	30	25
+"2010"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	1	0	0	0	1	0	0	7	5	6	15	22	28	34	28	24	12	5
+"2010"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	0	0	0	0	1	0	1	2	1	0	9	12	16	15	30	27	12	10
+"2010"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	2	0	0	1	2	0	0
+"2010"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1
+"2010"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	0	2	0	1	2	6	15	23	30	41	28	29	11
+"2010"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	0	0	0	1	2	8	6	8	9	16	18	14
+"2010"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2010"	"Silm (C69)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	2	0	1	2	1	2	3	0
+"2010"	"Silm (C69)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	2	1	1	1	2	0
+"2010"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	2	0	0	0	1	1	0	4	4	2	4	8	8	8	9	5	1	0
+"2010"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	0	0	2	0	1	0	1	1	2	2	4	5	11	5	3	8	7	3
+"2010"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2010"	"..Peaaju (C71)"	"Mehed"	2	0	0	0	0	1	0	4	3	2	4	8	7	8	8	5	1	0
+"2010"	"..Peaaju (C71)"	"Naised"	0	0	2	0	1	0	1	1	2	2	4	5	10	5	3	8	7	3
+"2010"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0
+"2010"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"Kilpnääre (C73)"	"Mehed"	0	0	0	0	0	0	1	0	1	1	2	2	3	1	3	0	1	0
+"2010"	"Kilpnääre (C73)"	"Naised"	0	0	0	1	1	0	2	3	4	6	6	7	6	11	10	8	2	5
+"2010"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	1	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1	1	0
+"2010"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	2	0
+"2010"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	0	0	0	1	0	0	1	4	10	9	9	12	11	9	3
+"2010"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	1	0	2	2	2	2	3	9	7	10	9	14	13
+"2010"	"Hodgkini tõbi (C81)"	"Mehed"	1	1	0	1	2	4	0	2	1	0	0	0	2	0	0	1	0	0
+"2010"	"Hodgkini tõbi (C81)"	"Naised"	0	0	0	1	1	2	4	1	0	2	1	0	0	1	3	0	0	2
+"2010"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	1	1	0	0	1	3	7	3	1	2	6	11	10	10	7	6	6	2
+"2010"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	0	2	1	2	3	1	2	0	2	4	4	5	13	21	12	10	6
+"2010"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"2010"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2010"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	1	1	2	1	7	5	4	7	4	2	2
+"2010"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	0	0	1	1	3	4	7	6	7	8	0
+"2010"	"Leukeemia (C91-C95)"	"Mehed"	4	1	2	2	1	2	2	3	0	2	7	6	12	10	10	8	13	4
+"2010"	"Leukeemia (C91-C95)"	"Naised"	4	1	0	3	0	0	1	1	3	2	3	4	5	9	9	10	11	7
+"2010"	"Lümfoidleukeemia (C91)"	"Mehed"	4	1	2	1	0	1	1	2	0	1	3	3	9	6	8	5	9	3
+"2010"	"Lümfoidleukeemia (C91)"	"Naised"	3	1	0	1	0	0	1	1	1	2	1	3	3	7	5	4	2	2
+"2010"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	4	1	2	1	0	1	1	0	0	0	0	0	2	0	0	0	0	0
+"2010"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	3	1	0	1	0	0	1	1	0	1	0	0	0	1	0	0	0	0
+"2010"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	2	0	1	2	3	7	5	8	4	8	3
+"2010"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	1	1	1	2	3	6	5	4	2	2
+"2010"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	1	0
+"2010"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"2010"	"Müeloidleukeemia (C92)"	"Mehed"	0	0	0	1	1	1	1	1	0	1	4	2	3	3	2	3	4	1
+"2010"	"Müeloidleukeemia (C92)"	"Naised"	1	0	0	1	0	0	0	0	2	0	2	1	2	2	4	5	8	5
+"2010"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	0	0	1	0	1	1	0	0	0	3	0	3	1	0	3	3	0
+"2010"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	0	0	0	0	0	0	0	0	1	0	2	1	2	1	2	3	6	4
+"2010"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1	1
+"2010"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	2	0	0
+"2010"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	0	0	0	1	0	0	1	0	1	1	1	0	1	1	0	0	0
+"2010"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	1	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	2	1
+"2010"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+"2010"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+"2010"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2010"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"Kõik paikmed (C00-C97)"	"Mehed"	7	2	6	2	10	26	25	46	60	102	227	426	607	680	785	566	400	180
+"2011"	"Kõik paikmed (C00-C97)"	"Naised"	5	2	3	8	17	33	43	63	131	180	299	341	406	437	642	530	459	360
+"2011"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	7	2	6	2	10	25	22	39	49	95	206	398	567	635	699	510	355	145
+"2011"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	5	2	3	6	15	29	34	51	116	158	256	312	346	373	526	421	358	293
+"2011"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	2	0	0	2	5	15	20	21	20	11	15	5	4
+"2011"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	0	0	1	1	1	1	0	8	9	1	5	3	6	3
+"2011"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	2	3	2
+"2011"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0
+"2011"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	3	3	4	1	2	7	1	0
+"2011"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	3	1	3	0	1	1
+"2011"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	1	0	0	1	3	8	6	1	3	6	3	0	1
+"2011"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	1	0	1	0	0	2	3	0	1	1	1	0
+"2011"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	0	1	1
+"2011"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	1	2	0
+"2011"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	1	0	0	1	2	3	1	8	7	2	1	0	0
+"2011"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	1	0	0	0	2	2	0	1	0	1	1
+"2011"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+"2011"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	10	5	4	1	2	0	0
+"2011"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"2011"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"Seedeelundid (C15-C26)"	"Mehed"	0	0	0	0	0	3	1	7	11	28	42	89	132	131	177	134	113	40
+"2011"	"Seedeelundid (C15-C26)"	"Naised"	0	0	0	0	2	1	1	2	7	21	41	60	71	96	155	149	152	112
+"2011"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	1	1	3	3	16	13	11	13	3	2	0
+"2011"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	3	1	2	1	2	2	2
+"2011"	"..Magu (C16)"	"Mehed"	0	0	0	0	0	2	1	4	5	9	13	22	37	28	34	26	26	8
+"2011"	"..Magu (C16)"	"Naised"	0	0	0	0	0	0	0	1	3	6	13	12	7	21	24	29	28	20
+"2011"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	3	0	1	2	0	1
+"2011"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	0	2	1	1	1	1	1	2	1	1
+"2011"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	0	0	0	0	3	3	12	18	22	30	57	36	39	12
+"2011"	"..Käärsool (C18)"	"Naised"	0	0	0	0	2	1	1	1	3	4	13	18	20	33	50	49	48	37
+"2011"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	1	0	0	1	5	6	17	32	29	30	37	22	8
+"2011"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	0	0	0	7	9	9	20	20	34	34	34	25
+"2011"	"..Maks jm (C22)"	"Mehed"	0	0	0	0	0	0	0	0	0	3	0	3	5	10	15	3	4	5
+"2011"	"..Maks jm (C22)"	"Naised"	0	0	0	0	0	0	0	0	0	1	3	2	2	1	13	7	7	6
+"2011"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	3	2	3	4	3	2	5	2
+"2011"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	1	0	1	2	7	2	3	3	7	6
+"2011"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	0	2	1	4	5	10	16	19	24	25	15	3
+"2011"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	0	0	0	0	1	1	13	13	16	29	23	25	14
+"2011"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1
+"2011"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"2011"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	1	0	0	0	0	0	0	1	4	16	44	74	113	98	118	95	65	27
+"2011"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	0	1	0	0	2	5	15	12	27	29	32	27	30	20
+"2011"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	2	2	1	2	1	0	0	0
+"2011"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	0	1	1	0	0	0	0	2	1	0	0
+"2011"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	0	0	2	3	8	8	18	11	4	1	2	3
+"2011"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	2	1	0	1	3	0
+"2011"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	0	0	0	1	2	12	33	64	94	83	113	94	63	24
+"2011"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	1	0	0	1	4	14	11	25	28	30	24	27	19
+"2011"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	1	0	0	0	0	0	0	0	0	0	1	0	0	2	0	0	0	0
+"2011"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+"2011"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	0	1	0	0	0	0	0	0	0	0	2	1	0	0	1	1	0
+"2011"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	0	1	0	0	0	1	1	0	1	1	0	0	1	1	0	0
+"2011"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	0	2	2	3	3	10	3	7	11	11	9	13	9	3	5
+"2011"	"Nahk (melanoom) (C43)"	"Naised"	0	0	0	0	3	9	6	3	10	11	11	14	15	10	22	16	9	8
+"2011"	"Nahk (muu) (C44)"	"Mehed"	0	0	0	0	0	1	3	7	11	7	21	28	40	45	86	56	45	35
+"2011"	"Nahk (muu) (C44)"	"Naised"	0	0	0	2	2	4	9	12	15	22	43	29	60	64	116	109	101	67
+"2011"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	0	0	0	0	0	0	0	1	0	0	2	1	5	3	4	3	2	0
+"2011"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	0	0	0	1	0	0	1	0	2	1	3	3	7	2	3	5	3	1
+"2011"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0
+"2011"	"Rind (C50)"	"Naised"	0	0	0	0	0	6	10	20	37	56	89	91	83	86	102	67	38	44
+"2011"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	1	2	1	4	3	13	41	37	65	66	67	77	90	54	43	40
+"2011"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	1	0	2	3	3	2	7	5	4	5	6
+"2011"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Emakakael (C53)"	"Naised"	0	0	0	0	0	3	3	8	22	14	23	26	15	16	16	9	9	4
+"2011"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	1	0	3	8	15	20	19	29	35	38	29	13	15
+"2011"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Munasari (C56)"	"Naised"	0	0	1	2	1	0	0	1	10	6	19	18	20	18	30	12	14	14
+"2011"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0	2	1
+"2011"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Platsenta (C58)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"Meessuguelundid (C60-C63)"	"Mehed"	0	0	0	1	2	3	2	5	2	12	40	137	200	261	242	161	92	35
+"2011"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	1	1	0	0	2	1	2	0	0	1	0
+"2011"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	1	0	12	39	135	197	259	242	161	91	35
+"2011"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Munand (C62)"	"Mehed"	0	0	0	1	2	3	2	3	1	0	1	0	2	0	0	0	0	0
+"2011"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"Kuseelundid (C64-C68)"	"Mehed"	0	0	0	0	0	0	1	5	5	11	30	42	51	68	77	52	46	17
+"2011"	"Kuseelundid (C64-C68)"	"Naised"	1	0	0	0	0	1	4	1	2	6	9	15	22	24	45	32	24	21
+"2011"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	0	0	0	0	0	0	1	2	5	8	20	26	28	38	37	22	17	5
+"2011"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	1	0	0	0	0	1	2	1	2	5	7	10	17	17	31	20	12	14
+"2011"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0
+"2011"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	1	1
+"2011"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	0	0	3	0	3	8	16	23	28	40	30	28	12
+"2011"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	2	0	0	1	2	5	5	5	12	12	11	6
+"2011"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"2011"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"Silm (C69)"	"Mehed"	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0
+"2011"	"Silm (C69)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	1	2	0	0	1
+"2011"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	2	0	1	0	2	2	0	6	3	3	5	1	6	11	7	4	3	0
+"2011"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	0	1	0	0	1	2	1	2	2	5	2	4	7	4	11	6	3	3
+"2011"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+"2011"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"..Peaaju (C71)"	"Mehed"	2	0	1	0	2	2	0	6	3	3	4	1	5	10	7	4	2	0
+"2011"	"..Peaaju (C71)"	"Naised"	0	1	0	0	1	2	1	2	2	5	2	4	7	4	11	6	3	3
+"2011"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0
+"2011"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"Kilpnääre (C73)"	"Mehed"	0	0	1	0	0	1	1	0	0	3	1	1	0	1	1	3	0	1
+"2011"	"Kilpnääre (C73)"	"Naised"	0	0	0	0	1	1	4	2	1	4	8	14	8	9	8	11	9	3
+"2011"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"2011"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0
+"2011"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	0	0	0	0	0	3	2	5	6	11	14	14	7	6	5
+"2011"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	0	0	3	1	2	1	7	3	15	10	11	13
+"2011"	"Hodgkini tõbi (C81)"	"Mehed"	0	0	0	0	1	1	3	2	0	1	2	1	0	2	0	0	0	0
+"2011"	"Hodgkini tõbi (C81)"	"Naised"	0	0	1	2	4	2	2	2	2	0	0	1	0	0	1	2	1	1
+"2011"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	0	1	3	0	3	8	7	5	7	4	9	3	7	9	16	8	8	5
+"2011"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	1	0	0	0	1	1	1	3	3	6	7	6	10	14	12	18	10	7
+"2011"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+"2011"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	1	0	2	1	4	2	2	5	3	3	2
+"2011"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	0	0	1	2	5	4	6	7	7	6	7
+"2011"	"Leukeemia (C91-C95)"	"Mehed"	3	1	0	1	0	3	4	3	2	5	2	5	7	5	14	12	8	4
+"2011"	"Leukeemia (C91-C95)"	"Naised"	3	1	1	0	2	1	0	1	2	1	1	11	9	11	14	11	13	8
+"2011"	"Lümfoidleukeemia (C91)"	"Mehed"	3	1	0	1	0	2	1	2	1	2	2	3	4	4	6	8	3	3
+"2011"	"Lümfoidleukeemia (C91)"	"Naised"	3	1	1	0	1	1	0	0	1	0	1	5	3	7	7	6	5	4
+"2011"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	3	1	0	1	0	2	1	0	0	0	0	0	0	0	0	0	1	0
+"2011"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	3	1	1	0	1	1	0	0	0	0	0	0	0	1	2	0	0	0
+"2011"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	1	0	2	1	3	4	4	5	7	2	3
+"2011"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	1	0	1	5	3	5	5	6	5	4
+"2011"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	1	1	0	1	0	0	0	1	1	0	0
+"2011"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"2011"	"Müeloidleukeemia (C92)"	"Mehed"	0	0	0	0	0	1	3	1	1	2	0	2	3	1	8	3	4	1
+"2011"	"Müeloidleukeemia (C92)"	"Naised"	0	0	0	0	1	0	0	0	1	0	0	6	6	4	5	4	6	2
+"2011"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	0	0	0	0	0	2	1	1	1	0	1	0	1	4	0	1	0
+"2011"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	0	0	0	0	1	0	0	0	1	0	0	3	3	2	5	1	3	1
+"2011"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	0	0	1	1	0	0	0	0	1	1	0	2	3	2	1
+"2011"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	3	0	1
+"2011"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	2	0	2	0	1	0
+"2011"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	2	2	1	0	0	3	0
+"2011"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0
+"2011"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	0	0	1	0	1	0	0	0	0	2	1	2	2
+"2011"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2011"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"Kõik paikmed (C00-C97)"	"Mehed"	8	6	4	4	23	26	23	50	70	92	226	402	629	661	773	563	394	160
+"2012"	"Kõik paikmed (C00-C97)"	"Naised"	3	3	2	5	14	28	54	69	122	187	283	363	461	409	612	554	483	363
+"2012"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	8	6	4	4	22	21	16	37	62	82	210	374	584	608	708	512	327	136
+"2012"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	3	3	2	5	14	24	47	52	99	164	233	316	383	343	506	440	371	291
+"2012"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	0	0	0	0	2	3	12	16	33	13	17	9	6	2
+"2012"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	0	0	0	0	0	4	2	4	7	5	6	5	5	1
+"2012"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	1
+"2012"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	0
+"2012"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	2	6	13	5	2	2	0	0
+"2012"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	0	0	1	1	0	2	2	0	2	0	1
+"2012"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	1	3	5	1	3	2	2	0
+"2012"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	0	0	2	1	2	3	1	2	1	1	0
+"2012"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	1	1	2	1	1	1	1	1
+"2012"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	1	2	0	1	0
+"2012"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	4	4	8	1	4	1	0	0
+"2012"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	0	0
+"2012"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1	0
+"2012"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"2012"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	4	1	4	2	4	1	0	0
+"2012"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+"2012"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"Seedeelundid (C15-C26)"	"Mehed"	0	0	0	0	1	3	1	8	21	25	49	87	122	115	170	147	93	51
+"2012"	"Seedeelundid (C15-C26)"	"Naised"	1	0	0	0	1	2	2	6	7	22	35	53	90	95	167	157	133	122
+"2012"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	6	3	14	11	10	4	1	3
+"2012"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	2	2	2	6	0	4	2
+"2012"	"..Magu (C16)"	"Mehed"	0	0	0	0	0	0	0	4	6	4	10	21	28	23	45	40	20	13
+"2012"	"..Magu (C16)"	"Naised"	0	0	0	0	0	1	0	3	2	3	4	12	23	16	21	24	22	23
+"2012"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	1	1	1	3	1	4	0	2	3	2
+"2012"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	1	0	0	0	0	0	1	3	2	3	2	1
+"2012"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	1	2	1	2	6	7	10	23	24	19	38	34	29	12
+"2012"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	1	1	2	2	10	17	16	24	26	76	53	58	38
+"2012"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	1	0	1	2	5	6	14	27	20	32	33	24	9
+"2012"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	0	1	3	5	7	9	24	26	21	38	22	18
+"2012"	"..Maks jm (C22)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	9	6	9	8	9	16	3	6
+"2012"	"..Maks jm (C22)"	"Naised"	1	0	0	0	0	0	0	0	0	0	1	3	2	7	11	8	2	10
+"2012"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	0	3	3	4	5	5	3	1
+"2012"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	0	0	2	1	3	2	2	9	5	3	5
+"2012"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	0	1	6	2	7	14	16	25	31	13	10	5
+"2012"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	1	0	0	0	0	1	5	8	12	12	20	25	19	21
+"2012"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"2012"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	4
+"2012"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	0	2	0	1	1	3	12	45	77	110	115	135	89	57	26
+"2012"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	0	0	0	0	0	0	3	1	1	5	12	21	31	31	29	36	35	20
+"2012"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	2	1	3	2	2	0	0
+"2012"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	3	0	2	1	0	0
+"2012"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	4	11	9	9	11	5	2	0
+"2012"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	1	0	2	2	0	0	0	0	1	1
+"2012"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	0	0	1	1	3	10	41	63	98	101	121	80	55	25
+"2012"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	0	3	1	0	5	8	18	28	30	27	35	34	18
+"2012"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	0	2	0	0	0	0	1	0	1	2	2	1	2	0	0
+"2012"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	1
+"2012"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+"2012"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	0	2	1	0	0	0	1	0	0	0	0	0	0	2	1	0	1
+"2012"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	0	1	0	0	0	0	1	1	0	0	0	1	1	0	0	0
+"2012"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	0	0	3	2	5	8	1	3	2	18	8	9	15	8	5
+"2012"	"Nahk (melanoom) (C43)"	"Naised"	0	0	0	0	0	2	8	6	9	9	11	11	15	7	12	15	6	10
+"2012"	"Nahk (muu) (C44)"	"Mehed"	0	0	0	0	1	5	7	13	8	10	16	28	45	53	65	51	67	24
+"2012"	"Nahk (muu) (C44)"	"Naised"	0	0	0	0	0	4	7	17	23	23	50	47	78	66	106	114	112	72
+"2012"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	2	0	0	0	2	2	0	1	1	2	1	5	2	5	1	5	3	1
+"2012"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	2	0	0	0	1	0	0	2	0	1	1	3	5	2	4	3	4	3
+"2012"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	1	0	0	2	1	1	1	0
+"2012"	"Rind (C50)"	"Naised"	0	0	0	0	0	6	8	11	34	60	82	91	94	73	93	69	53	40
+"2012"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	0	1	3	6	15	19	33	48	60	74	82	65	76	63	50	35
+"2012"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	0	0	1	1	1	3	2	7	6	8	4
+"2012"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Emakakael (C53)"	"Naised"	0	0	0	1	2	2	13	13	21	18	24	24	28	15	17	14	9	5
+"2012"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	0	0	0	3	8	16	20	30	31	26	36	31	15	13
+"2012"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+"2012"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Munasari (C56)"	"Naised"	0	0	0	0	1	2	2	3	3	12	14	19	18	20	15	12	17	11
+"2012"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	1	0	0	1	1	1	0	2	2	1	0	1	0
+"2012"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Platsenta (C58)"	"Naised"	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"Meessuguelundid (C60-C63)"	"Mehed"	0	0	0	0	6	5	2	5	6	17	50	124	196	248	248	157	80	27
+"2012"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Suguti (C60)"	"Mehed"	0	0	0	0	1	0	0	0	0	2	1	0	3	4	4	1	0	0
+"2012"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	2	14	45	124	193	243	242	155	79	27
+"2012"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Munand (C62)"	"Mehed"	0	0	0	0	5	5	2	5	4	1	4	0	0	1	1	0	0	0
+"2012"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0
+"2012"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"Kuseelundid (C64-C68)"	"Mehed"	0	0	0	0	1	0	1	5	10	10	21	38	53	52	70	47	37	13
+"2012"	"Kuseelundid (C64-C68)"	"Naised"	0	0	0	0	0	0	1	1	1	1	12	21	24	22	38	38	35	17
+"2012"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	0	0	0	0	0	0	1	4	8	8	16	23	30	26	30	20	21	4
+"2012"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	0	0	0	0	0	0	1	1	0	1	9	15	14	9	30	26	23	11
+"2012"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	2	1	1	0	0	0
+"2012"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0
+"2012"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	1	0	0	1	2	2	5	14	20	25	37	27	16	9
+"2012"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	0	0	1	0	3	6	10	12	6	12	12	6
+"2012"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	0
+"2012"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"Silm (C69)"	"Mehed"	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+"2012"	"Silm (C69)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1
+"2012"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	1	3	0	1	3	0	2	2	3	1	3	8	3	2	6	6	1	0
+"2012"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	0	2	0	0	1	2	1	1	2	3	2	3	8	4	12	7	4	0
+"2012"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+"2012"	"..Peaaju (C71)"	"Mehed"	1	3	0	1	3	0	2	2	3	1	3	7	3	2	6	6	1	0
+"2012"	"..Peaaju (C71)"	"Naised"	0	2	0	0	1	2	1	0	2	3	2	3	6	4	12	7	4	0
+"2012"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"2012"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+"2012"	"Kilpnääre (C73)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	3	1	1	1	3	0	0	0
+"2012"	"Kilpnääre (C73)"	"Naised"	0	0	0	1	2	0	5	1	5	4	7	10	7	5	8	6	5	3
+"2012"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1	0
+"2012"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	1	0	0
+"2012"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	1	0	0	0	0	2	0	0	1	2	6	2	9	11	10	9	10	3
+"2012"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	0	0	0	1	1	4	4	7	14	14	14	11
+"2012"	"Hodgkini tõbi (C81)"	"Mehed"	0	0	1	1	3	3	3	3	2	0	2	0	2	1	0	2	1	0
+"2012"	"Hodgkini tõbi (C81)"	"Naised"	0	0	0	1	2	3	3	1	2	1	1	2	0	0	0	0	2	1
+"2012"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	0	2	0	1	3	2	2	4	2	4	6	6	11	17	11	9	15	0
+"2012"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	0	1	0	3	2	0	3	1	1	1	6	8	13	15	10	11	7
+"2012"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	0	0	1	2	2	2	8	7	2	5	4	3
+"2012"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	7	2	6	11	3	6	2
+"2012"	"Leukeemia (C91-C95)"	"Mehed"	3	1	1	0	1	1	2	2	1	2	3	6	16	10	23	10	10	4
+"2012"	"Leukeemia (C91-C95)"	"Naised"	0	1	1	1	1	1	1	0	3	3	4	5	6	6	18	12	8	18
+"2012"	"Lümfoidleukeemia (C91)"	"Mehed"	3	0	1	0	1	0	2	1	0	2	2	2	5	4	14	9	4	1
+"2012"	"Lümfoidleukeemia (C91)"	"Naised"	0	1	1	0	0	1	1	0	1	2	1	3	3	3	11	6	4	13
+"2012"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	3	0	1	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0
+"2012"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	0	1	1	0	0	1	1	0	0	0	0	1	0	0	2	1	0	2
+"2012"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	1	1	0	2	2	2	4	4	12	7	4	1
+"2012"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	0	1	1	1	2	3	3	8	4	3	11
+"2012"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	1	0	0
+"2012"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	0
+"2012"	"Müeloidleukeemia (C92)"	"Mehed"	0	1	0	0	0	1	0	1	1	0	1	3	11	6	7	1	3	2
+"2012"	"Müeloidleukeemia (C92)"	"Naised"	0	0	0	1	1	0	0	0	2	1	2	2	2	3	6	6	4	5
+"2012"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	3	7	2	2	1	3	2
+"2012"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	0	0	0	1	1	0	0	0	2	1	2	1	2	3	4	5	4	5
+"2012"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	0	0	1	0	1	1	0	0	0	1	4	4	0	0	0
+"2012"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+"2012"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	1	0	0	0	0	0	0	0	0	0	0	3	0	1	0	0	0
+"2012"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0
+"2012"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	3	1
+"2012"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0
+"2012"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2012"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"Kõik paikmed (C00-C97)"	"Mehed"	10	4	3	5	13	14	23	31	75	114	209	403	645	640	686	580	364	201
+"2013"	"Kõik paikmed (C00-C97)"	"Naised"	9	3	5	5	16	32	50	82	118	188	277	358	388	457	623	579	523	421
+"2013"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Mehed"	9	4	3	5	12	13	20	24	61	99	182	377	606	590	619	525	311	158
+"2013"	"Kõik paikmed v.a nahk (muu) (C00-C97 v.a C44)"	"Naised"	9	3	5	5	16	28	43	68	100	155	236	321	327	376	511	463	411	331
+"2013"	"Huul, suuõõs, neel (C00-C14)"	"Mehed"	0	0	0	0	1	0	1	3	6	6	9	25	26	21	19	6	4	4
+"2013"	"Huul, suuõõs, neel (C00-C14)"	"Naised"	0	0	0	0	1	0	1	1	0	0	3	8	6	5	1	3	6	3
+"2013"	"..Huul (C00)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	1	3	0	0	1	2
+"2013"	"..Huul (C00)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	4	2
+"2013"	"..Keel (C01-C02)"	"Mehed"	0	0	0	0	0	0	0	1	3	2	1	4	8	5	1	1	2	0
+"2013"	"..Keel (C01-C02)"	"Naised"	0	0	0	0	0	0	0	1	0	0	1	1	0	2	0	1	0	1
+"2013"	"..Ige, suupõhi jm (C03-C06)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	3	5	3	4	0	0	0
+"2013"	"..Ige, suupõhi jm (C03-C06)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	2	0
+"2013"	"..Suured süljenäärmed (C07-C08)"	"Mehed"	0	0	0	0	1	0	0	1	0	0	0	4	0	1	1	1	0	2
+"2013"	"..Suured süljenäärmed (C07-C08)"	"Naised"	0	0	0	0	1	0	1	0	0	0	1	2	1	0	0	0	0	0
+"2013"	"..Mandel, suuneel (C09-C10)"	"Mehed"	0	0	0	0	0	0	1	0	2	2	3	6	5	4	5	2	1	0
+"2013"	"..Mandel, suuneel (C09-C10)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	1	4	1	0	0	0	0
+"2013"	"..Ninaneel (C11)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	1	2	1	0	1	1	0	0
+"2013"	"..Ninaneel (C11)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+"2013"	"..Pirnsopis, alaneel (C12-C13)"	"Mehed"	0	0	0	0	0	0	0	1	1	1	2	5	6	5	7	1	0	0
+"2013"	"..Pirnsopis, alaneel (C12-C13)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0
+"2013"	"..Huul, suuõõs, neel (muu) (C14)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"2013"	"..Huul, suuõõs, neel (muu) (C14)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"Seedeelundid (C15-C26)"	"Mehed"	2	0	0	0	0	0	3	4	18	25	36	78	146	119	167	158	95	57
+"2013"	"Seedeelundid (C15-C26)"	"Naised"	0	0	0	1	0	3	0	5	8	18	43	55	78	106	151	160	168	138
+"2013"	"..Söögitoru (C15)"	"Mehed"	0	0	0	0	0	0	0	1	1	2	4	10	9	6	4	3	2	1
+"2013"	"..Söögitoru (C15)"	"Naised"	0	0	0	0	0	0	0	2	0	1	0	2	3	4	5	1	6	3
+"2013"	"..Magu (C16)"	"Mehed"	0	0	0	0	0	0	2	0	8	6	13	18	34	25	37	39	22	13
+"2013"	"..Magu (C16)"	"Naised"	0	0	0	1	0	1	0	0	2	3	11	10	19	24	30	24	31	32
+"2013"	"..Peensool (C17)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	1	0	1	2	2	2	0	2
+"2013"	"..Peensool (C17)"	"Naised"	0	0	0	0	0	0	0	0	0	3	2	2	0	2	3	4	1	1
+"2013"	"..Käärsool (C18)"	"Mehed"	0	0	0	0	0	0	0	1	2	6	8	19	36	22	51	44	35	21
+"2013"	"..Käärsool (C18)"	"Naised"	0	0	0	0	0	1	0	2	2	4	14	16	22	29	67	61	64	42
+"2013"	"..Pärasool jm (C19-C21)"	"Mehed"	0	0	0	0	0	0	0	1	3	7	4	15	30	33	34	29	22	12
+"2013"	"..Pärasool jm (C19-C21)"	"Naised"	0	0	0	0	0	0	0	0	3	5	6	6	21	26	21	30	29	18
+"2013"	"..Maks jm (C22)"	"Mehed"	2	0	0	0	0	0	1	0	1	2	0	5	12	5	9	8	3	2
+"2013"	"..Maks jm (C22)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	3	3	3	5	6	3	7
+"2013"	"..Sapipõis jm (C23-C24)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	0	1	0	7	5	7	2	1
+"2013"	"..Sapipõis jm (C23-C24)"	"Naised"	0	0	0	0	0	0	0	1	0	0	3	6	2	3	4	7	2	11
+"2013"	"..Kõhunääre (C25)"	"Mehed"	0	0	0	0	0	0	0	1	2	1	6	10	24	19	22	25	9	5
+"2013"	"..Kõhunääre (C25)"	"Naised"	0	0	0	0	0	1	0	0	1	2	7	10	8	15	16	27	32	24
+"2013"	"..Seedeelundid (muu) (C26)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	1	0	0
+"2013"	"..Seedeelundid (muu) (C26)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Mehed"	0	0	0	0	0	1	2	0	1	12	32	67	130	119	145	93	50	25
+"2013"	"Hingamis-, rindkeresisesed elundid (C30-C39)"	"Naised"	1	0	0	0	0	1	0	3	2	5	9	19	34	36	54	37	33	20
+"2013"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	1	3	2	1	1	0
+"2013"	"..Ninaõõs, kõrv, ninakõrvalurked (C30-C31)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+"2013"	" ..Kõri (C32)"	"Mehed"	0	0	0	0	0	0	0	0	1	2	9	7	14	9	11	10	3	2
+"2013"	" ..Kõri (C32)"	"Naised"	0	0	0	0	0	0	0	0	0	1	0	1	2	0	1	1	0	0
+"2013"	"..Hingetoru, bronh, kops (C33-C34)"	"Mehed"	0	0	0	0	0	1	2	0	0	9	22	58	114	107	131	82	46	23
+"2013"	"..Hingetoru, bronh, kops (C33-C34)"	"Naised"	0	0	0	0	0	1	0	2	2	4	9	16	31	35	51	36	32	20
+"2013"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1	0	0	0
+"2013"	"..Tüümus, süda, keskseinand, pleura (C37-C38)"	"Naised"	1	0	0	0	0	0	0	1	0	0	0	2	1	1	1	0	0	0
+"2013"	"..Hingamiselundid jm (C39)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Hingamiselundid jm (C39)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"Luu, liigeskõhr (C40-C41)"	"Mehed"	0	0	2	1	0	0	0	0	1	0	0	0	0	1	0	1	0	0
+"2013"	"Luu, liigeskõhr (C40-C41)"	"Naised"	0	0	0	1	1	0	1	1	0	0	0	1	1	1	0	0	0	0
+"2013"	"Nahk (melanoom) (C43)"	"Mehed"	0	0	0	0	0	4	3	6	3	7	7	10	5	10	8	11	8	1
+"2013"	"Nahk (melanoom) (C43)"	"Naised"	0	0	0	0	3	5	6	4	11	11	8	17	13	6	17	12	11	15
+"2013"	"Nahk (muu) (C44)"	"Mehed"	1	0	0	0	1	1	3	7	14	15	27	26	39	50	67	55	53	43
+"2013"	"Nahk (muu) (C44)"	"Naised"	0	0	0	0	0	4	7	14	18	33	41	37	61	81	112	116	112	90
+"2013"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Mehed"	2	0	0	0	2	0	1	0	2	2	1	2	4	3	1	4	4	1
+"2013"	"Mesoteelkude ja pehmed koed (C45-C49)"	"Naised"	1	0	0	1	0	0	1	0	0	0	2	3	2	1	6	4	6	5
+"2013"	"Rind (C50)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	1	0	2	0	3	0	0	0
+"2013"	"Rind (C50)"	"Naised"	0	0	0	0	0	4	16	21	34	64	75	98	63	81	105	82	47	37
+"2013"	"Naissuguelundid (C51-C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"Naissuguelundid (C51-C58)"	"Naised"	0	0	0	0	2	9	6	19	25	44	63	69	66	75	85	66	47	35
+"2013"	"..Häbe, tupp (C51-C52)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Häbe, tupp (C51-C52)"	"Naised"	0	0	0	0	0	0	0	0	1	1	1	3	2	9	7	7	10	7
+"2013"	"..Emakakael (C53)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Emakakael (C53)"	"Naised"	0	0	0	0	0	7	4	12	18	21	19	21	14	21	23	6	4	4
+"2013"	"..Emakakeha (C54)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Emakakeha (C54)"	"Naised"	0	0	0	0	1	1	1	4	4	10	18	22	29	26	29	37	14	14
+"2013"	"..Emakas (osa täpsustamata) (C55)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Emakas (osa täpsustamata) (C55)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+"2013"	"..Munasari (C56)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Munasari (C56)"	"Naised"	0	0	0	0	1	1	1	3	2	12	24	20	20	17	26	16	18	9
+"2013"	"..Naissuguelundid (muu) (C57)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Naissuguelundid (muu) (C57)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	3	1	1	0	0	0	1
+"2013"	"..Platsenta (C58)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Platsenta (C58)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+"2013"	"Meessuguelundid (C60-C63)"	"Mehed"	1	0	1	0	3	2	4	3	2	22	44	138	200	235	185	138	82	29
+"2013"	"Meessuguelundid (C60-C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Suguti (C60)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	2	1	1	1	4	1	0	0
+"2013"	"..Suguti (C60)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Eesnääre (C61)"	"Mehed"	0	0	0	0	0	0	0	0	0	21	40	137	198	234	181	136	80	29
+"2013"	"..Eesnääre (C61)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Munand (C62)"	"Mehed"	1	0	1	0	3	2	4	3	2	1	2	0	1	0	0	0	1	0
+"2013"	"..Munand (C62)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Meessuguelundid (muu) (C63)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+"2013"	"..Meessuguelundid (muu) (C63)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"Kuseelundid (C64-C68)"	"Mehed"	2	0	0	0	0	1	0	3	3	14	33	23	52	46	44	52	37	25
+"2013"	"Kuseelundid (C64-C68)"	"Naised"	1	0	0	0	0	0	0	1	2	3	10	21	20	21	34	46	38	22
+"2013"	"..Neer, neeruvaagen (C64-C65)"	"Mehed"	2	0	0	0	0	1	0	3	3	11	26	17	32	21	14	22	14	6
+"2013"	"..Neer, neeruvaagen (C64-C65)"	"Naised"	1	0	0	0	0	0	0	1	2	2	7	16	16	16	21	33	27	12
+"2013"	"..Kusejuha (C66)"	"Mehed"	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0
+"2013"	"..Kusejuha (C66)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0	0	2
+"2013"	"..Kusepõis (C67)"	"Mehed"	0	0	0	0	0	0	0	0	0	2	7	5	20	25	30	29	22	19
+"2013"	"..Kusepõis (C67)"	"Naised"	0	0	0	0	0	0	0	0	0	1	3	5	3	5	11	13	11	8
+"2013"	"..Kuseelundid (muu) (C68)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2013"	"..Kuseelundid (muu) (C68)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"Silm (C69)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0
+"2013"	"Silm (C69)"	"Naised"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	1	1	1
+"2013"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Mehed"	2	0	0	2	0	1	2	2	4	3	7	8	7	3	7	3	1	4
+"2013"	"Peaaju ja kesknärvisüsteem (C70-C72)"	"Naised"	2	1	2	0	1	2	2	1	1	1	6	5	4	4	8	2	5	4
+"2013"	"..Ajukelmed (C70)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+"2013"	"..Ajukelmed (C70)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+"2013"	"..Peaaju (C71)"	"Mehed"	2	0	0	1	0	1	2	2	4	3	7	7	7	3	7	3	1	4
+"2013"	"..Peaaju (C71)"	"Naised"	2	1	2	0	0	2	2	1	1	1	6	5	4	4	8	2	4	4
+"2013"	"..Kesknärvisüsteem (muu) (C72)"	"Mehed"	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"..Kesknärvisüsteem (muu) (C72)"	"Naised"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"Kilpnääre (C73)"	"Mehed"	0	0	0	0	2	1	0	0	2	0	1	1	2	1	5	1	1	0
+"2013"	"Kilpnääre (C73)"	"Naised"	0	0	0	0	1	0	2	5	8	2	6	5	8	5	7	4	2	5
+"2013"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0
+"2013"	"Sisesekretsiooninäärmed (muu) (C74-C75)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"2013"	"Paige teadmata või täpsustamata (C76-C80)"	"Mehed"	0	0	0	0	0	0	0	0	3	1	3	4	5	4	8	19	7	2
+"2013"	"Paige teadmata või täpsustamata (C76-C80)"	"Naised"	0	0	0	0	0	0	2	0	1	0	1	3	4	8	11	11	13	15
+"2013"	"Hodgkini tõbi (C81)"	"Mehed"	0	0	0	0	0	2	1	1	1	0	2	1	1	1	0	2	2	1
+"2013"	"Hodgkini tõbi (C81)"	"Naised"	0	0	0	2	4	1	1	2	2	1	0	0	1	3	2	0	1	0
+"2013"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Mehed"	0	1	0	1	0	1	1	2	8	0	1	7	9	16	10	14	10	4
+"2013"	"Mitte-Hodgkini lümfoom (C82-C85/96)"	"Naised"	0	0	0	0	1	2	5	2	3	4	4	9	9	12	12	14	14	13
+"2013"	"Immunoproliferatiivhaigused (C88)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"Immunoproliferatiivhaigused (C88)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+"2013"	"Hulgimüeloom (C90)"	"Mehed"	0	0	0	0	0	0	1	0	2	1	1	3	5	8	7	6	2	1
+"2013"	"Hulgimüeloom (C90)"	"Naised"	0	0	0	0	0	1	0	0	1	0	1	1	8	5	5	6	6	5
+"2013"	"Leukeemia (C91-C95)"	"Mehed"	0	3	0	1	4	0	1	0	4	6	4	8	11	3	10	16	8	4
+"2013"	"Leukeemia (C91-C95)"	"Naised"	4	2	3	0	2	0	0	3	2	2	4	7	9	6	11	14	12	13
+"2013"	"Lümfoidleukeemia (C91)"	"Mehed"	0	3	0	0	1	0	0	0	3	5	3	6	6	2	5	10	7	3
+"2013"	"Lümfoidleukeemia (C91)"	"Naised"	2	2	1	0	1	0	0	2	0	1	2	5	4	4	6	8	7	6
+"2013"	"..Äge lümfoidleukeemia (C91.0)"	"Mehed"	0	3	0	0	1	0	0	0	0	3	1	1	0	0	0	1	1	0
+"2013"	"..Äge lümfoidleukeemia (C91.0)"	"Naised"	2	2	1	0	1	0	0	1	0	0	1	1	0	0	1	0	2	0
+"2013"	"..Krooniline lümfoidleukeemia (C91.1)"	"Mehed"	0	0	0	0	0	0	0	0	2	2	2	4	6	1	2	8	6	3
+"2013"	"..Krooniline lümfoidleukeemia (C91.1)"	"Naised"	0	0	0	0	0	0	0	1	0	1	1	4	4	3	5	7	4	5
+"2013"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	0	1	0	1	3	1	0	0
+"2013"	"..Lümfoidleukeemia (muu) (C91.2-C91.9)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1
+"2013"	"Müeloidleukeemia (C92)"	"Mehed"	0	0	0	1	2	0	1	0	1	1	1	2	5	1	5	5	1	1
+"2013"	"Müeloidleukeemia (C92)"	"Naised"	2	0	2	0	1	0	0	1	2	1	2	2	5	2	4	6	4	7
+"2013"	"..Äge müeloidleukeemia (C92.0)"	"Mehed"	0	0	0	0	0	0	0	0	1	0	1	0	3	1	1	5	1	1
+"2013"	"..Äge müeloidleukeemia (C92.0)"	"Naised"	2	0	1	0	1	0	0	0	1	1	1	2	2	1	3	4	3	3
+"2013"	"..Krooniline müeloidleukeemia (C92.1)"	"Mehed"	0	0	0	0	1	0	1	0	0	1	0	1	1	0	4	0	0	0
+"2013"	"..Krooniline müeloidleukeemia (C92.1)"	"Naised"	0	0	0	0	0	0	0	0	1	0	1	0	2	1	1	1	1	2
+"2013"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Mehed"	0	0	0	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0
+"2013"	"..Müeloidleukeemia (muu) (C92.2-C92.9)"	"Naised"	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	2
+"2013"	"Leukeemia (muu) (C93-C95)"	"Mehed"	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+"2013"	"Leukeemia (muu) (C93-C95)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+"2013"	"Sõltumatud hulgipaikmed (C97)"	"Mehed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"2013"	"Sõltumatud hulgipaikmed (C97)"	"Naised"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
