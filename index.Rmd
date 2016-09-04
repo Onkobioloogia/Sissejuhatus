@@ -227,31 +227,6 @@ Kohaviit: 616/W-46
 </footer>
 
 
-<!-- --- -->
-<!-- ## Erinevused 5-aasta elulemuses maailmas -->
-
-<!-- ```{r} -->
-<!-- library(dplyr) -->
-<!-- library(ggplot2) -->
-<!-- concord <- read.csv("data/concord2.csv") -->
-<!-- con2 <- concord %>% melt %>% -->
-<!--   filter(complete.cases(.)) %>%  -->
-<!--   mutate(Period = sub("^[0-9]{2}(.*)","\\1",Period), -->
-<!--          Period = factor(Period, levels = c("95-99","00-04","05-09")), -->
-<!--          Country = sub("^([A-z]{2,6}).*","\\1", Country)) %>%  -->
-<!--   group_by(Country, Region, Period) %>%  -->
-<!--   summarise(value = mean(value))  -->
-<!-- filter(con2, Period=="05-09") %>%  -->
-<!--   ggplot(aes(Country, value, color = Region)) +  -->
-<!--   geom_point() +  -->
-<!--   coord_flip() +  -->
-<!--   ylim(0,100) + -->
-<!--   xlab("Riik") + -->
-<!--   ylab("5-aasta keskmine elulemus, %") + -->
-<!--   scale_color_colorblind() + -->
-<!--   theme(legend.title = element_blank()) -->
-<!-- ``` -->
-
 
 <!-- ---&twocol -->
 <!-- ## Diagnostika ja teraapia kättesaadavus -->
@@ -277,8 +252,6 @@ Kohaviit: 616/W-46
 ## Kasvajatesse haigestumus Eestis
 
 ```{r}
-# kasvajad <- read.csv("data/Kasvajad_haigestumus_2000-9.csv", header = TRUE)
-
 kasvajad <- read.table("data/PK10m.csv", sep = "\t")
 colnames(kasvajad) <- c("Aasta", "Paige", "Sugu", "0-4","5-9","10-14","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85 ja vanemad")
 # load libraries
