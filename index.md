@@ -248,21 +248,31 @@ Kohaviit: 616/W-46
 ---
 ## Kasvajatesse haigestumus Eestis
 
-<img src="figure/unnamed-chunk-2-1.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto;" />
+<img src="assets/fig/unnamed-chunk-2-1.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto;" />
 
 Andmed: TAI vähiregister
 
 ---
 ## Kasvajad Eestis paikmete kaupa
 
-<img src="figure/unnamed-chunk-3-1.png" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" style="display: block; margin: auto;" />
+
+```
+## Error in stri_split_lines(str): object 'kasv' not found
+```
+
+```
+## Error in eval(expr, envir, enclos): object 'kasv' not found
+```
 
 Andmed: TAI vähiregister
 
 ---
 ## Sagedasemad paikmed
 
-<img src="figure/unnamed-chunk-4-1.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" style="display: block; margin: auto;" />
+
+```
+## Error in eval(expr, envir, enclos): object 'kasv' not found
+```
 
 ---
 ## Esmased vähid ja 5 aasta suremus
