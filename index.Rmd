@@ -656,6 +656,14 @@ Hodgkin's tõbi|
 
 <footer class="source">[Pilt:web.biologie.uni-bielefeld.de](http://web.biologie.uni-bielefeld.de/cellbiology/index.php/research/neural-crest-derived-stem-cells)</footer>
 
+---
+## Reeglina säilitavad vähid oma päritolu-koe tunnused
+
+Olulise ühendva bioloogilise printsiibina säilitavad vähirakud alati mõne distinktse diferentseerunud tunnuse mis seob neid oma päritolukoega
+
+![kermets](http://www.breastpathology.info/Images/LVi%20&%20nodes/micromet-pan-ck.jpg)
+
+<footer class="source">Pilt: tsütokeratiin-positiivne mikrometastaas. www.breastpathology.info</footer>
 
 ---
 ## Epiteeli-mesenhümaalne transformatsioon
@@ -668,15 +676,6 @@ Hodgkin's tõbi|
 <img src="http://www.sabiosciences.com/images/Fig3_Fibrosis.gif" style="width:300px">
 
 <footer class="source">Pilt: http://www.sabiosciences.com/</footer>
-
----
-## Reeglina säilitavad vähid oma päritolu-koe tunnused
-
-Olulise ühendva bioloogilise printsiibina säilitavad vähirakud alati mõne distinktse diferentseerunud tunnuse mis seob neid oma päritolukoega
-
-![kermets](http://www.breastpathology.info/Images/LVi%20&%20nodes/micromet-pan-ck.jpg)
-
-<footer class="source">Pilt: tsütokeratiin-positiivne mikrometastaas. www.breastpathology.info</footer>
 
 ---
 ## Anaplastilised kasvajad
