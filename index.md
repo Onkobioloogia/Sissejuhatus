@@ -25,13 +25,13 @@ img {
 }
 </style>
 
-<!-- Center image on slide -->
-<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
-<script type='text/javascript'>
-$(function() {
-    $("p:has(img)").addClass('centered');
-});
-</script>
+<!-- <!-- Center image on slide --> -->
+<!-- <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script> -->
+<!-- <script type='text/javascript'> -->
+<!-- $(function() { -->
+<!--     $("p:has(img)").addClass('centered'); -->
+<!-- }); -->
+<!-- </script> -->
 
 
 <style> .title-slide {
@@ -285,7 +285,11 @@ Andmed: TAI vähiregister
 ## Esmased vähid ja 5 aasta suremus
 # Sõltuvalt vähitüübist võib elulemus varieeruda 10% kuni 90% 
 
-![suremus](figure/331_1540a_F1.jpg)
+<div style='text-align: center;'>
+    <img height='560' src='figure/331_1540a_F1.jpg' />
+</div>
+
+<!-- ![suremus](figure/331_1540a_F1.jpg) -->
 
 <footer class="source">Pilt: E. Marshall. “Cancer Research and the \$90 Billion Metaphor”. In: _Science_ 331.6024 (2011), pp. 1540 - 1541. DOI: 10.1126/science.331.6024.1540-a
 </footer>
@@ -293,7 +297,11 @@ Andmed: TAI vähiregister
 ---
 ## Concord 2 uuring
 
-![Global surveillance of cancer survival 1995–2009 (CONCORD-2) study 5-year survival data](https://github.com/tpall/Concord2/blob/master/graphs/concord-2.png?raw=true)
+<div style='text-align: center;'>
+    <img height='560' src='https://github.com/tpall/Concord2/blob/master/graphs/concord-2.png?raw=true' />
+</div>
+
+<!-- ![Global surveillance of cancer survival 1995–2009 (CONCORD-2) study 5-year survival data](https://github.com/tpall/Concord2/blob/master/graphs/concord-2.png?raw=true) -->
 
 
 <!-- --- -->
