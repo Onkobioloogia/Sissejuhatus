@@ -273,6 +273,13 @@ Andmed: TAI vähiregister
 <footer class="source">Pilt: E. Marshall. “Cancer Research and the \$90 Billion Metaphor”. In: _Science_ 331.6024 (2011), pp. 1540 - 1541. DOI: 10.1126/science.331.6024.1540-a
 </footer>
 
+---
+## Concord 2 uuring
+### Global surveillance of cancer survival 1995–2009 (CONCORD-2) study 5-year survival data
+
+![Global surveillance of cancer survival 1995–2009 (CONCORD-2) study 5-year survival data](Concord2/graphs/concord-2.png)
+
+
 <!-- --- -->
 <!-- ## Vähiravi/teraapiad -->
 
