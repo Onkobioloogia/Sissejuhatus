@@ -10,12 +10,29 @@ mode        : selfcontained # {standalone, draft}
 ---
 
 <!-- Limit image width and height -->
-<style type="text/css">
-img {     
-  max-height: 480px;     
-  max-width: 800px; 
+<!-- <style type="text/css"> -->
+<!-- img {      -->
+<!--   max-height: 480px;      -->
+<!--   max-width: 800px;  -->
+<!-- } -->
+<!-- </style> -->
+
+<!-- Limit image width and height -->
+<style type='text/css'>
+img {
+    max-height: 560px;
+    max-width: 964px;
 }
 </style>
+
+<!-- Center image on slide -->
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+<script type='text/javascript'>
+$(function() {
+    $("p:has(img)").addClass('centered');
+});
+</script>
+
 
 <style> .title-slide {
   background-image:url(figure/kole.jpg); 
