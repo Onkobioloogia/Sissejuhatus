@@ -150,7 +150,9 @@ Kohaviit: 616/W-46
 - Hippokrates: vähi "kehavedelike tasakaalu häire teooria" (must-, kollane sapp, veri ja flegma) 
 - vähke ajalooliselt käsitletud ka kui võõrkeha, mis on ennast haige kehas sisse seadnud.
 
-<img src="http://images.medicaldaily.com/sites/medicaldaily.com/files/styles/full_breakpoints_theme_medicaldaily_desktop_1x/public/2015/06/24/tumor-removed.jpg" style="width:300px">
+<div style='text-align: center;'>
+    <img height='560' src='http://images.medicaldaily.com/sites/medicaldaily.com/files/styles/full_breakpoints_theme_medicaldaily_desktop_1x/public/2015/06/24/tumor-removed.jpg' />
+</div>
 
 <footer class="source">Pilt: Vähi kirurgiline eemaldamine, 1689. Wikimedia.
 </footer>
@@ -166,7 +168,11 @@ Kohaviit: 616/W-46
 
 ***=right
 
-![microscopist](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJfwOppv_7oHAerDTw5UqxeJwsVWOkXH_DS2wIdaA98B7QWn36)
+<div style='text-align: center;'>
+    <img height='560' src='https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJfwOppv_7oHAerDTw5UqxeJwsVWOkXH_DS2wIdaA98B7QWn36' />
+</div>
+
+<!-- ![microscopist](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJfwOppv_7oHAerDTw5UqxeJwsVWOkXH_DS2wIdaA98B7QWn36) -->
 
 <footer class="source">Pilt: internet.
 </footer>
