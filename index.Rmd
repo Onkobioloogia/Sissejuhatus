@@ -524,25 +524,185 @@ Tuumorid mis tekivad **veres, luuüdis ja lümfisõlmedes**
   - äge lümfotsüütne leukeemia (**ALL**) tekib 80% juhtudel B-rakkudest ja 20% T-rakkudest
 
 
-<!-- ---&twocol -->
-<!-- ## Sagedasemad hematopoieetilised kasvajad -->
+---&twocol
+## Sagedasemad hematopoieetilised kasvajad
 
-<!-- ***=left -->
-<!--           | -->
-<!-- ---------------| -->
-<!-- äge lümfotsüütne leukeemia (**ALL**)| -->
-<!-- äge müelogeenne leukeemia (**AML**)| -->
-<!-- krooniline müelogeenne leukeemia (**CML**)| -->
-<!-- krooniline lümfotsüütne leukeemia (**CLL**)| -->
-<!-- multimüeloom (**MM**)| -->
-<!-- non-Hodgkin's lümfoom (**NHL**)| -->
-<!-- Hodgkin's tõbi| -->
+***=left
+          |
+---------------|
+äge lümfotsüütne leukeemia (**ALL**)|
+äge müelogeenne leukeemia (**AML**)|
+krooniline müelogeenne leukeemia (**CML**)|
+krooniline lümfotsüütne leukeemia (**CLL**)|
+multimüeloom (**MM**)|
+non-Hodgkin's lümfoom (**NHL**)|
+Hodgkin's tõbi|
 
-<!-- ***=right -->
+***=right
 
-<!-- <img src="http://www.pathologystudent.com/wp-content/uploads/2009/04/aml-m5b-hi1.jpg" style="width:420px"> -->
+<img src="http://www.pathologystudent.com/wp-content/uploads/2009/04/aml-m5b-hi1.jpg" style="width:420px">
 
-<!-- <footer class="source">[Pilt: pathologystudent.com](http://www.pathologystudent.com)</footer> -->
+<footer class="source">[Pilt: pathologystudent.com](http://www.pathologystudent.com)</footer>
+
+
+---
+## Neuroektodermaalsed kasvajad
+
+- Vähid mis tekivad **kesknärvisüsteemis ja perifeerses närvisüsteemis**
+- **ektodermaalset** päritolu
+- glioomid, glioblastoomid, neuroblastoomid, shwannoomid/oligodendroglioomid ja medulloblastoomid
+- moodustavad 1.3% diagnoositud kasvajatest, suremus samas kõrge 2.5% vähisurmadest
+
+---&twocol
+# CNS/PNS kasvajad
+
+***=left
+- glioblastoomid **GBM** ja astrotsütoomid: astrotsüüdid
+    - GBM, agressiivne IV staadiumi astrotsütoom
+- shwannoomid/oligodendroglioomid pärinevad müeliini moodustavatest rakkudest
+- retinoblastoom
+- neuroblastoomid pärinevad PNSi ganglionitest 
+
+***=right
+
+<img src="http://upload.wikimedia.org/wikipedia/commons/f/ff/Glioblastoma_%281%29.jpg" style="width:400px">
+
+
+<footer class="source">Pilt:[wikimedia](http://en.wikipedia.org/wiki/Glioblastoma_multiforme)</footer>
+
+---
+## Vähid mis ei klassifitseeru eelnimetatud gruppidesse
+
+- **melanoom** - nahakasvaja, neuroektodermaalset päritolu: naha melanotsüüdid pärinevad neuraalharjast
+- **väikeserakulised kopsukasvajad** (*SCLC*) - sarnased neurosekretoorsetele rakkudele
+
+<img src="http://web.biologie.uni-bielefeld.de/cellbiology/images/scientific-schemes/neural%20crest.jpg" style="width:400px">
+
+<footer class="source">[Pilt:web.biologie.uni-bielefeld.de](http://web.biologie.uni-bielefeld.de/cellbiology/index.php/research/neural-crest-derived-stem-cells)</footer>
+
+
+---
+## Epiteeli-mesenhümaalne transformatsioon
+
+ **EMT** on raku transdifferentseerumine, kus algne **kartsinoomi rakk omandab mesenhümaalse fenotüübi**
+ - EMT on seotud metastaseerumisega
+ - NB! EMT ei ole kartsinoomis histoloogiliselt jälgitav
+ - tegemist võib olla transientse seisundiga
+
+<img src="http://www.sabiosciences.com/images/Fig3_Fibrosis.gif" style="width:300px">
+
+<footer class="source">Pilt: http://www.sabiosciences.com/</footer>
+
+---
+## Reeglina säilitavad vähid oma päritolu-koe tunnused
+
+Olulise ühendva bioloogilise printsiibina säilitavad vähirakud alati mõne distinktse diferentseerunud tunnuse mis seob neid oma päritolukoega
+
+![kermets](http://www.breastpathology.info/Images/LVi%20&%20nodes/micromet-pan-ck.jpg)
+
+<footer class="source">Pilt: tsütokeratiin-positiivne mikrometastaas. www.breastpathology.info</footer>
+
+---
+## Anaplastilised kasvajad
+
+**Anaplaasia** - kasvaja mis on kaotanud koespetsiifilised tunnused (1-2% juhtudest)
+ - **histopatoloogliselt pole võimalik identifitseerda päritolu-kude**
+ - võib tekkida dediferentseerumise teel
+ - võib pärineda tüvirakkudest
+ - **pleomorfism**, rakud ja tuumad on ebaühtlase suuruse-kujuga
+ 
+![anaplaasia](http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Serous_carcinoma_2a_-_cytology.jpg/300px-Serous_carcinoma_2a_-_cytology.jpg)
+
+---&twocol
+## Molekulaarne klassifikatsioon
+
+***=left
+
+- osad kasvajad koespetsiifilised, teised mitte:
+- kopsu lamerakk, pea-kaela ja osa põiekasvajaid moodustavad ühe alatüübi
+- põievähid lahknevad eri alatüüpidesse.
+
+
+***=right
+![MolClassification](http://www.cell.com/cms/attachment/2035837326/2051298972/fx1.jpg)
+
+<footer class="source">[Multiplatform Analysis of 12 Cancer Types Reveals Molecular Classification within and across Tissues of Origin](http://www.sciencedirect.com/science/article/pii/S0092867414008769)</footer>
+
+---&twocol
+## Vähid arenevad progresseeruvalt
+
+***=left
+
+Vähi staadiume iseloomustab järk-järguline progresseerumine healoomulisest kasvajast kuni metastaasideni
+
+***=right
+
+![progressioon](http://www.hopkinscoloncancercenter.org/Upload/200812051423_11416_000.jpg)
+
+
+<footer class="source">[Pilt:hopkinscoloncancercenter.org](http://www.hopkinscoloncancercenter.org/CMS/CMS_Page.aspx?CurrentUDV=59&CMS_Page_ID=0B34E9BE-5DE6-4CB4-B387-4158CC924084)</footer>
+
+
+---
+## Kasvaja kliiniline progressioon
+
+**Neoplaasiad** - eri tüüpi kasvajalised moodustised
+
+Rohkem-vähem defineeritud "peatused" kasvaja arengus:
+
+Normaalne kude > hüper-/metaplastiline > düsplaasia > lokaalselt invasiivne > metastaasid
+
+---
+## Healoomulised kasvajad
+
+Healoomulised (*benign*) kasvajad võivad olla **hüperplastilised** või **metaplastilised** (*hyperplastic*, *metaplastic*)
+- hüperplastiline kude näeb välja normaalsena, välja arvatud märgatavalt suurenenud rakkude arv
+- metaplastilises koes on üks normaalne kude asendunud teisega nt. Barreti söögitoru
+
+![metaplaasia](http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Barretts_esophagus.jpg/345px-Barretts_esophagus.jpg)
+
+---&twocol
+## Düsplaasia
+
+***=left
+![wart](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Verruca_vulgaris_-_very_low_mag.jpg/330px-Verruca_vulgaris_-_very_low_mag.jpg)
+
+***=right
+
+**Düsplaasiad** sisaldavad juba rakke mis näevad välja ebanormaalsed.
+- healoomulised kuid pre-maliigne seisund (basaalmembraan on terve!)
+- adenoomid, polüübid, papilloomid, soolatüükad
+
+
+
+---&twocol
+## Pahaloomulised kasvajad 
+
+***=left
+
+ iseloomustab invasiivsus st. vähirakud on tunginud läbi **basaalmembraani**
+
+- lokaalselt invasiivne
+- siirded
+
+***=right
+
+![BM](http://cshperspectives.cshlp.org/content/3/12/a005058/F5.medium.gif)
+
+---
+## Metastaasid e. siirded
+
+Kasvajakolooniate teke keha teistesse osadesse/organitesse
+- lisaks invasiivsusele peab vähirakk omandama ka **amööbse liikumise võime** (*motility*)
+- ja **võime adapteeruda** "võõras keskkonnas"
+
+
+---
+## Kasvajad on monoklonaalsed
+Teoreetiliselt võivad kasvajat moodustavad vähirakud  olla kas **monoklonaalset** või **polüklonaalset** päritolu
+
+- Epigeneetika viitab monoklonaalsele päritolule: X-kromosoomi inaktivatsioon on rakkudes juhuslik, 30% Aafrika päritolu naistel on polümorfsm G6PD geenis (asub X-is), leiomüoomi heterosügootsete patsientidel leiti, et igal leiomüoomil esines ainult ühte geeni versiooni
+- müeloomid, müeloomid pärinevad B-rakkude eellastest, antikehi tootvatest plasmarakkudest, iga antikeha toodab üks kloon, igal patsiendil toodab müeloom vaid ühte antikeha
 
 --- &twocol
 
