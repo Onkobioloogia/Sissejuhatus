@@ -212,6 +212,18 @@ Kohaviit: 616/W-46
 - Rakkude jagunemist reguleerivad kasvufaktorid -- _insulin-like growth factor-1_ (IGF-1)
 - Valgud mis mõjutavad hormoonide toimet organismile, nagu _sex hormone-binding globulin_
 
+---
+## Kasvajarisk on seotud elustiiliga
+
+**Suitsetamine: 96% kopsuvähkidest tekib suitsetajatel**
+
+Sigarette päevas enne haigestumist | Suheline risk 
+-----------------------------------|---------------
+mittesuitsetaja | 1
+1 kuni 5 | 8
+5 kuni 15 | 12
+15 kuni 25 | 14
+25+ | 27
 
 ---&twocol
 ## Suitsetamise tõus arengumaades
@@ -232,6 +244,55 @@ Kohaviit: 616/W-46
 </a>
 </footer>
 
+---
+## Keskkonna ja elustiilifaktorid
+
+Type | % of total cases
+------|-----------------
+**Cancers due to occupational exposures** | 1–2
+**Lifestyle cancers** | 
+Tobacco-related (sites: e.g., lung, bladder, kidney) | 34
+Diet (low in vegetables, high in nitrates, salt) (sites: e.g., stomach, esophagus) | 5
+Diet (high fat, lower fiber, broiled/fried foods) (sites: e.g., bowel, pancreas, prostate, breast) | 37
+Tobacco and alcohol (sites: mouth, throat) | 2
+
+---
+## Kartsinogeenina toimivad nii füüsilised kui keemised mutageenid
+
+- **röntgenkiired**
+- **benseen** (ägedad leukeemiad)
+- **vinüülkloriid** (maksa angiosarkoom)
+- **raadium**(osteosarkoom)
+- **asbest** (mesotelioom)
+- **põsetubakas** (suuõõne kartsinoom)
+- etc. etc
+
+---
+##  Mutageesuse test: Amesi test
+
+**Mutageensus korreleerub kantserogeensusega! Kuid kõik kantserogeenid ei ole mutageenid, selliseid nimetatake kasvaja promootoriteks** 
+
+- Uuritav aine aktiveeritakse metabooselt kasutades roti maksa ekstrakti
+- aktiveeritud aine lisatakse his-mutantsetele *Salmonella* tassidele
+- algne *Salmonella* mutant ei suuda kasvada söömel milles puudub histidiin 
+- katse lõpus loetakse kolooniad üle
+- mida rohkem kolooniad seda tugevam mutageen
+
+
+---
+## Bruce Ames's carcinogens identified in the normal diet
+
+Foodstuff | Compound | Concentration in foodstuff
+-----------|---------|----------------------------
+Black pepper | piperine | 100 mg/g
+Common mushroom | agaritine| 3 mg/g
+Celery | furocoumarins, psoralens | 1 mg/g, 0.8 mg/g
+Rhubarb| anthraquinones | varies
+Cocoa powder | theobromine | 20 mg/g
+Mustard, horseradish | allyl isothiocyanate | varies
+Alfalfa sprouts | canavaninec | 15 mg/g
+Burnt materialsd | large number | varies
+Coffee | caffeic acid  | 11.6 mg/g
 
 
 <!-- ---&twocol -->
