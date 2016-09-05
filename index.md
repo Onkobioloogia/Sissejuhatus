@@ -290,7 +290,22 @@ Andmed: TAI vähiregister
     <img height='560' src='https://github.com/tpall/Concord2/blob/master/graphs/concord-2.png?raw=true' />
 </div>
 
-<!-- ![Global surveillance of cancer survival 1995–2009 (CONCORD-2) study 5-year survival data](https://github.com/tpall/Concord2/blob/master/graphs/concord-2.png?raw=true) -->
+---
+## Countries showing highest and lowest incidence of specific types of cancer
+
+Cancer site | Country of highest risk| Country of lowest risk | Relative risk H/L
+------------|------------------------|------------------------|-------------------
+Melanoma | Australia (Queensland) | Japan | 155
+Lip | Canada (Newfoundland) | Japan | 151
+Nasopharynx | Hong Kong | United Kingdom | 100
+Prostate | U.S. (African American)| China |70
+Liver |China (Shanghai) | Canada (Nova Scotia) | 49
+Penis |Brazil | Israel (Ashkenazic) | 42
+Cervix (uterus) | Brazil Israel (non-Jews) | 28
+Stomach| Japan | Kuwait | 22
+Lung | U.S. (Louisiana, African American) | India (Madras) | 19
+Pancreas | U.S. (Los Angeles, Korean American)| India | 11
+Ovary | New Zealand (Polynesian) | Kuwait | 8
 
 
 <!-- --- -->
