@@ -277,7 +277,7 @@ Andmed: TAI vähiregister
 ## Concord 2 uuring
 ### Global surveillance of cancer survival 1995–2009 (CONCORD-2) study 5-year survival data
 
-![Global surveillance of cancer survival 1995–2009 (CONCORD-2) study 5-year survival data](Concord2/graphs/concord-2.png)
+![Global surveillance of cancer survival 1995–2009 (CONCORD-2) study 5-year survival data](https://github.com/tpall/Concord2/blob/master/graphs/concord-2.png?raw=true)
 
 
 <!-- --- -->
