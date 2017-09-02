@@ -722,21 +722,20 @@ Teoreetiliselt võivad kasvajat moodustavad vähirakud  olla kas **monoklonaalse
 - Epigeneetika viitab monoklonaalsele päritolule: X-kromosoomi inaktivatsioon on rakkudes juhuslik, 30% Aafrika päritolu naistel on polümorfsm G6PD geenis (asub X-is), leiomüoomi heterosügootsete patsientidel leiti, et igal leiomüoomil esines ainult ühte geeni versiooni
 - müeloomid, müeloomid pärinevad B-rakkude eellastest, antikehi tootvatest plasmarakkudest, iga antikeha toodab üks kloon, igal patsiendil toodab müeloom vaid ühte antikeha
 
---- &twocol
+--- .segue .dark .nobackground
 
-# Teemad ja lingid loengutele
+## Lingid teistele loengutele
+
+--- &twocol 
 
 ***=left 
 
-<!-- - [Sissejuhatav loeng](http://tpall.github.io/sissejuhatus) -->
-- [Vähitüübid](http://tpall.github.io/nature-of-cancer)
-- [Onkoviirused](http://tpall.github.io/Onkoviirused)
-- [Onkogeenid](http://tpall.github.io/Onkogeenid)
+- [Sissejuhatav loeng:vähk, haigestumus ja vähitüübid](http://tpall.github.io/onkobioloogia)
+- [Viirused ja onkogeenid](http://tpall.github.io/viirused-ja-onkogeenid)
 - [Retseptorid](http://tpall.github.io/Retseptorid)
 - [Signaalirajad](http://tpall.github.io/Signaalirajad)
 - [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
 - [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
-
 
 ***=right 
 
@@ -744,7 +743,6 @@ Teoreetiliselt võivad kasvajat moodustavad vähirakud  olla kas **monoklonaalse
 - [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
 - [Tumorigenees](http://tpall.github.io/Tumorigenees)
 - [Genoomiterviklikkus](http://tpall.github.io/Genoomiterviklikkus)
-- [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
-- [Metastaasid](http://tpall.github.io/Metastaas)
+- [Mikrokeskkond ja metastaas](http://tpall.github.io/Mikrokeskkond-ja-metastaas)
 - [Immuunsus](http://tpall.github.io/Immuunsus)
 - [Vähiravimid](http://tpall.github.io/Vahiravim)
