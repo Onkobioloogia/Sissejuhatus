@@ -339,7 +339,7 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
 # Sõltuvalt vähitüübist võib elulemus varieeruda 10% kuni 90% 
 
 <div style='text-align: center;'>
-    <img height='480' src='figure/331_1540a_F1.jpg' />
+    <img height='460' src='figure/331_1540a_F1.jpg' />
 </div>
 
 <!-- ![suremus](figure/331_1540a_F1.jpg) -->
@@ -348,12 +348,12 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
 Pilt: E. Marshall. “Cancer Research and the \$90 Billion Metaphor”. In: _Science_ 331.6024 (2011), pp. 1540 - 1541. DOI: 10.1126/science.331.6024.1540-a
 </footer>
 
----
-## Concord 2 uuring
+<!-- --- -->
+<!-- ## Concord 2 uuring -->
 
-<div style='text-align: center;'>
-    <img height='560' src='https://github.com/tpall/Concord2/blob/master/graphs/concord-2.png?raw=true' />
-</div>
+<!-- <div style='text-align: center;'> -->
+<!--     <img height='560' src='https://github.com/tpall/Concord2/blob/master/graphs/concord-2.png?raw=true' /> -->
+<!-- </div> -->
 
 ---
 ## Countries showing highest and lowest incidence of specific types of cancer
