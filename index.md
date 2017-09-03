@@ -282,81 +282,21 @@ Coffee | caffeic acid  | 11.6 mg/g
 ---
 ## Kasvajatesse haigestumus Eestis
 
-
-```r
-kasvajad <- read.table("data/PK10m.csv", sep = "\t")
-colnames(kasvajad) <- c("Aasta", "Paige", "Sugu", "0-4","5-9","10-14","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85 ja vanemad")
-
-library(reshape2)
-library(dplyr)
-library(ggplot2)
-library(ggthemes)
-
-kasv <- melt(kasvajad, id = c("Aasta", "Paige", "Sugu")) %>% 
-  mutate(Paige = gsub("\xf5","õ", Paige),
-         Paige = gsub("\U3e63663c","ü", Paige),
-         Paige = gsub("\U3e34653c","ä", Paige),
-         Paige = gsub("\xf6","ö", Paige),
-         Paige = gsub("\U3e34633c","Ä", Paige)) 
-kasv %>%
-  filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
-  group_by(Aasta, Sugu) %>%
-  summarise(value = sum(value)) %>%
-  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
-  geom_bar(stat="identity") + 
-  ylab("Patsientide arv") +
-  scale_x_continuous(breaks = seq(2000, 2013, by = 2)) +
-  scale_fill_colorblind() +
-  theme(legend.title = element_blank())
-```
-
-![plot of chunk eesti-intsidents](assets/fig/eesti-intsidents-1.png)
+<img src="assets/fig/eesti-intsidents-1.png" title="plot of chunk eesti-intsidents" alt="plot of chunk eesti-intsidents" style="display: block; margin: auto;" />
 
 Andmed: TAI vähiregister
 
 ---
 ## Kasvajad Eestis paikmete kaupa
 
-
-```r
-kasv$PaigeHyph <- unlist(lapply(stringr::str_wrap(kasv$Paige, width=20), paste, collapse="\n"))
-
-kasv %>%
-  filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
-  group_by(Aasta, Sugu, PaigeHyph) %>%
-  summarise(value = sum(value)) %>%
-  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
-  geom_bar(stat="identity") + 
-  facet_wrap(~PaigeHyph) + 
-  ylab("Patsientide arv") +
-  scale_fill_colorblind() +
-  theme(legend.title = element_blank())
-```
-
-![plot of chunk eesti-paikmed](assets/fig/eesti-paikmed-1.png)
+<img src="assets/fig/eesti-paikmed-1.png" title="plot of chunk eesti-paikmed" alt="plot of chunk eesti-paikmed" style="display: block; margin: auto;" />
 
 Andmed: TAI vähiregister
 
 ---
 ## Sagedasemad paikmed
 
-
-```r
-kasv %>%
-  filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
-  group_by(Sugu, PaigeHyph) %>%
-  summarise(value = sum(value)) %>%
-  filter(value>100) %>%
-  ggplot(aes(x = reorder(PaigeHyph, value), y = value, fill = Sugu)) + 
-  geom_bar(stat="identity") + 
-  scale_y_continuous(name=paste("Patsientide arv", paste(range(kasv$Aasta), collapse = "-"))) +
-  scale_x_discrete(name="Paikmed") + coord_flip() +
-  scale_fill_colorblind() + 
-  theme(legend.position=c(0.7, 0.4),
-        legend.title = element_blank())
-```
-
-![plot of chunk sagedasemad-paikmed](assets/fig/sagedasemad-paikmed-1.png)
+<img src="assets/fig/sagedasemad-paikmed-1.png" title="plot of chunk sagedasemad-paikmed" alt="plot of chunk sagedasemad-paikmed" style="display: block; margin: auto;" />
 
 ---
 ## Esmased vähid ja 5 aasta suremus
