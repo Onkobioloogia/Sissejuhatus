@@ -7,7 +7,18 @@ framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 mode        : selfcontained # {standalone, draft}
+layout: slide
+replace: slide.content
 ---
+
+<script src="https://use.fontawesome.com/e4ba4259a1.js"></script>
+
+{{{ slide.content }}}
+<footer class = 'logo'>
+  <i class="fa fa-camera-retro"></i> fa-camera-retro
+</footer>
+
+
 
 <!-- Limit image width and height -->
 <style type="text/css">
