@@ -9,15 +9,6 @@ hitheme     : tomorrow      #
 mode        : selfcontained # {standalone, draft}
 ---
 
-<style> .title-slide {
-  background-image:url(figure/kole.jpg);
-  background-repeat: no-repeat;
-  background-position: 94% 50%;
-  background-size: 36%;
-  background-color: #CBE7A5; /* ; ; */ }
-  background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
-}
-
 
 
 
