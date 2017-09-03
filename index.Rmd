@@ -7,14 +7,9 @@ framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 mode        : selfcontained # {standalone, draft}
----
 
-```{r setup, echo=FALSE}
-library(knitr)
-opts_chunk$set(echo=FALSE,warning=FALSE,message=FALSE,fig.align='center')
-```
+--- .segue .dark .nobackground
 
----.segue .dark .nobackground
 ## Sissejuhatus
 
 --- 
@@ -39,7 +34,7 @@ vähisurmasid
 
 ---
 
-```{r worldcancer, echo=FALSE}
+```{r worldcancer, echo=FALSE, fig.align='center'}
 world_cancer <- read.csv("data/data.csv")
 library(ggplot2)
 library(viridis)
@@ -284,7 +279,7 @@ Coffee | caffeic acid  | 11.6 mg/g
 ---
 ## Kasvajatesse haigestumus Eestis
 
-```{r eestiintsidents, echo=FALSE, warning=FALSE, message=FALSE}
+```{r eestiintsidents, echo=FALSE, warning=FALSE, message=FALSE, fig.align='center'}
 kasvajad <- read.table("data/PK10m.csv", sep = "\t")
 colnames(kasvajad) <- c("Aasta", "Paige", "Sugu", "0-4","5-9","10-14","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85 ja vanemad")
 
@@ -317,7 +312,7 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
 ---
 ## Kasvajad Eestis paikmete kaupa
 
-```{r eestipaikmed, echo=FALSE, warning=FALSE, message=FALSE}
+```{r eestipaikmed, echo=FALSE, warning=FALSE, message=FALSE, fig.align='center'}
 kasv$PaigeHyph <- unlist(lapply(stringr::str_wrap(kasv$Paige, width=20), paste, collapse="\n"))
 
 kasv %>%
@@ -339,7 +334,7 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
 ---
 ## Sagedasemad paikmed
 
-```{r sagedasemadpaikmed, echo=FALSE, warning=FALSE, message=FALSE}
+```{r sagedasemadpaikmed, echo=FALSE, warning=FALSE, message=FALSE, fig.align='center'}
 kasv %>%
   filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
   group_by(Sugu, PaigeHyph) %>%

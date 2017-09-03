@@ -7,11 +7,9 @@ framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 mode        : selfcontained # {standalone, draft}
----
 
+--- .segue .dark .nobackground
 
-
----.segue .dark .nobackground
 ## Sissejuhatus
 
 --- 
@@ -36,7 +34,7 @@ vähisurmasid
 
 ---
 
-![plot of chunk worldcancer](assets/fig/worldcancer-1.png)
+<img src="assets/fig/worldcancer-1.png" title="plot of chunk worldcancer" alt="plot of chunk worldcancer" style="display: block; margin: auto;" />
 
 <footer class="source">Andmed: [Cancer today](http://gco.iarc.fr/today/online-analysis-multi-bars?mode=cancer&mode_population=continents&population=900&sex=0&cancer=24&type=1&statistic=0&prevalence=0&color_palette=default)</footer>
 
@@ -272,7 +270,7 @@ Coffee | caffeic acid  | 11.6 mg/g
 ---
 ## Kasvajatesse haigestumus Eestis
 
-![plot of chunk eestiintsidents](assets/fig/eestiintsidents-1.png)
+<img src="assets/fig/eestiintsidents-1.png" title="plot of chunk eestiintsidents" alt="plot of chunk eestiintsidents" style="display: block; margin: auto;" />
 
 <footer class='source'>
 Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregister)
@@ -281,7 +279,7 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
 ---
 ## Kasvajad Eestis paikmete kaupa
 
-![plot of chunk eestipaikmed](assets/fig/eestipaikmed-1.png)
+<img src="assets/fig/eestipaikmed-1.png" title="plot of chunk eestipaikmed" alt="plot of chunk eestipaikmed" style="display: block; margin: auto;" />
 
 <footer class='source'>
 Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregister)
@@ -290,7 +288,7 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
 ---
 ## Sagedasemad paikmed
 
-![plot of chunk sagedasemadpaikmed](assets/fig/sagedasemadpaikmed-1.png)
+<img src="assets/fig/sagedasemadpaikmed-1.png" title="plot of chunk sagedasemadpaikmed" alt="plot of chunk sagedasemadpaikmed" style="display: block; margin: auto;" />
 
 <footer class='source'>
 Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregister)
