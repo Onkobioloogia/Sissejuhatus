@@ -122,6 +122,24 @@ vähisurmasid</li>
 </slide>
 
 <slide class="" id="slide-6" style="background:;">
+  <article data-timings="">
+    <pre><code class="r">world_cancer &lt;- read.csv(&quot;data/data.csv&quot;)
+library(ggplot2)
+library(viridis)
+ggplot(world_cancer, aes(reorder(Cancer, -Value), Value/1e6)) +
+  geom_bar(stat = &#39;identity&#39;) +
+  ylab(&quot;Estimated number of deaths, millions&quot;) + 
+  xlab(&quot;&quot;) +
+  ggtitle(&quot;Cancer mortality, both sexes, worldwide 2012 (Globocan)&quot;)
+</code></pre>
+
+<p><img src="assets/fig/worldcancer-1.png" alt="plot of chunk worldcancer"></p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-7" style="background:;">
   <hgroup>
     <h2>Kursuse eesmärk</h2>
   </hgroup>
@@ -134,7 +152,7 @@ vähisurmasid</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-7" style="background:;">
+<slide class="" id="slide-8" style="background:;">
   <hgroup>
     <h2>Raamat</h2>
   </hgroup>
@@ -157,7 +175,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="segue dark nobackground" id="slide-8" style="background:;">
+<slide class="segue dark nobackground" id="slide-9" style="background:;">
   <hgroup>
     <h2>Ajaloost</h2>
   </hgroup>
@@ -167,7 +185,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-9" style="background:;">
+<slide class="" id="slide-10" style="background:;">
   <hgroup>
     <h2>Egiptus, 16-17. dünastia</h2>
   </hgroup>
@@ -192,7 +210,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-10" style="background:;">
+<slide class="" id="slide-11" style="background:;">
   <hgroup>
     <h2>Kasvajad kui tulnukad</h2>
   </hgroup>
@@ -213,7 +231,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-11" style="background:;">
+<slide class="" id="slide-12" style="background:;">
   <hgroup>
     <h2>Kasvajad on koelise struktuuriga</h2>
   </hgroup>
@@ -246,7 +264,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-12" style="background:;">
+<slide class="" id="slide-13" style="background:;">
   <hgroup>
     <h2>Vähki põhjustavad kartsinogeenid</h2>
   </hgroup>
@@ -269,7 +287,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="segue dark nobackground" id="slide-13" style="background:;">
+<slide class="segue dark nobackground" id="slide-14" style="background:;">
   <hgroup>
     <h2>Tänapäev</h2>
   </hgroup>
@@ -279,7 +297,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-14" style="background:;">
+<slide class="" id="slide-15" style="background:;">
   <hgroup>
     <h2>Vähiriski mõjutab elustiil</h2>
   </hgroup>
@@ -298,7 +316,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-15" style="background:;">
+<slide class="" id="slide-16" style="background:;">
   <hgroup>
     <h2>Ülekaalulisus ja vähk</h2>
   </hgroup>
@@ -319,7 +337,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-16" style="background:;">
+<slide class="" id="slide-17" style="background:;">
   <hgroup>
     <h2>Kuidas siis ülekaalulisus on vähiga seotud?</h2>
   </hgroup>
@@ -335,7 +353,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-17" style="background:;">
+<slide class="" id="slide-18" style="background:;">
   <hgroup>
     <h2>Kasvajarisk on seotud elustiiliga</h2>
   </hgroup>
@@ -374,7 +392,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-18" style="background:;">
+<slide class="" id="slide-19" style="background:;">
   <hgroup>
     <h2>Suitsetamise tõus arengumaades</h2>
   </hgroup>
@@ -402,7 +420,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-19" style="background:;">
+<slide class="" id="slide-20" style="background:;">
   <hgroup>
     <h2>Keskkonna ja elustiilifaktorid</h2>
   </hgroup>
@@ -443,7 +461,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-20" style="background:;">
+<slide class="" id="slide-21" style="background:;">
   <hgroup>
     <h2>Kartsinogeenina toimivad nii füüsilised kui keemised mutageenid</h2>
   </hgroup>
@@ -462,7 +480,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-21" style="background:;">
+<slide class="" id="slide-22" style="background:;">
   <hgroup>
     <h2>Mutageesuse test: Amesi test</h2>
   </hgroup>
@@ -481,7 +499,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-22" style="background:;">
+<slide class="" id="slide-23" style="background:;">
   <hgroup>
     <h2>Bruce Ames&#39;s carcinogens identified in the normal diet</h2>
   </hgroup>
@@ -570,25 +588,37 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-23" style="background:;">
+<slide class="" id="slide-24" style="background:;">
   <hgroup>
     <h2>Kasvajatesse haigestumus Eestis</h2>
   </hgroup>
   <article data-timings="">
-    <p><img src="assets/fig/eesti-intsidents-1.png" title="plot of chunk eesti-intsidents" alt="plot of chunk eesti-intsidents" style="display: block; margin: auto;" /></p>
+    <pre><code class="r">kasvajad &lt;- read.table(&quot;data/PK10m.csv&quot;, sep = &quot;\t&quot;)
+colnames(kasvajad) &lt;- c(&quot;Aasta&quot;, &quot;Paige&quot;, &quot;Sugu&quot;, &quot;0-4&quot;,&quot;5-9&quot;,&quot;10-14&quot;,&quot;15-19&quot;,&quot;20-24&quot;,&quot;25-29&quot;,&quot;30-34&quot;,&quot;35-39&quot;,&quot;40-44&quot;,&quot;45-49&quot;,&quot;50-54&quot;,&quot;55-59&quot;,&quot;60-64&quot;,&quot;65-69&quot;,&quot;70-74&quot;,&quot;75-79&quot;,&quot;80-84&quot;,&quot;85 ja vanemad&quot;)
 
-<p>Andmed: TAI vähiregister</p>
+library(reshape2)
+library(dplyr)
+library(ggthemes)
 
-  </article>
-  <!-- Presenter Notes -->
-</slide>
+kasv &lt;- melt(kasvajad, id = c(&quot;Aasta&quot;, &quot;Paige&quot;, &quot;Sugu&quot;)) %&gt;% 
+  mutate(Paige = gsub(&quot;\xf5&quot;,&quot;õ&quot;, Paige),
+         Paige = gsub(&quot;\U3e63663c&quot;,&quot;ü&quot;, Paige),
+         Paige = gsub(&quot;\U3e34653c&quot;,&quot;ä&quot;, Paige),
+         Paige = gsub(&quot;\xf6&quot;,&quot;ö&quot;, Paige),
+         Paige = gsub(&quot;\U3e34633c&quot;,&quot;Ä&quot;, Paige)) 
+kasv %&gt;%
+  filter(!grepl(&quot;^ ?([[:punct:]]+)|Kõik paikmed&quot;, Paige)) %&gt;% 
+  group_by(Aasta, Sugu) %&gt;%
+  summarise(value = sum(value)) %&gt;%
+  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
+  geom_bar(stat=&quot;identity&quot;) + 
+  ylab(&quot;Patsientide arv&quot;) +
+  scale_x_continuous(breaks = seq(2000, 2013, by = 2)) +
+  scale_fill_colorblind() +
+  theme(legend.title = element_blank())
+</code></pre>
 
-<slide class="" id="slide-24" style="background:;">
-  <hgroup>
-    <h2>Kasvajad Eestis paikmete kaupa</h2>
-  </hgroup>
-  <article data-timings="">
-    <p><img src="assets/fig/eesti-paikmed-1.png" title="plot of chunk eesti-paikmed" alt="plot of chunk eesti-paikmed" style="display: block; margin: auto;" /></p>
+<p><img src="assets/fig/eestiintsidents-1.png" alt="plot of chunk eestiintsidents"></p>
 
 <p>Andmed: TAI vähiregister</p>
 
@@ -598,16 +628,57 @@ Kohaviit: 616/W-46</li>
 
 <slide class="" id="slide-25" style="background:;">
   <hgroup>
-    <h2>Sagedasemad paikmed</h2>
+    <h2>Kasvajad Eestis paikmete kaupa</h2>
   </hgroup>
   <article data-timings="">
-    <p><img src="assets/fig/sagedasemad-paikmed-1.png" title="plot of chunk sagedasemad-paikmed" alt="plot of chunk sagedasemad-paikmed" style="display: block; margin: auto;" /></p>
+    <pre><code class="r">kasv$PaigeHyph &lt;- unlist(lapply(stringr::str_wrap(kasv$Paige, width=20), paste, collapse=&quot;\n&quot;))
+
+kasv %&gt;%
+  filter(!grepl(&quot;^ ?([[:punct:]]+)|Kõik paikmed&quot;, Paige)) %&gt;% 
+  group_by(Aasta, Sugu, PaigeHyph) %&gt;%
+  summarise(value = sum(value)) %&gt;%
+  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
+  geom_bar(stat=&quot;identity&quot;) + 
+  facet_wrap(~PaigeHyph) + 
+  ylab(&quot;Patsientide arv&quot;) +
+  scale_fill_colorblind() +
+  theme(legend.title = element_blank())
+</code></pre>
+
+<p><img src="assets/fig/eestipaikmed-1.png" alt="plot of chunk eestipaikmed"></p>
+
+<p>Andmed: TAI vähiregister</p>
 
   </article>
   <!-- Presenter Notes -->
 </slide>
 
 <slide class="" id="slide-26" style="background:;">
+  <hgroup>
+    <h2>Sagedasemad paikmed</h2>
+  </hgroup>
+  <article data-timings="">
+    <pre><code class="r">kasv %&gt;%
+  filter(!grepl(&quot;^ ?([[:punct:]]+)|Kõik paikmed&quot;, Paige)) %&gt;% 
+  group_by(Sugu, PaigeHyph) %&gt;%
+  summarise(value = sum(value)) %&gt;%
+  filter(value&gt;100) %&gt;%
+  ggplot(aes(x = reorder(PaigeHyph, value), y = value, fill = Sugu)) + 
+  geom_bar(stat=&quot;identity&quot;) + 
+  scale_y_continuous(name=paste(&quot;Patsientide arv&quot;, paste(range(kasv$Aasta), collapse = &quot;-&quot;))) +
+  scale_x_discrete(name=&quot;Paikmed&quot;) + coord_flip() +
+  scale_fill_colorblind() + 
+  theme(legend.position=c(0.7, 0.4),
+        legend.title = element_blank())
+</code></pre>
+
+<p><img src="assets/fig/sagedasemadpaikmed-1.png" alt="plot of chunk sagedasemadpaikmed"></p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-27" style="background:;">
   <hgroup>
     <h2>Esmased vähid ja 5 aasta suremus</h2>
   </hgroup>
@@ -627,7 +698,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-27" style="background:;">
+<slide class="" id="slide-28" style="background:;">
   <hgroup>
     <h2>Concord 2 uuring</h2>
   </hgroup>
@@ -640,7 +711,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-28" style="background:;">
+<slide class="" id="slide-29" style="background:;">
   <hgroup>
     <h2>Countries showing highest and lowest incidence of specific types of cancer</h2>
   </hgroup>
@@ -779,7 +850,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="segue dark nobackground" id="slide-29" style="background:;">
+<slide class="segue dark nobackground" id="slide-30" style="background:;">
   <hgroup>
     <h2>Vähitüübid</h2>
   </hgroup>
@@ -789,7 +860,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-30" style="background:;">
+<slide class="" id="slide-31" style="background:;">
   <hgroup>
     <h2>Kliiniline klassifikatsioon</h2>
   </hgroup>
@@ -818,7 +889,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-31" style="background:;">
+<slide class="" id="slide-32" style="background:;">
   <hgroup>
     <h2>Neli põhilist vähitüüpi</h2>
   </hgroup>
@@ -847,7 +918,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-32" style="background:;">
+<slide class="" id="slide-33" style="background:;">
   <hgroup>
     <h2>Epiteel</h2>
   </hgroup>
@@ -868,7 +939,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-33" style="background:;">
+<slide class="" id="slide-34" style="background:;">
   <hgroup>
     <h2>Basaalmembraan</h2>
   </hgroup>
@@ -893,7 +964,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-34" style="background:;">
+<slide class="" id="slide-35" style="background:;">
   <hgroup>
     <h2>Kartsinoomid</h2>
   </hgroup>
@@ -908,7 +979,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-35" style="background:;">
+<slide class="" id="slide-36" style="background:;">
   <hgroup>
     <h2>Epiteelid pärinevad erinevatest lootelehtedest</h2>
   </hgroup>
@@ -923,7 +994,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-36" style="background:;">
+<slide class="" id="slide-37" style="background:;">
   <hgroup>
     <h2>Kartsinoomid jagunevad laias laastus kaheks</h2>
   </hgroup>
@@ -937,7 +1008,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-37" style="background:;">
+<slide class="" id="slide-38" style="background:;">
   <hgroup>
     <h2>Kartsinoomide sagedasemad paikmed</h2>
   </hgroup>
@@ -1000,7 +1071,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-38" style="background:;">
+<slide class="" id="slide-39" style="background:;">
   <hgroup>
     <h2>Mitte-epiteliaalsed kasvajad</h2>
   </hgroup>
@@ -1020,7 +1091,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-39" style="background:;">
+<slide class="" id="slide-40" style="background:;">
   <hgroup>
     <h2>Sarkoomid</h2>
   </hgroup>
@@ -1071,7 +1142,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-40" style="background:;">
+<slide class="" id="slide-41" style="background:;">
   <hgroup>
     <h2>Hematopoieetilised ja lümfoidsed kasvajad</h2>
   </hgroup>
@@ -1093,7 +1164,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-41" style="background:;">
+<slide class="" id="slide-42" style="background:;">
   <hgroup>
     <h2>Sagedasemad hematopoieetilised kasvajad</h2>
   </hgroup>
@@ -1139,7 +1210,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-42" style="background:;">
+<slide class="" id="slide-43" style="background:;">
   <hgroup>
     <h2>Neuroektodermaalsed kasvajad</h2>
   </hgroup>
@@ -1155,7 +1226,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-43" style="background:;">
+<slide class="" id="slide-44" style="background:;">
   <hgroup>
     <h1>CNS/PNS kasvajad</h1>
   </hgroup>
@@ -1184,7 +1255,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-44" style="background:;">
+<slide class="" id="slide-45" style="background:;">
   <hgroup>
     <h2>Vähid mis ei klassifitseeru eelnimetatud gruppidesse</h2>
   </hgroup>
@@ -1202,7 +1273,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-45" style="background:;">
+<slide class="" id="slide-46" style="background:;">
   <hgroup>
     <h2>Reeglina säilitavad vähid oma päritolu-koe tunnused</h2>
   </hgroup>
@@ -1217,7 +1288,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-46" style="background:;">
+<slide class="" id="slide-47" style="background:;">
   <hgroup>
     <h2>Epiteeli-mesenhümaalne transformatsioon</h2>
   </hgroup>
@@ -1238,7 +1309,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-47" style="background:;">
+<slide class="" id="slide-48" style="background:;">
   <hgroup>
     <h2>Anaplastilised kasvajad</h2>
   </hgroup>
@@ -1258,7 +1329,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-48" style="background:;">
+<slide class="" id="slide-49" style="background:;">
   <hgroup>
     <h2>Molekulaarne klassifikatsioon</h2>
   </hgroup>
@@ -1282,7 +1353,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-49" style="background:;">
+<slide class="" id="slide-50" style="background:;">
   <hgroup>
     <h2>Vähid arenevad progresseeruvalt</h2>
   </hgroup>
@@ -1302,7 +1373,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-50" style="background:;">
+<slide class="" id="slide-51" style="background:;">
   <hgroup>
     <h2>Kasvaja kliiniline progressioon</h2>
   </hgroup>
@@ -1317,7 +1388,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-51" style="background:;">
+<slide class="" id="slide-52" style="background:;">
   <hgroup>
     <h2>Healoomulised kasvajad</h2>
   </hgroup>
@@ -1335,7 +1406,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-52" style="background:;">
+<slide class="" id="slide-53" style="background:;">
   <hgroup>
     <h2>Düsplaasia</h2>
   </hgroup>
@@ -1358,7 +1429,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-53" style="background:;">
+<slide class="" id="slide-54" style="background:;">
   <hgroup>
     <h2>Pahaloomulised kasvajad</h2>
   </hgroup>
@@ -1381,7 +1452,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-54" style="background:;">
+<slide class="" id="slide-55" style="background:;">
   <hgroup>
     <h2>Metastaasid e. siirded</h2>
   </hgroup>
@@ -1397,7 +1468,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-55" style="background:;">
+<slide class="" id="slide-56" style="background:;">
   <hgroup>
     <h2>Kasvajad on monoklonaalsed</h2>
   </hgroup>
@@ -1413,7 +1484,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="segue dark nobackground" id="slide-56" style="background:;">
+<slide class="segue dark nobackground" id="slide-57" style="background:;">
   <hgroup>
     <h2>Lingid teistele loengutele</h2>
   </hgroup>
@@ -1423,7 +1494,7 @@ Kohaviit: 616/W-46</li>
   <!-- Presenter Notes -->
 </slide>
 
-<slide class="" id="slide-57" style="background:;">
+<slide class="" id="slide-58" style="background:;">
   <article data-timings="">
     
 <div style='float:left;width:48%;' class='centered'>
@@ -1489,314 +1560,320 @@ Kohaviit: 616/W-46</li>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=6 title='Kursuse eesmärk'>
+        data-slide=6 title='NA'>
          6
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=7 title='Raamat'>
+        data-slide=7 title='Kursuse eesmärk'>
          7
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=8 title='Ajaloost'>
+        data-slide=8 title='Raamat'>
          8
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=9 title='Egiptus, 16-17. dünastia'>
+        data-slide=9 title='Ajaloost'>
          9
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=10 title='Kasvajad kui tulnukad'>
+        data-slide=10 title='Egiptus, 16-17. dünastia'>
          10
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=11 title='Kasvajad on koelise struktuuriga'>
+        data-slide=11 title='Kasvajad kui tulnukad'>
          11
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=12 title='Vähki põhjustavad kartsinogeenid'>
+        data-slide=12 title='Kasvajad on koelise struktuuriga'>
          12
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=13 title='Tänapäev'>
+        data-slide=13 title='Vähki põhjustavad kartsinogeenid'>
          13
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=14 title='Vähiriski mõjutab elustiil'>
+        data-slide=14 title='Tänapäev'>
          14
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=15 title='Ülekaalulisus ja vähk'>
+        data-slide=15 title='Vähiriski mõjutab elustiil'>
          15
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=16 title='Kuidas siis ülekaalulisus on vähiga seotud?'>
+        data-slide=16 title='Ülekaalulisus ja vähk'>
          16
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=17 title='Kasvajarisk on seotud elustiiliga'>
+        data-slide=17 title='Kuidas siis ülekaalulisus on vähiga seotud?'>
          17
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=18 title='Suitsetamise tõus arengumaades'>
+        data-slide=18 title='Kasvajarisk on seotud elustiiliga'>
          18
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=19 title='Keskkonna ja elustiilifaktorid'>
+        data-slide=19 title='Suitsetamise tõus arengumaades'>
          19
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=20 title='Kartsinogeenina toimivad nii füüsilised kui keemised mutageenid'>
+        data-slide=20 title='Keskkonna ja elustiilifaktorid'>
          20
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=21 title='Mutageesuse test: Amesi test'>
+        data-slide=21 title='Kartsinogeenina toimivad nii füüsilised kui keemised mutageenid'>
          21
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=22 title='Bruce Ames&#39;s carcinogens identified in the normal diet'>
+        data-slide=22 title='Mutageesuse test: Amesi test'>
          22
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=23 title='Kasvajatesse haigestumus Eestis'>
+        data-slide=23 title='Bruce Ames&#39;s carcinogens identified in the normal diet'>
          23
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=24 title='Kasvajad Eestis paikmete kaupa'>
+        data-slide=24 title='Kasvajatesse haigestumus Eestis'>
          24
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=25 title='Sagedasemad paikmed'>
+        data-slide=25 title='Kasvajad Eestis paikmete kaupa'>
          25
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=26 title='Esmased vähid ja 5 aasta suremus'>
+        data-slide=26 title='Sagedasemad paikmed'>
          26
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=27 title='Concord 2 uuring'>
+        data-slide=27 title='Esmased vähid ja 5 aasta suremus'>
          27
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=28 title='Countries showing highest and lowest incidence of specific types of cancer'>
+        data-slide=28 title='Concord 2 uuring'>
          28
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=29 title='Vähitüübid'>
+        data-slide=29 title='Countries showing highest and lowest incidence of specific types of cancer'>
          29
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=30 title='Kliiniline klassifikatsioon'>
+        data-slide=30 title='Vähitüübid'>
          30
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=31 title='Neli põhilist vähitüüpi'>
+        data-slide=31 title='Kliiniline klassifikatsioon'>
          31
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=32 title='Epiteel'>
+        data-slide=32 title='Neli põhilist vähitüüpi'>
          32
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=33 title='Basaalmembraan'>
+        data-slide=33 title='Epiteel'>
          33
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=34 title='Kartsinoomid'>
+        data-slide=34 title='Basaalmembraan'>
          34
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=35 title='Epiteelid pärinevad erinevatest lootelehtedest'>
+        data-slide=35 title='Kartsinoomid'>
          35
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=36 title='Kartsinoomid jagunevad laias laastus kaheks'>
+        data-slide=36 title='Epiteelid pärinevad erinevatest lootelehtedest'>
          36
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=37 title='Kartsinoomide sagedasemad paikmed'>
+        data-slide=37 title='Kartsinoomid jagunevad laias laastus kaheks'>
          37
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=38 title='Mitte-epiteliaalsed kasvajad'>
+        data-slide=38 title='Kartsinoomide sagedasemad paikmed'>
          38
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=39 title='Sarkoomid'>
+        data-slide=39 title='Mitte-epiteliaalsed kasvajad'>
          39
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=40 title='Hematopoieetilised ja lümfoidsed kasvajad'>
+        data-slide=40 title='Sarkoomid'>
          40
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=41 title='Sagedasemad hematopoieetilised kasvajad'>
+        data-slide=41 title='Hematopoieetilised ja lümfoidsed kasvajad'>
          41
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=42 title='Neuroektodermaalsed kasvajad'>
+        data-slide=42 title='Sagedasemad hematopoieetilised kasvajad'>
          42
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=43 title='CNS/PNS kasvajad'>
+        data-slide=43 title='Neuroektodermaalsed kasvajad'>
          43
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=44 title='Vähid mis ei klassifitseeru eelnimetatud gruppidesse'>
+        data-slide=44 title='CNS/PNS kasvajad'>
          44
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=45 title='Reeglina säilitavad vähid oma päritolu-koe tunnused'>
+        data-slide=45 title='Vähid mis ei klassifitseeru eelnimetatud gruppidesse'>
          45
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=46 title='Epiteeli-mesenhümaalne transformatsioon'>
+        data-slide=46 title='Reeglina säilitavad vähid oma päritolu-koe tunnused'>
          46
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=47 title='Anaplastilised kasvajad'>
+        data-slide=47 title='Epiteeli-mesenhümaalne transformatsioon'>
          47
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=48 title='Molekulaarne klassifikatsioon'>
+        data-slide=48 title='Anaplastilised kasvajad'>
          48
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=49 title='Vähid arenevad progresseeruvalt'>
+        data-slide=49 title='Molekulaarne klassifikatsioon'>
          49
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=50 title='Kasvaja kliiniline progressioon'>
+        data-slide=50 title='Vähid arenevad progresseeruvalt'>
          50
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=51 title='Healoomulised kasvajad'>
+        data-slide=51 title='Kasvaja kliiniline progressioon'>
          51
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=52 title='Düsplaasia'>
+        data-slide=52 title='Healoomulised kasvajad'>
          52
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=53 title='Pahaloomulised kasvajad'>
+        data-slide=53 title='Düsplaasia'>
          53
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=54 title='Metastaasid e. siirded'>
+        data-slide=54 title='Pahaloomulised kasvajad'>
          54
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=55 title='Kasvajad on monoklonaalsed'>
+        data-slide=55 title='Metastaasid e. siirded'>
          55
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=56 title='Lingid teistele loengutele'>
+        data-slide=56 title='Kasvajad on monoklonaalsed'>
          56
       </a>
     </li>
     <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=57 title='NA'>
+        data-slide=57 title='Lingid teistele loengutele'>
          57
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=58 title='NA'>
+         58
       </a>
     </li>
   </ul>

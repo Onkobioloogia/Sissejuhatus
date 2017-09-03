@@ -7,3 +7,5 @@ dplyr
 ggplot2
 ggthemes
 bindrcpp
+viridisLite
+viridis

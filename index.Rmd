@@ -55,6 +55,21 @@ Võrdluseks:
 - 3-4. krooniline obstruktiivne kopsuhaigus ja alumiste hingamisteede infektsioonid (a 3.1M)
 
 ---
+
+```{r worldcancer}
+world_cancer <- read.csv("data/data.csv")
+library(ggplot2)
+library(viridis)
+ggplot(world_cancer, aes(reorder(Cancer, -Value), Value/1e6)) +
+  geom_bar(stat = 'identity') +
+  ylab("Estimated number of deaths, millions") + 
+  xlab("") +
+  ggtitle("Cancer mortality, both sexes, worldwide 2012 (Globocan)")
+```
+
+
+
+---
 ## Kursuse eesmärk
 
 - **Selgitada vähkkasvajate tekke molekulaarseid ja rakulisi mehhanisme**
@@ -285,13 +300,12 @@ Coffee | caffeic acid  | 11.6 mg/g
 ---
 ## Kasvajatesse haigestumus Eestis
 
-```{r eesti-intsidents}
+```{r eestiintsidents}
 kasvajad <- read.table("data/PK10m.csv", sep = "\t")
 colnames(kasvajad) <- c("Aasta", "Paige", "Sugu", "0-4","5-9","10-14","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85 ja vanemad")
 
 library(reshape2)
 library(dplyr)
-library(ggplot2)
 library(ggthemes)
 
 kasv <- melt(kasvajad, id = c("Aasta", "Paige", "Sugu")) %>% 
@@ -317,7 +331,7 @@ Andmed: TAI vähiregister
 ---
 ## Kasvajad Eestis paikmete kaupa
 
-```{r eesti-paikmed}
+```{r eestipaikmed}
 kasv$PaigeHyph <- unlist(lapply(stringr::str_wrap(kasv$Paige, width=20), paste, collapse="\n"))
 
 kasv %>%
@@ -337,7 +351,7 @@ Andmed: TAI vähiregister
 ---
 ## Sagedasemad paikmed
 
-```{r sagedasemad-paikmed}
+```{r sagedasemadpaikmed}
 kasv %>%
   filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
   group_by(Sugu, PaigeHyph) %>%
