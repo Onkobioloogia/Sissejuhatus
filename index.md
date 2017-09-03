@@ -36,18 +36,6 @@ vähisurmasid
 
 ---
 
-
-```r
-world_cancer <- read.csv("data/data.csv")
-library(ggplot2)
-library(viridis)
-ggplot(world_cancer, aes(reorder(Cancer, -Value), Value/1e6)) +
-  geom_bar(stat = 'identity') +
-  ylab("Estimated number of deaths, millions") + 
-  xlab("") +
-  ggtitle("Cancer mortality, both sexes, worldwide 2012 (Globocan)")
-```
-
 ![plot of chunk worldcancer](assets/fig/worldcancer-1.png)
 
 <footer class="source">Andmed: [Cancer today](http://gco.iarc.fr/today/online-analysis-multi-bars?mode=cancer&mode_population=continents&population=900&sex=0&cancer=24&type=1&statistic=0&prevalence=0&color_palette=default)</footer>
@@ -284,33 +272,6 @@ Coffee | caffeic acid  | 11.6 mg/g
 ---
 ## Kasvajatesse haigestumus Eestis
 
-
-```r
-kasvajad <- read.table("data/PK10m.csv", sep = "\t")
-colnames(kasvajad) <- c("Aasta", "Paige", "Sugu", "0-4","5-9","10-14","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85 ja vanemad")
-
-library(reshape2)
-library(dplyr)
-library(ggthemes)
-
-kasv <- melt(kasvajad, id = c("Aasta", "Paige", "Sugu")) %>% 
-  mutate(Paige = gsub("\xf5","õ", Paige),
-         Paige = gsub("\U3e63663c","ü", Paige),
-         Paige = gsub("\U3e34653c","ä", Paige),
-         Paige = gsub("\xf6","ö", Paige),
-         Paige = gsub("\U3e34633c","Ä", Paige)) 
-kasv %>%
-  filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
-  group_by(Aasta, Sugu) %>%
-  summarise(value = sum(value)) %>%
-  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
-  geom_bar(stat="identity") + 
-  ylab("Patsientide arv") +
-  scale_x_continuous(breaks = seq(2000, 2013, by = 2)) +
-  scale_fill_colorblind() +
-  theme(legend.title = element_blank())
-```
-
 ![plot of chunk eestiintsidents](assets/fig/eestiintsidents-1.png)
 
 <footer class='source'>
@@ -320,22 +281,6 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
 ---
 ## Kasvajad Eestis paikmete kaupa
 
-
-```r
-kasv$PaigeHyph <- unlist(lapply(stringr::str_wrap(kasv$Paige, width=20), paste, collapse="\n"))
-
-kasv %>%
-  filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
-  group_by(Aasta, Sugu, PaigeHyph) %>%
-  summarise(value = sum(value)) %>%
-  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
-  geom_bar(stat="identity") + 
-  facet_wrap(~PaigeHyph) + 
-  ylab("Patsientide arv") +
-  scale_fill_colorblind() +
-  theme(legend.title = element_blank())
-```
-
 ![plot of chunk eestipaikmed](assets/fig/eestipaikmed-1.png)
 
 <footer class='source'>
@@ -344,22 +289,6 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
 
 ---
 ## Sagedasemad paikmed
-
-
-```r
-kasv %>%
-  filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
-  group_by(Sugu, PaigeHyph) %>%
-  summarise(value = sum(value)) %>%
-  filter(value>100) %>%
-  ggplot(aes(x = reorder(PaigeHyph, value), y = value, fill = Sugu)) + 
-  geom_bar(stat="identity") + 
-  scale_y_continuous(name=paste("Patsientide arv", paste(range(kasv$Aasta), collapse = "-"))) +
-  scale_x_discrete(name="Paikmed") + coord_flip() +
-  scale_fill_colorblind() + 
-  theme(legend.position=c(0.7, 0.4),
-        legend.title = element_blank())
-```
 
 ![plot of chunk sagedasemadpaikmed](assets/fig/sagedasemadpaikmed-1.png)
 
@@ -404,42 +333,6 @@ Stomach| Japan | Kuwait | 22
 Lung | U.S. (Louisiana, African American) | India (Madras) | 19
 Pancreas | U.S. (Los Angeles, Korean American)| India | 11
 Ovary | New Zealand (Polynesian) | Kuwait | 8
-
-
-<!-- --- -->
-<!-- ## Vähiravi/teraapiad -->
-
-<!-- - kirurgia -->
-<!-- - kemoteraapia -->
-<!-- - kiiritusravi -->
-<!-- - hormoonteraapia -->
-<!-- - märklaud teraapiad -->
-<!-- - immuunteraapia -->
-
-
-<!-- --- -->
-<!-- ## Vähiravimid -->
-<!-- Top 10 best-sellerit vähiravimite hulgas 2013 (maailmas): -->
-
-<!-- ```{r} -->
-<!-- drugs <- read.delim(textConnection("Bränd | Näidustus | Globaalne müük | Firma -->
-<!-- Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche  -->
-<!-- Avastin | Colorectal, lung, ovarian and brain cancer | $6.75 billion | Roche -->
-<!-- Herceptin| Breast, esophagus and stomach cancer | $6.56 billion | Roche -->
-<!-- Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis -->
-<!-- Alimta | Lung cancer | $2.7 billion | Eli Lilly  -->
-<!-- Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J -->
-<!-- Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS  -->
-<!-- Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda, Sanofi, Astellas -->
-<!-- Zytiga | Prostate cancer | $1.7 billion | J&J -->
-<!-- Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene"), sep="|") -->
-<!-- knitr::kable(drugs) -->
-
-<!-- ``` -->
-
-
-<!-- --- .segue .dark .nobackground -->
-<!-- ## Kursus -->
 
 --- .segue .dark .nobackground
 

@@ -97,17 +97,7 @@ vähisurmasid</li>
 
 <slide class="" id="slide-5" style="background:;">
   <article data-timings="">
-    <pre><code class="r">world_cancer &lt;- read.csv(&quot;data/data.csv&quot;)
-library(ggplot2)
-library(viridis)
-ggplot(world_cancer, aes(reorder(Cancer, -Value), Value/1e6)) +
-  geom_bar(stat = &#39;identity&#39;) +
-  ylab(&quot;Estimated number of deaths, millions&quot;) + 
-  xlab(&quot;&quot;) +
-  ggtitle(&quot;Cancer mortality, both sexes, worldwide 2012 (Globocan)&quot;)
-</code></pre>
-
-<p><img src="assets/fig/worldcancer-1.png" alt="plot of chunk worldcancer"></p>
+    <p><img src="assets/fig/worldcancer-1.png" alt="plot of chunk worldcancer"></p>
 
 <p><footer class="source">Andmed: <a href="http://gco.iarc.fr/today/online-analysis-multi-bars?mode=cancer&amp;mode_population=continents&amp;population=900&amp;sex=0&amp;cancer=24&amp;type=1&amp;statistic=0&amp;prevalence=0&amp;color_palette=default">Cancer today</a></footer></p>
 
@@ -569,32 +559,7 @@ Kohaviit: 616/W-46</li>
     <h2>Kasvajatesse haigestumus Eestis</h2>
   </hgroup>
   <article data-timings="">
-    <pre><code class="r">kasvajad &lt;- read.table(&quot;data/PK10m.csv&quot;, sep = &quot;\t&quot;)
-colnames(kasvajad) &lt;- c(&quot;Aasta&quot;, &quot;Paige&quot;, &quot;Sugu&quot;, &quot;0-4&quot;,&quot;5-9&quot;,&quot;10-14&quot;,&quot;15-19&quot;,&quot;20-24&quot;,&quot;25-29&quot;,&quot;30-34&quot;,&quot;35-39&quot;,&quot;40-44&quot;,&quot;45-49&quot;,&quot;50-54&quot;,&quot;55-59&quot;,&quot;60-64&quot;,&quot;65-69&quot;,&quot;70-74&quot;,&quot;75-79&quot;,&quot;80-84&quot;,&quot;85 ja vanemad&quot;)
-
-library(reshape2)
-library(dplyr)
-library(ggthemes)
-
-kasv &lt;- melt(kasvajad, id = c(&quot;Aasta&quot;, &quot;Paige&quot;, &quot;Sugu&quot;)) %&gt;% 
-  mutate(Paige = gsub(&quot;\xf5&quot;,&quot;õ&quot;, Paige),
-         Paige = gsub(&quot;\U3e63663c&quot;,&quot;ü&quot;, Paige),
-         Paige = gsub(&quot;\U3e34653c&quot;,&quot;ä&quot;, Paige),
-         Paige = gsub(&quot;\xf6&quot;,&quot;ö&quot;, Paige),
-         Paige = gsub(&quot;\U3e34633c&quot;,&quot;Ä&quot;, Paige)) 
-kasv %&gt;%
-  filter(!grepl(&quot;^ ?([[:punct:]]+)|Kõik paikmed&quot;, Paige)) %&gt;% 
-  group_by(Aasta, Sugu) %&gt;%
-  summarise(value = sum(value)) %&gt;%
-  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
-  geom_bar(stat=&quot;identity&quot;) + 
-  ylab(&quot;Patsientide arv&quot;) +
-  scale_x_continuous(breaks = seq(2000, 2013, by = 2)) +
-  scale_fill_colorblind() +
-  theme(legend.title = element_blank())
-</code></pre>
-
-<p><img src="assets/fig/eestiintsidents-1.png" alt="plot of chunk eestiintsidents"></p>
+    <p><img src="assets/fig/eestiintsidents-1.png" alt="plot of chunk eestiintsidents"></p>
 
 <p><footer class='source'>
 Andmed: <a href="http://www.tai.ee/et/tegevused/registrid/vahiregister">Vähiregister, TAI</a>
@@ -609,21 +574,7 @@ Andmed: <a href="http://www.tai.ee/et/tegevused/registrid/vahiregister">Vähireg
     <h2>Kasvajad Eestis paikmete kaupa</h2>
   </hgroup>
   <article data-timings="">
-    <pre><code class="r">kasv$PaigeHyph &lt;- unlist(lapply(stringr::str_wrap(kasv$Paige, width=20), paste, collapse=&quot;\n&quot;))
-
-kasv %&gt;%
-  filter(!grepl(&quot;^ ?([[:punct:]]+)|Kõik paikmed&quot;, Paige)) %&gt;% 
-  group_by(Aasta, Sugu, PaigeHyph) %&gt;%
-  summarise(value = sum(value)) %&gt;%
-  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
-  geom_bar(stat=&quot;identity&quot;) + 
-  facet_wrap(~PaigeHyph) + 
-  ylab(&quot;Patsientide arv&quot;) +
-  scale_fill_colorblind() +
-  theme(legend.title = element_blank())
-</code></pre>
-
-<p><img src="assets/fig/eestipaikmed-1.png" alt="plot of chunk eestipaikmed"></p>
+    <p><img src="assets/fig/eestipaikmed-1.png" alt="plot of chunk eestipaikmed"></p>
 
 <p><footer class='source'>
 Andmed: <a href="http://www.tai.ee/et/tegevused/registrid/vahiregister">Vähiregister, TAI</a>
@@ -638,21 +589,7 @@ Andmed: <a href="http://www.tai.ee/et/tegevused/registrid/vahiregister">Vähireg
     <h2>Sagedasemad paikmed</h2>
   </hgroup>
   <article data-timings="">
-    <pre><code class="r">kasv %&gt;%
-  filter(!grepl(&quot;^ ?([[:punct:]]+)|Kõik paikmed&quot;, Paige)) %&gt;% 
-  group_by(Sugu, PaigeHyph) %&gt;%
-  summarise(value = sum(value)) %&gt;%
-  filter(value&gt;100) %&gt;%
-  ggplot(aes(x = reorder(PaigeHyph, value), y = value, fill = Sugu)) + 
-  geom_bar(stat=&quot;identity&quot;) + 
-  scale_y_continuous(name=paste(&quot;Patsientide arv&quot;, paste(range(kasv$Aasta), collapse = &quot;-&quot;))) +
-  scale_x_discrete(name=&quot;Paikmed&quot;) + coord_flip() +
-  scale_fill_colorblind() + 
-  theme(legend.position=c(0.7, 0.4),
-        legend.title = element_blank())
-</code></pre>
-
-<p><img src="assets/fig/sagedasemadpaikmed-1.png" alt="plot of chunk sagedasemadpaikmed"></p>
+    <p><img src="assets/fig/sagedasemadpaikmed-1.png" alt="plot of chunk sagedasemadpaikmed"></p>
 
 <p><footer class='source'>
 Andmed: <a href="http://www.tai.ee/et/tegevused/registrid/vahiregister">Vähiregister, TAI</a>
@@ -776,60 +713,6 @@ Pilt: E. Marshall. “Cancer Research and the $90 Billion Metaphor”. In: <em>S
 <td>8</td>
 </tr>
 </tbody></table>
-
-<!-- --- -->
-
-<!-- ## Vähiravi/teraapiad -->
-
-<!-- - kirurgia -->
-
-<!-- - kemoteraapia -->
-
-<!-- - kiiritusravi -->
-
-<!-- - hormoonteraapia -->
-
-<!-- - märklaud teraapiad -->
-
-<!-- - immuunteraapia -->
-
-<!-- --- -->
-
-<!-- ## Vähiravimid -->
-
-<!-- Top 10 best-sellerit vähiravimite hulgas 2013 (maailmas): -->
-
-<!-- ```{r} -->
-
-<!-- drugs <- read.delim(textConnection("Bränd | Näidustus | Globaalne müük | Firma -->
-
-<!-- Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche  -->
-
-<!-- Avastin | Colorectal, lung, ovarian and brain cancer | $6.75 billion | Roche -->
-
-<!-- Herceptin| Breast, esophagus and stomach cancer | $6.56 billion | Roche -->
-
-<!-- Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis -->
-
-<!-- Alimta | Lung cancer | $2.7 billion | Eli Lilly  -->
-
-<!-- Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J -->
-
-<!-- Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS  -->
-
-<!-- Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda, Sanofi, Astellas -->
-
-<!-- Zytiga | Prostate cancer | $1.7 billion | J&J -->
-
-<!-- Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene"), sep="|") -->
-
-<!-- knitr::kable(drugs) -->
-
-<!-- ``` -->
-
-<!-- --- .segue .dark .nobackground -->
-
-<!-- ## Kursus -->
 
   </article>
   <!-- Presenter Notes -->

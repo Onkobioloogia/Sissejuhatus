@@ -39,7 +39,7 @@ vähisurmasid
 
 ---
 
-```{r worldcancer}
+```{r worldcancer, echo=FALSE}
 world_cancer <- read.csv("data/data.csv")
 library(ggplot2)
 library(viridis)
@@ -284,7 +284,7 @@ Coffee | caffeic acid  | 11.6 mg/g
 ---
 ## Kasvajatesse haigestumus Eestis
 
-```{r eestiintsidents}
+```{r eestiintsidents, echo=FALSE, warning=FALSE, message=FALSE}
 kasvajad <- read.table("data/PK10m.csv", sep = "\t")
 colnames(kasvajad) <- c("Aasta", "Paige", "Sugu", "0-4","5-9","10-14","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85 ja vanemad")
 
@@ -317,7 +317,7 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
 ---
 ## Kasvajad Eestis paikmete kaupa
 
-```{r eestipaikmed}
+```{r eestipaikmed, echo=FALSE, warning=FALSE, message=FALSE}
 kasv$PaigeHyph <- unlist(lapply(stringr::str_wrap(kasv$Paige, width=20), paste, collapse="\n"))
 
 kasv %>%
@@ -339,7 +339,7 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
 ---
 ## Sagedasemad paikmed
 
-```{r sagedasemadpaikmed}
+```{r sagedasemadpaikmed, echo=FALSE, warning=FALSE, message=FALSE}
 kasv %>%
   filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
   group_by(Sugu, PaigeHyph) %>%
@@ -396,42 +396,6 @@ Stomach| Japan | Kuwait | 22
 Lung | U.S. (Louisiana, African American) | India (Madras) | 19
 Pancreas | U.S. (Los Angeles, Korean American)| India | 11
 Ovary | New Zealand (Polynesian) | Kuwait | 8
-
-
-<!-- --- -->
-<!-- ## Vähiravi/teraapiad -->
-
-<!-- - kirurgia -->
-<!-- - kemoteraapia -->
-<!-- - kiiritusravi -->
-<!-- - hormoonteraapia -->
-<!-- - märklaud teraapiad -->
-<!-- - immuunteraapia -->
-
-
-<!-- --- -->
-<!-- ## Vähiravimid -->
-<!-- Top 10 best-sellerit vähiravimite hulgas 2013 (maailmas): -->
-
-<!-- ```{r} -->
-<!-- drugs <- read.delim(textConnection("Bränd | Näidustus | Globaalne müük | Firma -->
-<!-- Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche  -->
-<!-- Avastin | Colorectal, lung, ovarian and brain cancer | $6.75 billion | Roche -->
-<!-- Herceptin| Breast, esophagus and stomach cancer | $6.56 billion | Roche -->
-<!-- Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis -->
-<!-- Alimta | Lung cancer | $2.7 billion | Eli Lilly  -->
-<!-- Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J -->
-<!-- Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS  -->
-<!-- Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda, Sanofi, Astellas -->
-<!-- Zytiga | Prostate cancer | $1.7 billion | J&J -->
-<!-- Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene"), sep="|") -->
-<!-- knitr::kable(drugs) -->
-
-<!-- ``` -->
-
-
-<!-- --- .segue .dark .nobackground -->
-<!-- ## Kursus -->
 
 --- .segue .dark .nobackground
 
