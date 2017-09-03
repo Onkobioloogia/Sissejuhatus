@@ -104,7 +104,7 @@ Kohaviit: 616/W-46
 ***=right
 
 <div style='text-align: center;'>
-    <img height='560' src='https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJfwOppv_7oHAerDTw5UqxeJwsVWOkXH_DS2wIdaA98B7QWn36' />
+    <img height='480' src='https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJfwOppv_7oHAerDTw5UqxeJwsVWOkXH_DS2wIdaA98B7QWn36' />
 </div>
 
 <!-- ![microscopist](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJfwOppv_7oHAerDTw5UqxeJwsVWOkXH_DS2wIdaA98B7QWn36) -->
@@ -133,12 +133,12 @@ Kohaviit: 616/W-46
 ---
 ## Vähiriski mõjutab elustiil
 
-- ~30% vähisurmadest on tingitud viiest käitumis ja dieediriskist: 
-1. kõrge kehamassiindeks, 
-2. vähe puu- ja aedvilju menüüs, 
-2. vähene füüsiline aktiivsus, 
-3. tubakas/suitsetamine, 
-4. alkohol
+~30% vähisurmadest on tingitud viiest käitumis ja dieediriskist: 
+- kõrge kehamassiindeks, 
+- vähe puu- ja aedvilju menüüs, 
+- vähene füüsiline aktiivsus, 
+- tubakas/suitsetamine, 
+- alkohol
 
 - arengumaades põhjustavad 20% vähkidest hepatiidi viirused B ja C ning papilloomiviirused
 
@@ -200,7 +200,7 @@ mittesuitsetaja | 1
 ## Keskkonna ja elustiilifaktorid
 
 Type | % of total cases
-------|-----------------
+-----|-----------------
 **Cancers due to occupational exposures** | 1–2
 **Lifestyle cancers** | 
 Tobacco-related (sites: e.g., lung, bladder, kidney) | 34
@@ -229,7 +229,6 @@ Tobacco and alcohol (sites: mouth, throat) | 2
 - algne *Salmonella* mutant ei suuda kasvada söömel milles puudub histidiin 
 - katse lõpus loetakse kolooniad üle
 - mida rohkem kolooniad seda tugevam mutageen
-
 
 ---
 ## Bruce Ames's carcinogens identified in the normal diet
@@ -281,18 +280,9 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
     <img height='460' src='figure/331_1540a_F1.jpg' />
 </div>
 
-<!-- ![suremus](figure/331_1540a_F1.jpg) -->
-
 <footer class="source">
 Pilt: E. Marshall. “Cancer Research and the \$90 Billion Metaphor”. In: _Science_ 331.6024 (2011), pp. 1540 - 1541. DOI: 10.1126/science.331.6024.1540-a
 </footer>
-
-<!-- --- -->
-<!-- ## Concord 2 uuring -->
-
-<!-- <div style='text-align: center;'> -->
-<!--     <img height='560' src='https://github.com/tpall/Concord2/blob/master/graphs/concord-2.png?raw=true' /> -->
-<!-- </div> -->
 
 ---
 ## Countries showing highest and lowest incidence of specific types of cancer
@@ -324,8 +314,7 @@ Kliiniliselt võib kasvajad jaotada kaheks
 
 Metastaasid ehk vähi siirded vastutavad lõviosa kasvajatest tingitud surmade eest!
 
-- TNM-klassifikatsioon
-
+<!-- - TNM-klassifikatsioon -->
 
 <div style='text-align: center;'>
 <img src="http://3.bp.blogspot.com/_ZWqgYBROGHw/TSGZUB-5SXI/AAAAAAAACGw/sqHnGZR0jJo/s1600/eos.bmp" style="width:300px">
@@ -337,8 +326,8 @@ Metastaasid ehk vähi siirded vastutavad lõviosa kasvajatest tingitud surmade e
 ---
 ## Neli põhilist vähitüüpi
 
-Epiteliaalsed | Mitte-epiteliaalsed
---------------|--------------------
+Epiteliaalsed              | Mitte-epiteliaalsed
+---------------------------|--------------------
 kartsinoomid (*carcinoma*) | sarkoomid (*sarcoma*)
                            | hematopoieetilised
                            | neuroektodermaaltuumorid
@@ -391,7 +380,6 @@ Kartsinoomid on kõige sagedasemad epiteliaalset päritolu kasvajad
 - **adenokartsinoomid** (*adenocarcinoma*)
 - **lamerakk-kartsinoomid** (*squamous-cell carcinoma*)
 
-
 ---
 ## Kartsinoomide sagedasemad paikmed
 
@@ -419,13 +407,11 @@ munasari| |
 ---&twocol
 ## Sarkoomid
 
-
 ***=left
 
 - sidekoe kasvajad
 - moodustavad ~1% vähkidest
 - mesodermaalset päritolu
-
 
 ***=right
 
@@ -440,7 +426,6 @@ Sagedasemad sarkoomid|
 **angio**sarkoom|
 **kondro**sarkoom|
 
-
 ---
 ## Hematopoieetilised ja lümfoidsed kasvajad
 
@@ -451,7 +436,6 @@ Tuumorid mis tekivad **veres, luuüdis ja lümfisõlmedes**
 
 - Lümfoomid, lümfotsüütsed leukeemiad ja müeloomid: B-, T-, NK- ja plasma rakud
   - äge lümfotsüütne leukeemia (**ALL**) tekib 80% juhtudel B-rakkudest ja 20% T-rakkudest
-
 
 ---&twocol
 ## Sagedasemad hematopoieetilised kasvajad
@@ -472,7 +456,6 @@ Hodgkin's tõbi|
 <img src="http://www.pathologystudent.com/wp-content/uploads/2009/04/aml-m5b-hi1.jpg" style="width:420px">
 
 <footer class="source">[Pilt: pathologystudent.com](http://www.pathologystudent.com)</footer>
-
 
 ---
 ## Neuroektodermaalsed kasvajad
