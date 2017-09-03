@@ -37,21 +37,6 @@ vähisurmasid
 </footer>
 
 ---
-## Kõige sagedasemad surmaga lõppevad vähipaikmed maailmas, 2012 aasta seis:
-
-- 5. kopsuvähk (1.59M)
-- maksavähk (0.75M)
-- maovähk (0.72M)
-- soolevähk (0.69M)
-- rinnavähk (0.52M)
-- söögitoru vähk (0.4M)
-
-Võrdluseks: 
-- 1. südame isheemia (7.4M) 
-- 2. insult (6.7M)
-- 3-4. krooniline obstruktiivne kopsuhaigus ja alumiste hingamisteede infektsioonid (a 3.1M)
-
----
 
 
 ```r
@@ -67,7 +52,7 @@ ggplot(world_cancer, aes(reorder(Cancer, -Value), Value/1e6)) +
 
 ![plot of chunk worldcancer](assets/fig/worldcancer-1.png)
 
-
+<footer>Andmed: [Cancer today](http://gco.iarc.fr/today/online-analysis-multi-bars?mode=cancer&mode_population=continents&population=900&sex=0&cancer=24&type=1&statistic=0&prevalence=0&color_palette=default)</footer>
 
 ---
 ## Kursuse eesmärk
