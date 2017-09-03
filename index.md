@@ -15,7 +15,7 @@ replace: slide.content
 
 {{{ slide.content }}}
 <footer class = 'logo'>
-  <img src = 'figure/credibleinterval-logo1.png'></img>
+  <img src = 'figure/font.png'></img>
 </footer>
 
 
