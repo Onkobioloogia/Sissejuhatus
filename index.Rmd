@@ -15,7 +15,7 @@ replace: slide.content
 
 {{{ slide.content }}}
 <footer class = 'logo'>
-  <i class="fa fa-camera-retro"></i> fa-camera-retro
+  <img src = 'figure/credibleinterval-logo1'></img>
 </footer>
 
 
