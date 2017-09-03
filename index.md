@@ -52,7 +52,7 @@ ggplot(world_cancer, aes(reorder(Cancer, -Value), Value/1e6)) +
 
 ![plot of chunk worldcancer](assets/fig/worldcancer-1.png)
 
-<footer>Andmed: [Cancer today](http://gco.iarc.fr/today/online-analysis-multi-bars?mode=cancer&mode_population=continents&population=900&sex=0&cancer=24&type=1&statistic=0&prevalence=0&color_palette=default)</footer>
+<footer class="source">Andmed: [Cancer today](http://gco.iarc.fr/today/online-analysis-multi-bars?mode=cancer&mode_population=continents&population=900&sex=0&cancer=24&type=1&statistic=0&prevalence=0&color_palette=default)</footer>
 
 ---
 ## Kursuse eesmärk
@@ -79,6 +79,7 @@ Kohaviit: 616/W-46
 ## Ajaloost
 
 ---&twocol
+
 ## Egiptus, 16-17. dünastia
 
 ***=left
@@ -101,7 +102,7 @@ Kohaviit: 616/W-46
 - vähke ajalooliselt käsitletud ka kui võõrkeha, mis on ennast haige kehas sisse seadnud.
 
 <div style='text-align: center;'>
-    <img height='560' src='http://images.medicaldaily.com/sites/medicaldaily.com/files/styles/full_breakpoints_theme_medicaldaily_desktop_1x/public/2015/06/24/tumor-removed.jpg' />
+    <img height='300' src='http://images.medicaldaily.com/sites/medicaldaily.com/files/styles/full_breakpoints_theme_medicaldaily_desktop_1x/public/2015/06/24/tumor-removed.jpg'>
 </div>
 
 <footer class="source">Pilt: Vähi kirurgiline eemaldamine, 1689. Wikimedia.
@@ -204,7 +205,7 @@ mittesuitsetaja | 1
 
 ***=right
 
-<img src="http://www.cancer.org/acs/groups/content/@editorial/documents/image/acspc-044688.png" style="width:480px;"/>
+<img src="https://www.cancer.org/content/dam/cancer-org/images/illustrations/maps/smoking-prevalence-adult-men-cancer-atlas-2014.png" width='480'/>
 
 <footer class="source">Allikas: 
 <a href="http://www.cancer.org/research/acsresearchupdates/more/three-top-cancer-challenges-of-the-21st-century?utm_source=MB_Twit&utm_medium=Social&utm_content=Feb03_A&utm_campaign=Feb_2015"> www.cancer.org.
@@ -314,7 +315,9 @@ kasv %>%
 
 ![plot of chunk eestiintsidents](assets/fig/eestiintsidents-1.png)
 
-Andmed: TAI vähiregister
+<footer class='source'>
+Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregister)
+</footer>
 
 ---
 ## Kasvajad Eestis paikmete kaupa
@@ -337,7 +340,9 @@ kasv %>%
 
 ![plot of chunk eestipaikmed](assets/fig/eestipaikmed-1.png)
 
-Andmed: TAI vähiregister
+<footer class='source'>
+Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregister)
+</footer>
 
 ---
 ## Sagedasemad paikmed
@@ -360,6 +365,10 @@ kasv %>%
 
 ![plot of chunk sagedasemadpaikmed](assets/fig/sagedasemadpaikmed-1.png)
 
+<footer class='source'>
+Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregister)
+</footer>
+
 ---
 ## Esmased vähid ja 5 aasta suremus
 # Sõltuvalt vähitüübist võib elulemus varieeruda 10% kuni 90% 
@@ -370,7 +379,8 @@ kasv %>%
 
 <!-- ![suremus](figure/331_1540a_F1.jpg) -->
 
-<footer class="source">Pilt: E. Marshall. “Cancer Research and the \$90 Billion Metaphor”. In: _Science_ 331.6024 (2011), pp. 1540 - 1541. DOI: 10.1126/science.331.6024.1540-a
+<footer class="source">
+Pilt: E. Marshall. “Cancer Research and the \$90 Billion Metaphor”. In: _Science_ 331.6024 (2011), pp. 1540 - 1541. DOI: 10.1126/science.331.6024.1540-a
 </footer>
 
 ---
