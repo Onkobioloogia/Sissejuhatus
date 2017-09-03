@@ -3,7 +3,7 @@ title       : Onkobioloogia
 subtitle    : Vähkkasvajate molekulaarsed mehhanismid
 author      : Taavi Päll
 job         : lektor, Tallinna Tehnikaülikool
-mode        : selfcontained # {standalone, draft}
+mode        : selfcontained 
 --- .segue .dark .nobackground
 
 ## Sissejuhatus
