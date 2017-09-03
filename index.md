@@ -468,7 +468,7 @@ kartsinoomid (*carcinoma*) | sarkoomid (*sarcoma*)
 
 Kehaosi väljast ja õõsi seest kattev rakukiht (katteepiteel) või näärmeid moodustav rakukogum (näärmeepiteel).
 
-<a title="By LWozniak&KWZielinski (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASkinTumors-P5300131.JPG"><img width="128" alt="SkinTumors-P5300131" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/SkinTumors-P5300131.JPG/128px-SkinTumors-P5300131.JPG"/></a>
+<a title="By LWozniak&KWZielinski (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASkinTumors-P5300131.JPG"><img width="256" alt="SkinTumors-P5300131" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/SkinTumors-P5300131.JPG/256px-SkinTumors-P5300131.JPG"/></a>
 
 
 <!-- ![naarmeepiteel](http://medicine2.keele.ac.uk/anatomy/histologyimages/t8.jpg) -->
