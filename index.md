@@ -9,38 +9,14 @@ hitheme     : tomorrow      #
 mode        : selfcontained # {standalone, draft}
 ---
 
-<!-- <!-- Limit image width and height --> -->
-<!-- <style type="text/css"> -->
-<!-- img { -->
-<!--   max-height: 480px; -->
-<!--   max-width: 800px; -->
-<!-- } -->
-<!-- </style> -->
-
-<!-- <style> .title-slide { -->
-<!--   background-image:url(figure/kole.jpg);  -->
-<!--   background-repeat: no-repeat;  -->
-<!--   background-position: 94% 50%;  -->
-<!--   background-size: 36%;  -->
-<!--   background-color: #CBE7A5; /* ; ; */ } -->
-<!--   background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/ -->
-<!-- } -->
-
-<!-- .title-slide hgroup > h1{ -->
-<!--  font-family: 'Oswald', 'Helvetica', sanserif;  -->
-<!-- } -->
-
-<!-- .title-slide hgroup > h1,  -->
-<!-- .title-slide hgroup > h2 { -->
-<!--   color: #535E43 ;  /* ; #EF5150*/ -->
-<!-- } -->
-<!-- </style> -->
-
-<!-- <style> -->
-<!-- strong { -->
-<!--   font-weight: bold; -->
-<!-- } -->
-<!-- </style> -->
+<style> .title-slide {
+  background-image:url(figure/kole.jpg);
+  background-repeat: no-repeat;
+  background-position: 94% 50%;
+  background-size: 36%;
+  background-color: #CBE7A5; /* ; ; */ }
+  background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
+}
 
 
 
@@ -315,21 +291,81 @@ Coffee | caffeic acid  | 11.6 mg/g
 ---
 ## Kasvajatesse haigestumus Eestis
 
-<img src="assets/fig/unnamed-chunk-2-1.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto;" />
+
+```r
+kasvajad <- read.table("data/PK10m.csv", sep = "\t")
+colnames(kasvajad) <- c("Aasta", "Paige", "Sugu", "0-4","5-9","10-14","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85 ja vanemad")
+
+library(reshape2)
+library(dplyr)
+library(ggplot2)
+library(ggthemes)
+
+kasv <- melt(kasvajad, id = c("Aasta", "Paige", "Sugu")) %>% 
+  mutate(Paige = gsub("\xf5","õ", Paige),
+         Paige = gsub("\U3e63663c","ü", Paige),
+         Paige = gsub("\U3e34653c","ä", Paige),
+         Paige = gsub("\xf6","ö", Paige),
+         Paige = gsub("\U3e34633c","Ä", Paige)) 
+kasv %>%
+  filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
+  group_by(Aasta, Sugu) %>%
+  summarise(value = sum(value)) %>%
+  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
+  geom_bar(stat="identity") + 
+  ylab("Patsientide arv") +
+  scale_x_continuous(breaks = seq(2000, 2013, by = 2)) +
+  scale_fill_colorblind() +
+  theme(legend.title = element_blank())
+```
+
+![plot of chunk eesti-intsidents](assets/fig/eesti-intsidents-1.png)
 
 Andmed: TAI vähiregister
 
 ---
 ## Kasvajad Eestis paikmete kaupa
 
-<img src="assets/fig/unnamed-chunk-3-1.png" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" style="display: block; margin: auto;" />
+
+```r
+kasv$PaigeHyph <- unlist(lapply(stringr::str_wrap(kasv$Paige, width=20), paste, collapse="\n"))
+
+kasv %>%
+  filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
+  group_by(Aasta, Sugu, PaigeHyph) %>%
+  summarise(value = sum(value)) %>%
+  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
+  geom_bar(stat="identity") + 
+  facet_wrap(~PaigeHyph) + 
+  ylab("Patsientide arv") +
+  scale_fill_colorblind() +
+  theme(legend.title = element_blank())
+```
+
+![plot of chunk eesti-paikmed](assets/fig/eesti-paikmed-1.png)
 
 Andmed: TAI vähiregister
 
 ---
 ## Sagedasemad paikmed
 
-<img src="assets/fig/unnamed-chunk-4-1.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" style="display: block; margin: auto;" />
+
+```r
+kasv %>%
+  filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
+  group_by(Sugu, PaigeHyph) %>%
+  summarise(value = sum(value)) %>%
+  filter(value>100) %>%
+  ggplot(aes(x = reorder(PaigeHyph, value), y = value, fill = Sugu)) + 
+  geom_bar(stat="identity") + 
+  scale_y_continuous(name=paste("Patsientide arv", paste(range(kasv$Aasta), collapse = "-"))) +
+  scale_x_discrete(name="Paikmed") + coord_flip() +
+  scale_fill_colorblind() + 
+  theme(legend.position=c(0.7, 0.4),
+        legend.title = element_blank())
+```
+
+![plot of chunk sagedasemad-paikmed](assets/fig/sagedasemad-paikmed-1.png)
 
 ---
 ## Esmased vähid ja 5 aasta suremus
@@ -441,10 +477,11 @@ kartsinoomid (*carcinoma*) | sarkoomid (*sarcoma*)
 
 Kehaosi väljast ja õõsi seest kattev rakukiht (katteepiteel) või näärmeid moodustav rakukogum (näärmeepiteel).
 
-![lamerakk](http://medicine2.keele.ac.uk/anatomy/histologyimages/t10.jpg)
+![lamerakk](https://upload.wikimedia.org/wikipedia/commons/c/c4/SkinTumors-P5300131.JPG)
+
 ![naarmeepiteel](http://medicine2.keele.ac.uk/anatomy/histologyimages/t8.jpg)
 
-<footer class="source">[Pildid: medicine2.keele.ac.uk](http://medicine2.keele.ac.uk/anatomy/histologyimages/epith.html)</footer>
+<footer class="source">[Pildid: By LWozniak&KWZielinski (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons</footer>
 
 ---&twocol
 ## Basaalmembraan

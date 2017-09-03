@@ -9,43 +9,19 @@ hitheme     : tomorrow      #
 mode        : selfcontained # {standalone, draft}
 ---
 
-<!-- <!-- Limit image width and height --> -->
-<!-- <style type="text/css"> -->
-<!-- img { -->
-<!--   max-height: 480px; -->
-<!--   max-width: 800px; -->
-<!-- } -->
-<!-- </style> -->
-
-<!-- <style> .title-slide { -->
-<!--   background-image:url(figure/kole.jpg);  -->
-<!--   background-repeat: no-repeat;  -->
-<!--   background-position: 94% 50%;  -->
-<!--   background-size: 36%;  -->
-<!--   background-color: #CBE7A5; /* ; ; */ } -->
-<!--   background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/ -->
-<!-- } -->
-
-<!-- .title-slide hgroup > h1{ -->
-<!--  font-family: 'Oswald', 'Helvetica', sanserif;  -->
-<!-- } -->
-
-<!-- .title-slide hgroup > h1,  -->
-<!-- .title-slide hgroup > h2 { -->
-<!--   color: #535E43 ;  /* ; #EF5150*/ -->
-<!-- } -->
-<!-- </style> -->
-
-<!-- <style> -->
-<!-- strong { -->
-<!--   font-weight: bold; -->
-<!-- } -->
-<!-- </style> -->
+<style> .title-slide {
+  background-image:url(figure/kole.jpg);
+  background-repeat: no-repeat;
+  background-position: 94% 50%;
+  background-size: 36%;
+  background-color: #CBE7A5; /* ; ; */ }
+  background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
+}
 
 
-```{r,echo=FALSE, cache=FALSE}
+```{r setup, include=FALSE}
 library(knitr)
-opts_chunk$set(warning=FALSE, message=FALSE,echo=FALSE,fig.align='center')
+opts_chunk$set(warning=FALSE, message=FALSE, echo=FALSE, fig.align='center')
 ```
 
 
@@ -318,12 +294,10 @@ Coffee | caffeic acid  | 11.6 mg/g
 ---
 ## Kasvajatesse haigestumus Eestis
 
-```{r}
+```{r eesti-intsidents}
 kasvajad <- read.table("data/PK10m.csv", sep = "\t")
 colnames(kasvajad) <- c("Aasta", "Paige", "Sugu", "0-4","5-9","10-14","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85 ja vanemad")
-# load libraries
-# library(quantmod)
-# library(magrittr)
+
 library(reshape2)
 library(dplyr)
 library(ggplot2)
@@ -352,7 +326,7 @@ Andmed: TAI vähiregister
 ---
 ## Kasvajad Eestis paikmete kaupa
 
-```{r}
+```{r eesti-paikmed}
 kasv$PaigeHyph <- unlist(lapply(stringr::str_wrap(kasv$Paige, width=20), paste, collapse="\n"))
 
 kasv %>%
@@ -372,7 +346,7 @@ Andmed: TAI vähiregister
 ---
 ## Sagedasemad paikmed
 
-```{r}
+```{r sagedasemad-paikmed}
 kasv %>%
   filter(!grepl("^ ?([[:punct:]]+)|Kõik paikmed", Paige)) %>% 
   group_by(Sugu, PaigeHyph) %>%
@@ -498,10 +472,11 @@ kartsinoomid (*carcinoma*) | sarkoomid (*sarcoma*)
 
 Kehaosi väljast ja õõsi seest kattev rakukiht (katteepiteel) või näärmeid moodustav rakukogum (näärmeepiteel).
 
-![lamerakk](http://medicine2.keele.ac.uk/anatomy/histologyimages/t10.jpg)
+![lamerakk](https://upload.wikimedia.org/wikipedia/commons/c/c4/SkinTumors-P5300131.JPG)
+
 ![naarmeepiteel](http://medicine2.keele.ac.uk/anatomy/histologyimages/t8.jpg)
 
-<footer class="source">[Pildid: medicine2.keele.ac.uk](http://medicine2.keele.ac.uk/anatomy/histologyimages/epith.html)</footer>
+<footer class="source">[Pildid: By LWozniak&KWZielinski (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons</footer>
 
 ---&twocol
 ## Basaalmembraan

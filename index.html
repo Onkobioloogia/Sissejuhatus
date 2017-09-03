@@ -43,61 +43,14 @@
     <!-- SLIDES -->
     <slide class="" id="slide-1" style="background:;">
   <article data-timings="">
-    <p>&lt;!-- &lt;!-- Limit image width and height --&gt; --&gt;</p>
-
-<!-- <style type="text/css"> -->
-
-<!-- img { -->
-
-<!--   max-height: 480px; -->
-
-<!--   max-width: 800px; -->
-
-<!-- } -->
-
-<!-- </style> -->
-
-<!-- <style> .title-slide { -->
-
-<!--   background-image:url(figure/kole.jpg);  -->
-
-<!--   background-repeat: no-repeat;  -->
-
-<!--   background-position: 94% 50%;  -->
-
-<!--   background-size: 36%;  -->
-
-<!--   background-color: #CBE7A5; /* ; ; */ } -->
-
-<!--   background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/ -->
-
-<!-- } -->
-
-<!-- .title-slide hgroup > h1{ -->
-
-<!--  font-family: 'Oswald', 'Helvetica', sanserif;  -->
-
-<!-- } -->
-
-<!-- .title-slide hgroup > h1,  -->
-
-<!-- .title-slide hgroup > h2 { -->
-
-<!--   color: #535E43 ;  /* ; #EF5150*/ -->
-
-<!-- } -->
-
-<!-- </style> -->
-
-<!-- <style> -->
-
-<!-- strong { -->
-
-<!--   font-weight: bold; -->
-
-<!-- } -->
-
-<!-- </style> -->
+    <p><style> .title-slide {
+  background-image:url(figure/kole.jpg);
+  background-repeat: no-repeat;
+  background-position: 94% 50%;
+  background-size: 36%;
+  background-color: #CBE7A5; /* ; ; <em>/ }
+  background-color: #FFFFFF; /</em>#CBE7A5 #EDE0CF; ; #CA9F9D*/
+}</p>
 
   </article>
   <!-- Presenter Notes -->
@@ -630,7 +583,33 @@ Kohaviit: 616/W-46</li>
     <h2>Kasvajatesse haigestumus Eestis</h2>
   </hgroup>
   <article data-timings="">
-    <p><img src="assets/fig/unnamed-chunk-2-1.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto;" /></p>
+    <pre><code class="r">kasvajad &lt;- read.table(&quot;data/PK10m.csv&quot;, sep = &quot;\t&quot;)
+colnames(kasvajad) &lt;- c(&quot;Aasta&quot;, &quot;Paige&quot;, &quot;Sugu&quot;, &quot;0-4&quot;,&quot;5-9&quot;,&quot;10-14&quot;,&quot;15-19&quot;,&quot;20-24&quot;,&quot;25-29&quot;,&quot;30-34&quot;,&quot;35-39&quot;,&quot;40-44&quot;,&quot;45-49&quot;,&quot;50-54&quot;,&quot;55-59&quot;,&quot;60-64&quot;,&quot;65-69&quot;,&quot;70-74&quot;,&quot;75-79&quot;,&quot;80-84&quot;,&quot;85 ja vanemad&quot;)
+
+library(reshape2)
+library(dplyr)
+library(ggplot2)
+library(ggthemes)
+
+kasv &lt;- melt(kasvajad, id = c(&quot;Aasta&quot;, &quot;Paige&quot;, &quot;Sugu&quot;)) %&gt;% 
+  mutate(Paige = gsub(&quot;\xf5&quot;,&quot;õ&quot;, Paige),
+         Paige = gsub(&quot;\U3e63663c&quot;,&quot;ü&quot;, Paige),
+         Paige = gsub(&quot;\U3e34653c&quot;,&quot;ä&quot;, Paige),
+         Paige = gsub(&quot;\xf6&quot;,&quot;ö&quot;, Paige),
+         Paige = gsub(&quot;\U3e34633c&quot;,&quot;Ä&quot;, Paige)) 
+kasv %&gt;%
+  filter(!grepl(&quot;^ ?([[:punct:]]+)|Kõik paikmed&quot;, Paige)) %&gt;% 
+  group_by(Aasta, Sugu) %&gt;%
+  summarise(value = sum(value)) %&gt;%
+  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
+  geom_bar(stat=&quot;identity&quot;) + 
+  ylab(&quot;Patsientide arv&quot;) +
+  scale_x_continuous(breaks = seq(2000, 2013, by = 2)) +
+  scale_fill_colorblind() +
+  theme(legend.title = element_blank())
+</code></pre>
+
+<p><img src="assets/fig/eesti-intsidents-1.png" alt="plot of chunk eesti-intsidents"></p>
 
 <p>Andmed: TAI vähiregister</p>
 
@@ -643,7 +622,21 @@ Kohaviit: 616/W-46</li>
     <h2>Kasvajad Eestis paikmete kaupa</h2>
   </hgroup>
   <article data-timings="">
-    <p><img src="assets/fig/unnamed-chunk-3-1.png" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" style="display: block; margin: auto;" /></p>
+    <pre><code class="r">kasv$PaigeHyph &lt;- unlist(lapply(stringr::str_wrap(kasv$Paige, width=20), paste, collapse=&quot;\n&quot;))
+
+kasv %&gt;%
+  filter(!grepl(&quot;^ ?([[:punct:]]+)|Kõik paikmed&quot;, Paige)) %&gt;% 
+  group_by(Aasta, Sugu, PaigeHyph) %&gt;%
+  summarise(value = sum(value)) %&gt;%
+  ggplot(aes(x = Aasta, y = value, fill = Sugu)) + 
+  geom_bar(stat=&quot;identity&quot;) + 
+  facet_wrap(~PaigeHyph) + 
+  ylab(&quot;Patsientide arv&quot;) +
+  scale_fill_colorblind() +
+  theme(legend.title = element_blank())
+</code></pre>
+
+<p><img src="assets/fig/eesti-paikmed-1.png" alt="plot of chunk eesti-paikmed"></p>
 
 <p>Andmed: TAI vähiregister</p>
 
@@ -656,7 +649,21 @@ Kohaviit: 616/W-46</li>
     <h2>Sagedasemad paikmed</h2>
   </hgroup>
   <article data-timings="">
-    <p><img src="assets/fig/unnamed-chunk-4-1.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" style="display: block; margin: auto;" /></p>
+    <pre><code class="r">kasv %&gt;%
+  filter(!grepl(&quot;^ ?([[:punct:]]+)|Kõik paikmed&quot;, Paige)) %&gt;% 
+  group_by(Sugu, PaigeHyph) %&gt;%
+  summarise(value = sum(value)) %&gt;%
+  filter(value&gt;100) %&gt;%
+  ggplot(aes(x = reorder(PaigeHyph, value), y = value, fill = Sugu)) + 
+  geom_bar(stat=&quot;identity&quot;) + 
+  scale_y_continuous(name=paste(&quot;Patsientide arv&quot;, paste(range(kasv$Aasta), collapse = &quot;-&quot;))) +
+  scale_x_discrete(name=&quot;Paikmed&quot;) + coord_flip() +
+  scale_fill_colorblind() + 
+  theme(legend.position=c(0.7, 0.4),
+        legend.title = element_blank())
+</code></pre>
+
+<p><img src="assets/fig/sagedasemad-paikmed-1.png" alt="plot of chunk sagedasemad-paikmed"></p>
 
   </article>
   <!-- Presenter Notes -->
@@ -909,10 +916,11 @@ Kohaviit: 616/W-46</li>
   <article data-timings="">
     <p>Kehaosi väljast ja õõsi seest kattev rakukiht (katteepiteel) või näärmeid moodustav rakukogum (näärmeepiteel).</p>
 
-<p><img src="http://medicine2.keele.ac.uk/anatomy/histologyimages/t10.jpg" alt="lamerakk">
-<img src="http://medicine2.keele.ac.uk/anatomy/histologyimages/t8.jpg" alt="naarmeepiteel"></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SkinTumors-P5300131.JPG" alt="lamerakk"></p>
 
-<p><footer class="source"><a href="http://medicine2.keele.ac.uk/anatomy/histologyimages/epith.html">Pildid: medicine2.keele.ac.uk</a></footer></p>
+<p><img src="http://medicine2.keele.ac.uk/anatomy/histologyimages/t8.jpg" alt="naarmeepiteel"></p>
+
+<p><footer class="source">[Pildid: By LWozniak&amp;KWZielinski (Own work) [CC BY-SA 3.0 (<a href="http://creativecommons.org/licenses/by-sa/3.0">http://creativecommons.org/licenses/by-sa/3.0</a>) or GFDL (<a href="http://www.gnu.org/copyleft/fdl.html)">http://www.gnu.org/copyleft/fdl.html)</a>], via Wikimedia Commons</footer></p>
 
   </article>
   <!-- Presenter Notes -->
