@@ -11,8 +11,6 @@ mode        : selfcontained # {standalone, draft}
 
 
 
-
-
 ---.segue .dark .nobackground
 ## Sissejuhatus
 
