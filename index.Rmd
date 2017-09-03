@@ -11,10 +11,11 @@ layout: slide
 replace: slide.content
 ---
 
-<script src="https://use.fontawesome.com/e4ba4259a1.js"></script>
+<!-- <script src="https://use.fontawesome.com/e4ba4259a1.js"></script> -->
 
 {{{ slide.content }}}
 <footer class = 'logo'>
+  <img src = 'figure/font.png'></img>
 </footer>
 
 
