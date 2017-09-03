@@ -9,6 +9,8 @@ hitheme     : tomorrow      #
 mode        : selfcontained # {standalone, draft}
 ---
 
+<script src="https://use.fontawesome.com/e4ba4259a1.js"></script>
+
 <!-- Limit image width and height -->
 <style type="text/css">
 img {
