@@ -7,7 +7,7 @@ framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 mode        : selfcontained # {standalone, draft}
-
+mylogo      : figure/font.png
 --- .segue .dark .nobackground
 
 ## Sissejuhatus
