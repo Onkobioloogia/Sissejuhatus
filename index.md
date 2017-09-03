@@ -246,27 +246,6 @@ Alfalfa sprouts | canavaninec | 15 mg/g
 Burnt materialsd | large number | varies
 Coffee | caffeic acid  | 11.6 mg/g
 
-
-<!-- ---&twocol -->
-<!-- ## Diagnostika ja teraapia kättesaadavus -->
-
-<!-- ***=left -->
-
-<!-- - Tingituna piiratud juurdepääsust diagnostikale ja ravile on madala ja keskmise sissetulekuga maades vähisurmade suhe intsidentsi umbes 20% kõrgem kui arenenud maades. -->
-<!-- - Piiratud juurdepääs on tingitud nii kõrgest hinnast, ebapiisavast infrastruktuurist kui personali puudusest. -->
-<!-- - Radioteraapia on näidustatud umbes 60% vähipatsientidest, siiski pole see kättesaadav arengumaades elavatele 82% maailma rahvastikule. -->
-
-<!-- ***=right -->
-
-<!-- # 30 Aafrika ja Kagu-Aasia riigis puudub radioteraapia teenus täielikult -->
-
-<!-- <img src="http://www.cancer.org/acs/groups/content/@editorial/documents/image/acspc-044689.png" style="width:480px;"/> -->
-
-<!-- <footer class="source">Allikas:  -->
-<!-- <a href="http://www.cancer.org/research/acsresearchupdates/more/three-top-cancer-challenges-of-the-21st-century?utm_source=MB_Twit&utm_medium=Social&utm_content=Feb03_A&utm_campaign=Feb_2015"> www.cancer.org. -->
-<!-- </a> -->
-<!-- </footer> -->
-
 ---
 ## Kasvajatesse haigestumus Eestis
 
@@ -299,7 +278,7 @@ Andmed: [Vähiregister, TAI](http://www.tai.ee/et/tegevused/registrid/vahiregist
 # Sõltuvalt vähitüübist võib elulemus varieeruda 10% kuni 90% 
 
 <div style='text-align: center;'>
-    <img height='560' src='figure/331_1540a_F1.jpg' />
+    <img height='480' src='figure/331_1540a_F1.jpg' />
 </div>
 
 <!-- ![suremus](figure/331_1540a_F1.jpg) -->
