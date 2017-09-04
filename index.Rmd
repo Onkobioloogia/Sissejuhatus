@@ -120,23 +120,9 @@ Kohaviit: 616/W-46
 <footer class="source">Pilt: internet.
 </footer>
 
----&twocol
-## Vähki põhjustavad kartsinogeenid
-
-***=left
-
-- 1775. a. identifitseeris kirurg sir Percivall Pott korstnapühkijatel nõe ja munandikasvajate vahelise seose - keskkonnas leiduvad kartsinogeenid võivad põhjustada vähki.
-
-***=right
-
-<img src="http://images.medicaldaily.com/sites/medicaldaily.com/files/styles/full_breakpoints_theme_medicaldaily_desktop_1x/public/2015/06/24/chimney-sweeps.JPG" style="width:400px">
-
-<footer class="source">Pilt: Korstnapühkijad, hilised 1800-ndad. Wikimedia.
-</footer>
-
 --- .segue .dark .nobackground
 
-## Tänapäev
+## Tänapäev: vähiriski mõjutab elustiil
 
 ---
 ## Vähiriski mõjutab elustiil
@@ -215,8 +201,13 @@ Diet (low in vegetables, high in nitrates, salt) (sites: e.g., stomach, esophagu
 Diet (high fat, lower fiber, broiled/fried foods) (sites: e.g., bowel, pancreas, prostate, breast) | 37
 Tobacco and alcohol (sites: mouth, throat) | 2
 
----
+--- .segue .dark .nobackground
+
 ## Kartsinogeenina toimivad nii füüsilised kui keemised mutageenid
+
+---
+
+## Teada-tuntud kartsinogeenid
 
 - **röntgenkiired**
 - **benseen** (ägedad leukeemiad)
