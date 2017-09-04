@@ -143,9 +143,8 @@ Kohaviit: 616/W-46
 
 - Ülekaalulisus ja rasvumine on maailmas kasvav probleem.
 - Ülekaalulisus ja rasvumine suurendab vähiriski mitmete vähitüüpide puhul: rinna-, soole-, neeru-, endomeetriumi-, söögitoru- ja pankrease vähk. 
-- Vähiteraapias on ülekaalulisus ja rasvumine seotud suurenenud vähi tagasi tuleku ja surma riskiga. 
+- Vähiteraapias on ülekaalulisus ja rasvumine seotud suurenenud vähi tagasituleku ja surma riskiga. 
 - **Füüsiline aktiivsus ja tervislik toit** vähendavad riski oluliselt.
-
 
 <footer class="source">Allikas: 
 <a href="http://www.cancer.org/research/acsresearchupdates/more/three-top-cancer-challenges-of-the-21st-century?utm_source=MB_Twit&utm_medium=Social&utm_content=Feb03_A&utm_campaign=Feb_2015"> www.cancer.org.
@@ -155,10 +154,10 @@ Kohaviit: 616/W-46
 ---
 ## Kuidas siis ülekaalulisus on vähiga seotud?
 
-- Immuunsüsteemi tervis/funktsioneerimine, põletik
-- Teatud hormoonide tase organismis, nagu insulin ja östrogeen
-- Rakkude jagunemist reguleerivad kasvufaktorid -- _insulin-like growth factor-1_ (IGF-1)
-- Valgud mis mõjutavad hormoonide toimet organismile, nagu _sex hormone-binding globulin_
+- Immuunsüsteemi tervis/funktsioneerimine, põletik.
+- Teatud hormoonide tase organismis, nagu insulin ja östrogeen.
+- Rakkude jagunemist reguleerivad kasvufaktorid -- _insulin-like growth factor-1_ (IGF-1).
+- Valgud mis mõjutavad hormoonide toimet organismile, nagu _sex hormone-binding globulin_.
 
 ---
 ## Kasvajarisk on seotud elustiiliga
