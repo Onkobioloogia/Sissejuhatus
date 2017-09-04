@@ -13,9 +13,11 @@ mode        : selfcontained
 - Mõiste **vähk (tuumor, pahaloomuline kasvaja, neoplasm)** tähistab suurt hulka erinevaid haiguseid (NCI ~160 olulisemat) mis võivad tekkida kõigis keha kudedes. 
 - Vähi tunnuseks on **ebanormaalsete rakkude kasv koes väljapoole nende normaalseid piire**. Kõrvalolevate kudede invasioon ja levik teistesse organitesse ehk metastaseerumine.  
 
-> Metastaasid on ka enamuse kasvajatest tingitud surmade põhjustajaks.
+> Metastaasid on enamuse kasvajatest tingitud surmade põhjustajaks
 
+<footer>
 [A to Z List of Cancers](http://www.cancer.gov/cancertopics/types/alphalist)
+</footer>
 
 ---
 ## Vähk võib lõppeda surmaga
