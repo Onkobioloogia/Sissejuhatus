@@ -15,7 +15,7 @@ mode        : selfcontained
 
 > Metastaasid on enamuse kasvajatest tingitud surmade põhjustajaks
 
-<footer>
+<footer class="source">
 [A to Z List of Cancers](http://www.cancer.gov/cancertopics/types/alphalist)
 </footer>
 
